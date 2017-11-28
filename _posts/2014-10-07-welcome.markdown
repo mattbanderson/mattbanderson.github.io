@@ -1,0 +1,8 @@
+---
+
+title: Welcome!
+featured: true
+date: '2014-10-07 02:11:23'
+---
+
+Welcome to my blog! It took a while, but I finally decided to take the plunge and start writing things on the Internet, mostly about stuff listed in my [about me](/about/) page. Thanks for stopping by!
