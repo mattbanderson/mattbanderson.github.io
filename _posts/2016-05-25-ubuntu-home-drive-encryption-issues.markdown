@@ -6,7 +6,7 @@ date: '2016-05-25 02:44:10'
 
 I run Ubuntu 16.04 on my Dell XPS 13 9350 (not the Developer Edition). Everything mostly just works, but I have run into some annoying problems relating to home drive encryption. I first experienced them in Ubuntu 15.10; unfortunately, they were not (yet) fixed in 16.04 either.
 
-#Disk Encryption Password Prompt
+# Disk Encryption Password Prompt
 
 When I would boot, I would be greeted with the following message:
 
@@ -16,13 +16,13 @@ Being relatively new to Ubuntu, I thought this was normal behavior and I needed 
 
 I dutifully entered my password each time I booted; however, once I accidentally pressed the enter key before I entered my password. To my surprise, Ubuntu accepted this and booted normally. After some research on the topic, it turns out this is a [known issue](https://bugs.launchpad.net/ubuntu/+source/ecryptfs-utils/+bug/1447282), which will hopefully be fixed soon. There is a [workaround](http://askubuntu.com/a/616717), but with a fix on the way, I decided to live with the extra keystroke.
 
-#Shutdown/reboot Problems
+# Shutdown/reboot Problems
 
 While the password prompt was mildly annoying, it was pretty easy to just skip past it. The second problem (or really set of problems) I discovered was more frustrating as it affected a fairly typical workflow: shutdown and reboot.
 
 I began to notice the Ubuntu UI options to reboot or shutdown my laptop would stop working; i.e. nothing would happen when selected. Eventually I realized this would only occur if I had previously suspended my laptop. If I booted from a powered off state and rebooted or shut down with no suspend in between, everything worked fine.
 
-My first attempt at a solution was to shutdown using the terminal; however issuing the command 
+My first attempt at a solution was to shutdown using the terminal; however issuing the command
 
     sudo poweroff
 
@@ -30,13 +30,13 @@ would result in the following error message:
 
     Failed to start poweroff.target: Transaction is destructive.
 
-That didn't sound good. And now I couldn't power off, either. The only way I could actually power off my laptop (other than holding down the power button) was to run 
+That didn't sound good. And now I couldn't power off, either. The only way I could actually power off my laptop (other than holding down the power button) was to run
 
     sudo poweroff -f
 
 Turns out this is another [known issue](https://bugs.launchpad.net/ubuntu/+source/systemd/+bug/1441253); the steps to reproduce match mine almost exactly. But it gets worse: the issue has a status of "Won't Fix".
 
-#The Workaround
+# The Workaround
 
 For a while, I accepted my lot in life and issued the force shutdown command from the terminal whenever I wanted to power off.
 
@@ -77,19 +77,11 @@ Since the workaround involves modifying partitions, I first backed up my home dr
 
     sudo /sbin/mkswap /dev/sda3
     sudo swapon /dev/sda3
- 
+
 6) Replace /dev/mapper/cryptswap1 with /dev/sda3 in fstab
 
     sudo vim /etc/fstab
 
-#Everything Works!
+# Everything Works!
 
 After rebooting, I was no longer prompted to enter a cryptswap password. But even better, I could now reboot and shutdown normally! Apparently, the two issues are related in some way. I'm not smart enough to figure out how, but I'll take it!
-
-
-
-
-
-
-
-
