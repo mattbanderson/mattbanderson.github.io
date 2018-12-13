@@ -4,7 +4,7 @@ title: LTS Dayton Has a New Home
 date: '2018-09-21 19:00:00'
 ---
 
-A few years ago, I attended a presentation by the Miami Valley Regional Planning Commission ([MVRPC](https://www.mvrpc.org/)) at [The Adventure Summit](http://theadventuresummit.com/) about how they had adapted a Level of Traffic Stress (LTS) analysis to the 2015 Update [2015 Update](https://mvrpc.org/bike-plan-update) to the MVPRC Bikeways Plan.
+A few years ago, I attended a presentation by the Miami Valley Regional Planning Commission ([MVRPC](https://www.mvrpc.org/)) at [The Adventure Summit](http://theadventuresummit.com/) about how they had adapted a Level of Traffic Stress (LTS) analysis to the [2015 Update](https://mvrpc.org/bike-plan-update) to the MVPRC Bikeways Plan.
 
 The presentation piqued my interest, and I followed up with the speaker afterwards to obtain a copy of the data used by MVRPC for the LTS analysis. I transformed the data into a web app that was hosted on Azure. The app has always been near and dear to my heart, both because I do a fair bit of bicycle commuting myself and because I gave a [talk](/assets/ppt/lts-dayton.ppt) about it a local [meetup](https://meetup.com/daytondv) that lead directly to my current role at [AIS](https://www.appliedis.com) build geospatial web apps. For more info on the app and the data behind it, check out the [README](/lts-dayton).
 
