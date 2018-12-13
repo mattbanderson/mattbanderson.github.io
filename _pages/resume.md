@@ -7,4 +7,6 @@ I am an experienced software engineer specializing in full-stack web development
 
 View/download: [PDF](/assets/Matt-Anderson-Resume.pdf)
 
+Printer friendly: [Printable PDF](/assets/Matt-Anderson-Resume-Printable.pdf)
+
 I can be contacted via email using the Email link in the sidebar.
