@@ -20,9 +20,9 @@ The following steps describe how to configure a VirtualBox Windows 10 VM to use 
 4. In the Settings dialog, go to Ports, then USB
     1. Ensure the "Enable USB Controller" box is checked
     2. Click the USB icon with the plus (+) icon on the right-hand side of the "USB Device Filters" box
-	<img src="../assets/img/smart-card/add-card-reader.png" width="752" height="378" alt="Add new USB filter" />
     3. A list of attached devices will appear
     4. Select the smart card reader from the list
+	<img src="../assets/img/smart-card/add-card-reader.png" width="752" height="378" alt="Add new USB filter" />
     5. The default configuration should be fine
     6. Choose OK, and the card reader will added to the list of USB device filters 
 	<img src="../assets/img/smart-card/card-reader-added.png" width="752" height="378" alt="USB device filter added" />
