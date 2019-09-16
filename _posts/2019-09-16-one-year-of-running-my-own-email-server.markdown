@@ -4,9 +4,13 @@ title: One Year of Running My Own Email Server
 date: '2019-09-16 18:45:00'
 ---
 
-# Farewell My Sweet Inbox Prince
+# Farewell Inbox
 
-I _loved_ Inbox by Gmail. The ease of setting reminders about emails to get them out my inbox, the categorization and grouping of messages, the shortcuts, etc. I migrated to it from regular Gmail as soon as it was available and never looked back. That is, until I learned that Google was going to deprecate Inbox and migrate all users back to Gmail. Granted, many of Inbox's features had been ported to Gmail. But having been through the deprecation of Google Reader and constantly hearing about Hangouts going away, I was tired of Google killing off services I used and decided it was time to take matters into my own hands. Inspired by a thread on [Hacker News](https://news.ycombinator.com) (which one, I do not recall), I decided to try running my own email server. Worst case scenario, I come crawling back to Gmail in a few weeks with a newfound apprecation for the complexities of email.
+I _loved_ [Inbox by Gmail](https://en.wikipedia.org/wiki/Inbox_by_Gmail). The ease of setting reminders about emails to get them out my inbox, the categorization and grouping of messages, the shortcuts, etc. I migrated to it from regular Gmail as soon as it was available and never looked back. 
+
+That is, until I learned that Google was going to deprecate Inbox and migrate all users back to Gmail. Granted, many of Inbox's features had been ported to Gmail. But having been through the deprecation of Google Reader and constantly hearing about Hangouts going away, I was tired of Google killing off services I used and decided it was time to take matters into my own hands. 
+
+Inspired by a thread on [Hacker News](https://news.ycombinator.com) (which one, I do not recall), I decided to try running my own email server. Worst case scenario, I come crawling back to Gmail in a few weeks with a newfound apprecation for the complexities of email.
 
 # The "E" in Email Actually Stands for Easy
 
@@ -24,7 +28,7 @@ Since I am lazy, I was not going to commit to running my hardware. Cloud servers
 * Open ports for email as needed (e.g. 25, 110, 143, 465, 587, 993, and/or 995)
 * Restrict SSH connections to my IP address 
 
-This setup costs approximately $10/month.
+This setup costs approximately $10/month on Azure.
 
 ## Get Your Own Domain
 
@@ -71,7 +75,13 @@ The `POSTFIX_MESSAGE_SIZE_LIMIT` environment variable can be set to increase the
 In the dovecot config, it may be useful to increase the `mail_max_userip_connections` value if you find connections to your server from client devices/applications are timing out or being rejected.
 
 If you have issues sending test messages to yourself, remove `$mydomain` from the default the postfix configuration 
-`mydestination = $mydomain, localhost.$mydomain, localhost` so that it becomes `mydestination = localhost.$mydomain, localhost` 
+
+```mydestination = $mydomain, localhost.$mydomain, localhost``` 
+
+so that it becomes 
+
+```mydestination = localhost.$mydomain, localhost```
+
 per this [StackExchange answer](https://serverfault.com/questions/179419/postfix-recipient-address-rejected-user-unknown-in-local-recipient-table).
 
 
@@ -94,7 +104,11 @@ The SMTP relay service should have instructions for how to configure DNS records
 
 ### The "From" Address Looks Ugly
 
-If your "From" address looks odd or excessively lengthy (e.g. `sent by me@mail.yourdomain.tld on behalf of me@yourdomain.tld` or something to that effect) in some mail clients, override the postfix `masquerade_domains` setting to rewrite the sender prior to sending email. In `postfix/main.cf`, set `masquerade_domains = mail.yourdomain.tld yourdomain.tld` to send email as `yourdomain.tld` instead of `mail.yourdomain.tld`.
+If your "From" address looks odd or excessively lengthy (e.g. `sent by me@mail.yourdomain.tld on behalf of me@yourdomain.tld` or something to that effect) in some mail clients, override the postfix `masquerade_domains` setting to rewrite the sender prior to sending email. In `postfix/main.cf`, set 
+
+```masquerade_domains = mail.yourdomain.tld yourdomain.tld``` 
+
+to send email as `yourdomain.tld` instead of `mail.yourdomain.tld`.
 
 ## Configuring SSL
 
