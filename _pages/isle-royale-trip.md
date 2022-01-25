@@ -72,6 +72,8 @@ $60 season pass covers 1 person + 3 guests for a calendar year.
 Tentative route:
 Rock Harbor -> Lane Cove -> McCargoe Cove -> Moskey Basin -> Three Mile -> Rock Harbor
 
+![Isle Royale map](https://i1.wp.com/www.liquidadventuring.com/wp-content/uploads/2015/04/Isle-Royale-trail-map.jpg)
+
 This could be either a 4-5 day trip, as Three Mile Campground could be skipped by going directly from Moskey Basin to Rock Harbor. 
 It also leaves the option to take a zero day (i.e. no hiking day).
 If possible, we will take a water taxi across Tobin Harbor to go from Rock Harbor to Lane Cove via Lookout Louise and Greenstone Trails. 
