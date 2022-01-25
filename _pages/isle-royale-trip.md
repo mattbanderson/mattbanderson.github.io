@@ -203,7 +203,10 @@ Put cashews, rolled oats, salt, and cinnamon in a food processor. Chop until fin
 * Salt/pepper/red pepper flakes to taste
 * 0.5 oz olive oil (if desired for extra calories)
 
+Boil 10-12 oz of water on stove. Add beans, rice, and seasoning. Simmer for 60 seconds. Dice cheese and stir in. Add fritos and any additional ingredients or spices.
+
 ## Additional Information
 
 * [Trail Tested](https://www.amazon.com/dp/1493052098/)
+* Andrew Skurka's [recipes](https://andrewskurka.com/section/food-nutrition/)
 * [https://www.reddit.com/r/ultralight](https://www.reddit.com/r/ultralight)
