@@ -79,7 +79,7 @@ Matt is planning to purchase a season pass, which will cover the rest of the gro
 Tentative route: [Feldtmann Loop](https://www.nps.gov/tripideas/backpack-the-feldtmann-loop.htm)
 Windigo -> Island Mine -> Siskiwit Bay -> Feldtmann Lake -> Windigo (or the reverse)
 
-![Feldtmann Loop map](http://www.isleroyale.info/images_large/img_trip_packages/Feldtmann%20Loop.png)
+![Feldtmann Loop map](https://gearsignal.com/wp-content/uploads/2018/09/feldtmann-loop-small-min-1.jpg)
 
 This will be a 4-day, 3-night trip.
 Depending on conditions when we arrive on Monday, we will determine direction we will go around the loop.
