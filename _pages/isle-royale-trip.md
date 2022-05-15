@@ -5,19 +5,33 @@ permalink: /isle-royale-trip/
 
 ## Dates
 
-Targeting late August 2022.
-Plan on at least a week: 4-5 days on Isle Royale and 1 day of travel before and after.
+Departing Sunday, August 21, 2022, returning Friday, August 26, 2022.
+Monday, August 22 to Thursday, August 25 on Isle Royale.
 
 ## Transportation 
 
 ### To/From Houghton/Copper Harbor
 
 Approximately 8.5 hours (555 miles) from Detroit to Houghton.
-Another 1 hour (45 miles) from Houghton to Copper Harbor.
+It may make sense to split up the trip in one or both directions in Cheboygan.
 
-[https://goo.gl/maps/kczaziBxjejJRpU79](https://goo.gl/maps/kczaziBxjejJRpU79)
+[https://goo.gl/maps/LzHz1Wz42JNZ9URn9](https://goo.gl/maps/LzHz1Wz42JNZ9URn9)
 
 ### To/From Isle Royale
+
+We will be taking a seaplane to and from Isle Royale.
+Ferry information remains below for posterity.
+
+#### Seaplane
+
+Our seaplane departs from Houghton at 2 PM on Monday, August 22, 2022.
+The flight takes approximately 45 minutes to fly to Windigo on the southwestern end of Isle Royale.
+The price is $360 round trip.
+45 lbs. gear weight limit per person.
+No flammables (e.g. stove fuel) or firearms.
+Our return flight is 5 PM on Thursday, August 25, 2022 from Windigo.
+
+[https://www.isleroyaleseaplanes.com/](https://www.isleroyaleseaplanes.com/)
 
 #### Ferry
 
@@ -44,50 +58,41 @@ Departs from Rock Harbor in the early afternoon.
 
 [https://www.nps.gov/isro/planyourvisit/isle-royale-queen-iv.htm](https://www.nps.gov/isro/planyourvisit/isle-royale-queen-iv.htm)
 
-#### Seaplane
-
-Seaplanes depart in the morning from Houghton.
-~45 minutes one-way, $342 round trip.
-Has a ~50 lbs. weight limit per person.
-No flammables (e.g. stove fuel)
-
-[https://www.isleroyaleseaplanes.com/](https://www.isleroyaleseaplanes.com/)
 
 ## Paperwork
 
 ### Entrance Fees
 
-$7 per person per day.
-$60 season pass covers 1 person + 3 guests for a calendar year.
+Standard entrance fee is $7 per person per day.
+$60 national parks season pass covers 1 person + 3 guests for a calendar year.
+Matt is planning to purchase a season pass, which will cover the rest of the group.
 
 ### Permits
 
-* Must obtain overnight permit at Rock Harbor visitor center
+* Must obtain overnight permit at Windigo or Rock Harbor visitor center
 * If traveling on Ranger III ferry, can obtain permit from ranger on board
 * If group has 7-10 people, need a special group camping permit
 * Groups larger than 10 must split up
 
 ## Route
 
-Tentative route:
-Rock Harbor -> Lane Cove -> McCargoe Cove -> Moskey Basin -> Three Mile -> Rock Harbor
+Tentative route: [Feldtmann Loop](https://www.nps.gov/tripideas/backpack-the-feldtmann-loop.htm)
+Windigo -> Island Mine -> Siskiwit Bay -> Feldtmann Lake -> Windigo (or the reverse)
 
-![Isle Royale map](https://i1.wp.com/www.liquidadventuring.com/wp-content/uploads/2015/04/Isle-Royale-trail-map.jpg)
+![Feldtmann Loop map](http://www.isleroyale.info/images_large/img_trip_packages/Feldtmann%20Loop.png)
 
-This could be either a 4-5 day trip, as Three Mile Campground could be skipped by going directly from Moskey Basin to Rock Harbor. 
-It also leaves the option to take a zero day (i.e. no hiking day).
-If possible, we will take a water taxi across Tobin Harbor to go from Rock Harbor to Lane Cove via Lookout Louise and Greenstone Trails. 
-If not available, we will go to Lane Cove via Mt. Franklin trail.
+This will be a 4-day, 3-night trip.
+Depending on conditions when we arrive on Monday, we will determine direction we will go around the loop.
+We will also need to decide if we have time after arriving around 3 PM to make it to the first campsite or if we camp the first night near Windigo and skip the Island Mine campsite, which is generally considered to be the least interesting site on our route.
 
-| Day |     | Section                                     | Miles | Shelters |
-|-----|-----|---------------------------------------------|-------|----------|
-|  1a | Tue | Rock Harbor to Lane Cove via Lookout Louise |  8.5  |    0     |
-|  1b | Tue | Rock Harbor to Lane Cove via Three Mile     |  6.9  |    0     |     
-|  2  | Wed | Lane Cove to McCargoe Cove                  | 13.0  |    6     |
-|  3  | Thu | McCargoe Cove to Moskey Basin               |  8.4  |    6     |
-|  4  | Fri | Moskey Basin to Three Mile                  |  8.3  |    8     |
-|  5  | Sat | Three Mile to Rock Harbor                   |  2.7  |    9     |
-|     |     | TOTAL                                       | 40.9  |          |
+
+| Day | Section                                     | Miles | Shelters |
+|-----|---------------------------------------------|-------|----------|
+|  1  | Windigo to Feldtmann Lake                   |  8.5  |    ?     |
+|  2  | Feldtmann Lake to Siskiwit Bay              | 10.3  |    ?     |     
+|  3  | Siskiwit Bay to Island Mine                 |  4.3  |    ?     |
+|  4  | Island Mine to Windigo                      |  6.5  |    ?     |
+|     | TOTAL                                       | 29.6  |          |
 
 
 ## Gear
