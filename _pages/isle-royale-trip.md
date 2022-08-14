@@ -3,6 +3,10 @@ title: Isle Royale Trip
 permalink: /isle-royale-trip/
 ---
 
+## Weather
+
+[Weather forecast for Isle Royale](https://forecast.weather.gov/MapClick.php?lat=48.00016000000005&lon=-88.83368999999999#.Yt2hXLbMJaQ)
+
 ## Dates
 
 Departing Sunday, August 21, 2022, returning Friday, August 26, 2022.
@@ -10,12 +14,15 @@ Monday, August 22 to Thursday, August 25 on Isle Royale.
 
 ## Transportation 
 
-### To/From Houghton/Copper Harbor
+### To/From Houghton
 
-Approximately 8.5 hours (555 miles) from Detroit to Houghton.
-It may make sense to split up the trip in one or both directions in Cheboygan.
+We will travel from the Detroit area to the Cheboygan area on Sunday, August 21. This will take about 4 hours.
 
-[https://goo.gl/maps/LzHz1Wz42JNZ9URn9](https://goo.gl/maps/LzHz1Wz42JNZ9URn9)
+[Detroit to Cheboygan](https://goo.gl/maps/pfMqhZC2NwffRsJ59)
+
+We will travel from the Cheboygan area to the seaplane dock in Houghton on Monday, August 22. It looks like this will take a little over 5 hours. We should plan to leave around 7 AM to ensure we get there in time and to leave some time for lunch.
+
+[Cheboygan to Houghton](https://goo.gl/maps/Q5WPExqCHmxVjjg29)
 
 ### To/From Isle Royale
 
@@ -25,6 +32,7 @@ Ferry information remains below for posterity.
 #### Seaplane
 
 Our seaplane departs from Houghton at 2 PM on Monday, August 22, 2022.
+We must arrive 45 minutes prior to departure.
 The flight takes approximately 45 minutes to fly to Windigo on the southwestern end of Isle Royale.
 The price is $360 round trip.
 45 lbs. gear weight limit per person.
@@ -65,7 +73,7 @@ Departs from Rock Harbor in the early afternoon.
 
 Standard entrance fee is $7 per person per day.
 $60 national parks season pass covers 1 person + 3 guests for a calendar year.
-Matt is planning to purchase a season pass, which will cover the rest of the group.
+Matt has purchased a season pass, which will cover the rest of the group.
 
 ### Permits
 
