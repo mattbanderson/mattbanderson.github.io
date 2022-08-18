@@ -3,6 +3,10 @@ title: Isle Royale Trip
 permalink: /isle-royale-trip/
 ---
 
+## Track Our Progress
+
+I will check in periodically with our [GPS coordinates from the trail](https://share.garmin.com/share/mattbanderson).
+
 ## Weather
 
 [Weather forecast for Isle Royale](https://forecast.weather.gov/MapClick.php?lat=48.00016000000005&lon=-88.83368999999999#.Yt2hXLbMJaQ)
