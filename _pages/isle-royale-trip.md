@@ -91,7 +91,7 @@ Matt has purchased a season pass, which will cover the rest of the group.
 Tentative route: [Feldtmann Loop](https://www.nps.gov/tripideas/backpack-the-feldtmann-loop.htm)
 Windigo -> Island Mine -> Siskiwit Bay -> Feldtmann Lake -> Windigo (or the reverse)
 
-![Feldtmann Loop map](https://gearsignal.com/wp-content/uploads/2018/09/feldtmann-loop-small-min-1.jpg)
+![Feldtmann Loop map](https://gearsignal.com/wp-content/uploads/2018/09/feldtmann-lake.jpg)
 
 This will be a 4-day, 3-night trip.
 Depending on conditions when we arrive on Monday, we will determine direction we will go around the loop.
@@ -100,10 +100,10 @@ We will also need to decide if we have time after arriving around 3 PM to make i
 
 | Day | Section                                     | Miles | Shelters |
 |-----|---------------------------------------------|-------|----------|
-|  1  | Windigo to Feldtmann Lake                   |  8.5  |    ?     |
-|  2  | Feldtmann Lake to Siskiwit Bay              | 10.3  |    ?     |     
-|  3  | Siskiwit Bay to Island Mine                 |  4.3  |    ?     |
-|  4  | Island Mine to Windigo                      |  6.5  |    ?     |
+|  1  | Windigo to Island Mine                      |  6.5  |    0     |
+|  2  | Island Mine to Siskiwit Bay                 |  4.3  |    2     |
+|  3  | Siskiwit Bay to Feldtmann Lake              | 10.3  |    0     | 
+|  4  | Feldtmann Lake to Windigo                   |  8.5  |          |
 |     | TOTAL                                       | 29.6  |          |
 
 
