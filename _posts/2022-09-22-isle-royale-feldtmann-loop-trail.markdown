@@ -21,7 +21,7 @@ I have a decent amount of outdoor and hiking experience, but nothing especially 
 
 The [r/ultralight](https://www.reddit.com/r/ultralight) subreddit was incredibly valuable for helping to plan the right gear and food to bring. I also relied heavily on Jim DuFresne's excellent *[Isle Royale: Foot Trails and Water Routes](https://www.michigantrailmaps.com/product/isle-royale-national-park-foot-trails-water-routes/)* to plan our route.
 
-I had initially sketched out a loop on the other end of the island starting and ending in Rock Harbor. I ultimately decided on the Feldtmann Loop to shave a day off the trip. It ended up working out well because at least one of the campgrounds my original route ended up being closed due a [fire](https://www.nps.gov/isro/planyourvisit/mt-franklin-fire-2022.htm) that occurred two weeks before our trip.
+I had initially sketched out a loop on the other end of the island starting and ending in Rock Harbor. I ultimately decided on the Feldtmann Loop to shave a day off the trip. It ended up working out well because at least one of the campgrounds on my original route ended up being closed due a [fire](https://www.nps.gov/isro/planyourvisit/mt-franklin-fire-2022.htm) that occurred two weeks before our trip.
 
 For more details about the trip plan, see [this post](https://mattbanderson.com/isle-royale-trip/). 
 
@@ -35,27 +35,28 @@ Four of us made the trip: me, my brother, and two friends. We drove up part of t
 
 # Day 1
 
-We arrived about an hour early for our flight ate some lunch at the picnic tables at the dock. The seaplane flight from Hancock was very smooth, and I got to fly co-pilot on the way out. We left a few minutes early and were in Windigo by 2:30 PM. A generous pair of hikers getting ready to depart gave us a full fuel canister, so that was one less thing to worry about before hitting the trail.
+We arrived about an hour early for our flight and ate some lunch at the picnic tables at the dock. The seaplane flight from Hancock was very smooth, and I got to fly co-pilot on the way out. We left a few minutes early and were in Windigo by 2:30 PM. A generous pair of hikers getting ready to depart gave us a full fuel canister, so that was one less thing to worry about before hitting the trail.
 
 ![Isle Royale National Park Windigo sign](https://i.imgur.com/GDNK8wP.jpg)
+*Welcome to Windigo!*
 
 We took a little bit of time checking out the Windigo visitor center and store, filling our water bottles from the potable water spigot (near the flagpole down by the dock), and completing our self-permit.
 
-I had left open the option that if we were delayed or the weather was poor when we arrived that we could stay the first night at the Washington Creek campground next to Windigo. Havnig arrived early and With the sun shining, we all agreed we would hit the Greenstone Ridge trail and head for the Island Mine campsite (~7 miles).
+I had left open the option that if we were delayed or the weather was poor when we arrived that we could stay the first night at the Washington Creek campground next to Windigo. Having arrived early with the sun shining, we all agreed we would hit the Greenstone Ridge trail and head for the Island Mine campsite (~7 miles).
 
 We were not on the trail for more than a few minutes before we saw the first patch of ripe thimbleberries. Thimbleberry bushes can be found nearly everywhere on the island and typically ripen in August. They practically fall right off the bush and are absolutely delicious!
 
 ![Ripe thimbleberries](https://i.imgur.com/6IEEWIb.jpg)
 *Thimbleberries!*
 
-The trail was easy to follow but I found it surprising that there were no blazes marking the trail itself. All trail intersections were clearing marked. The trail quickly climbed up the Greenstone Ridge, but this section of the ridge is mostly tree-covered and did not offer much in the way of views. This was definitely the least interesting section of trail, as it offered little in the way of views. 
+The trail was easy to follow but I found it surprising that there were no blazes marking the trail itself. All trail intersections were clearing marked. The trail quickly climbed up the Greenstone Ridge, but this section of the ridge is mostly tree-covered. This was definitely the least interesting section of trail, and it offered little in the way of views besides the surrounding forest. 
 
-The sky gradually became more overcast and some light rain fell at various points. We kept a leisurely pace, stopping for quick breaks every 45 minutes or so. We reached the junction to head towards Island Mine camp around 7 PM and were at the campground by 7:30 PM. 
+The sky gradually became more overcast and some light rain fell at various points. We kept a leisurely pace, stopping for quick breaks every 45 minutes or so. We reached the junction to head towards Island Mine camp around 7:00 PM and were at the campground by 7:30 PM. 
 
 ![Trail intersection sign](https://i.imgur.com/WwqUvmb.jpg)
 *Marker at trail intersection*
 
-We were the second or third group into camp, but it filled up quickly after we arrived. After cooking dinner and setting up our tents, we headed down to check out the water source. Island Mine is the only campsite not on an inland lake, bay or Lake Superior, and it relies on a small stream for water. The water was mostly stagnant, but there were a few drops over rocks where flowing water could be found. The flexibilty of my CNOC Vecto bladder came in very handy to position the lip of the bladder to be able to catch moving water. Aside from looking a bit sketchy, it tasted fine and no one suffered any ill effects.
+We were the second or third group into camp, but it filled up quickly after we arrived. After cooking dinner and setting up our tents, we headed down to check out the water source. Island Mine is the only campsite not on an inland lake, bay or Lake Superior, and it relies on a small stream for water. The water was mostly stagnant, but there were a few spots over rocks where flowing water could be found. The flexibilty of my CNOC Vecto bladder came in very handy to position the lip of the bladder to be able to catch moving water. Aside from looking a bit sketchy, it tasted fine and no one suffered any ill effects.
 
 ![Island Mine campsite](https://i.imgur.com/xOA8shm.jpg)
 *Setting up camp at Island Mine*
@@ -69,7 +70,7 @@ Along the way, we found the remains of a rusted steam engine, a large pile of ro
 ![Abandon steam engine](https://i.imgur.com/1KffE2m.jpg)
 *Abandoned steam engine along Island Mine trail*
 
-Once the trail reached Siskiwit Bay, the trail mostly followed the shoreline around the bay. We took several breaks, including a stop for 15-20 minutes to lounge in the sun on rocks along the shoreline just across Senter Point. We could just make out the Siskiwit Bay dock and campground across the bay.
+Once we reached Siskiwit Bay, the trail mostly followed the shoreline around the bay. We took several breaks, including a stop for 15-20 minutes to lounge in the sun on rocks along the shoreline just across Senter Point. We could barely make out the Siskiwit Bay dock and campground across the bay.
 
 ![Siskiwit Bay shoreline](https://i.imgur.com/TkLv3AA.jpg)
 *Following the shoreline along Siskiwit Bay*
@@ -85,7 +86,7 @@ We continued following the trail along the red sand beach where we saw moose and
 ![Animal footprint on beach](https://i.imgur.com/s3bxSWU.jpg)
 *Wolf print? Pretty sure that's a wolf print*
 
-We made it to camp to find one of the two shelters available. We dropped our packs to claim it while we checked out the other sites. Sites 1-3 are the best, as they offer some limited views of the water, whereas the others are further back in the trees. We decided to stick with the shelter as not needing to pitch our tents would help us pack faster and hit the trail earlier the next morning, which would be our longest day on the trail (10.5 miles). It turned out we made just in time to get the shelter as another group arrived barely 15 minutes after we did.(
+We made it to camp to find one of the two shelters available. We dropped our packs to claim it while we checked out the other sites. Sites 1-3 are the best, as they offer some limited views of the water, whereas the others are further back in the trees. We decided to stick with the shelter as not needing to pitch our tents would help us pack faster and hit the trail earlier the next morning, which would be our longest hiking day (10.5 miles). It turned out we made it just in time to get the shelter as another group arrived only a few minutes after we did.
 
 ![Shelter at Siskiwit Bay campground](https://i.imgur.com/rNZb6zN.jpg)
 *Our gear outside the shelter at Siskiwit Bay*
@@ -98,9 +99,9 @@ We ate lunch at the shelter picnic table then headed down to the bay to go for a
 ![Siskiwit Bay dock and fire pit](https://i.imgur.com/pgsjaPi.jpg)
 *Siskiwit Bay dock and fire pit*
 
-Later in the afternoon, I chatted with another group that included hikers from Wisconsin and Washington state. Several picnic tables on the dock were covered with gear and provisions (and booze!), and we wondered when/if someone was going to show up to claim them. Eventually, three boats arrived by evening to anchor at the dock and fire up a grill. 
+Later in the afternoon, I chatted with another group that included hikers from Wisconsin and Washington state. Several picnic tables on the dock were covered with gear and provisions, and we wondered when/if someone was going to show up to claim them. Eventually, three boats arrived by evening to anchor at the dock and fire up a grill. 
 
-We all sat down on the dock at dusk to watch for moose and other wildlife, but only heard the occasional loon. Nevertheless, we were able to enjoy a sunset as the light faded and darkness fell over the bay. We were also entertained by listening in the boaters share stories and enjoy their provision, though to their credit they retired to bed like the rest of us by 10 PM.
+We all sat down on the dock at dusk to watch for moose and other wildlife, but only heard the occasional loon. Nevertheless, we were able to enjoy a sunset as the light faded and darkness fell over the bay. We were also entertained by listening to the boaters share stories and enjoy their provisions, though they retired to bed like the rest of us by 10 PM.
 
 ![Sunset at Siskiwit Bay](https://i.imgur.com/tv7pkak.jpg)
 *Sunset at Siskiwit Bay*
@@ -135,7 +136,7 @@ Around 1:30 we got back on the trail, descending from the fire tower through les
 ![Swamp along the trail](https://i.imgur.com/RWe6piu.jpg)
 *Swamp along the trail*
 
-Eventually we climbed back up the Feldtmann Ridge and were treated to amazing views of the Feldtmann Lake and the Big Siskiwit Swamp. We looked carefully but did not see any moose in the lake or clearings of the swamp. We headed down the ridge and made it into camp around 4:00 PM. 
+Eventually we climbed back up the Feldtmann Ridge and were treated to amazing views of the Feldtmann Lake and the Big Siskiwit Swamp in the interior. We looked carefully but did not see any moose in the lake or clearings. We headed down the ridge and made it into camp around 4:00 PM. 
 
 ![View from the Feldtmann Ridge toward the interior](https://i.imgur.com/CNrlhGu.jpg)
 *View from the Feldtmann Ridge toward the interior*
@@ -143,23 +144,23 @@ Eventually we climbed back up the Feldtmann Ridge and were treated to amazing vi
 ![View of Feldtmann Lake from the ridge](https://i.imgur.com/wohE1My.jpg)
 *View of Feldtmann Lake from the ridge*
 
-Again, we were the first group into camp and had our pick of campsites. Truthfully, all the campsites at Feldtmann Lake are great, with most of them either right on the lake or with clear views of the water. A strong wind was blowing in from the northeast off the lake, but we decided to take our chances with a campsite right on the shore. After setting up camp, eating dinner, and checking for moose, we took the side trail to Rainbow Cove on Lake Superior.
+We were the first group into camp and had our pick of campsites. Truthfully, all the campsites at Feldtmann Lake are great, with most of them either right on the lake or with clear views of the water. A strong wind was blowing in from the northeast off the lake, but we decided to take our chances with a campsite right on the shore. After setting up camp, eating dinner, and checking for moose, we took the side trail to Rainbow Cove on Lake Superior.
 
 ![Campsite at Feldtmann Lake](https://i.imgur.com/NbxrmKa.jpg)
 
-The upshot of the wide coming from the northeast was that the southwest-facing Rainbow Cove was incredibly calm. If it had been a bit earlier in the day or sunnier, I would have definitely hopped into Lake Superior. 
+The upshot of the wind coming from the northeast was that the southwest-facing Rainbow Cove was incredibly calm. If it had been a bit earlier in the day or sunnier, I would have definitely hopped into Lake Superior for another swim. 
 
 ![Rainbow Cove](https://i.imgur.com/3yJabGz.jpg)
 *Rainbow Cove*
 
-We spent a couple hours exploring the cove and then headed back to camp before sunset. We scanned the treeline intently looking for moose but did not see any. Just as it was almost completely dark, we did see some kind of aquatic mammal (maybe an otter?) chowing down on a dead fish close to shore. We finally called it a night around 10 PM. Not more than 5-10 minutes later, we heard very loud splashing just off shore and hustled out of our tents to investigate. Despite our best efforts of training our lights into the water, all we were able to make out was a dark shape (or maybe shapes?) and the reflection of two eyes looking back at us. It had to be a moose, but we had no conclusive proof.
+We spent a couple hours exploring the cove and then headed back to camp before sunset. We scanned the treeline intently looking for moose but did not see any. Just as it was almost completely dark, we did see some kind of aquatic mammal (maybe an otter?) chowing down on a dead fish close to shore. We finally called it a night around 10 PM. Not more than 5-10 minutes later, we heard very loud splashing just off shore and hustled out of our tents to investigate. Despite our best efforts to focus our lights out into the water, all we were able to make out was a dark shape (or maybe shapes?) and the reflection of eyes looking back at us. It had to be a moose, but we had no conclusive proof.
 
 ![Sunset at Feldtmann Lake](https://i.imgur.com/YFLlDvv.jpg)
 *Sunset at Feldtmann Lake*
 
 # Day 4
 
-Woke up again shortly after 7:00 AM to overcast skies. Two women staying at the next campsite over were up early filtering water and getting ready to hit the trail. Barely a few minutes after the left the shore to pack up, a bull moose walked out from the woods just past their camp into the lake. I gathered everyone from our camp to make sure they saw it, and soon what looked like the entire campground was silently assembled on the shore to watch the moose. Having never seen on in person before, I was fascinated that they swim out into deeper water and then submerge to eat seaweed from the bottom.
+Woke up again shortly after 7:00 AM to overcast skies. Two women staying at the next campsite over were up early filtering water and getting ready to hit the trail. Barely a few minutes after they left the shore to pack up, a bull moose walked out from the woods just past their camp into the lake. I gathered everyone from our camp to make sure they saw it, and soon what looked like the entire campground was silently assembled on the shore to watch the moose. Having never seen one in person before, I was fascinated that they swim out into deeper water and then submerge to eat seaweed from the bottom.
 
 ![Moose at Feldtmann Lake](https://i.imgur.com/ytKeROd.jpg)
 *Finally saw a moose!*
@@ -168,7 +169,7 @@ As I filtered water from the lake, I regretted not taking my CNOC with me to Rai
 
 Thanks to a raspberry bush growing in the back of our camp, I added some fresh berries to my oatmeal that morning, which made it absolutely delicious. We packed up camp and hit the trail by 9:45 AM. We had a bit of a schedule to keep, but knowing that we covered 10.5 miles the day before in 6.5 hours gave us confidence that we could make it to Windigo in plenty of time for our 5:00 PM seaplane departure.
 
-The first half of the route to Windigo was mostly forested. As we hit the halfway point, the trail began to open up into more meadows and the sky cleared. We were created to incredible views from the Grace Creek Overlook looking out over the Big Siskiwit Swamp, Lake Feldtmann, and Lake Superior in the distance. At a small lake/pond in the middle of the island, we noticed another bull moose splashing around and going for a swim. It made us appreciate seeing the moose that morning all the more, as photos of a moose from 50 feet away are much more compelling to skeptical family members than ones from 5 miles away!
+The first half of the route to Windigo was mostly forested. As we hit the halfway point, the trail began to open up into more meadows and the sky cleared. We were treated to incredible views from the Grace Creek Overlook looking out over the Big Siskiwit Swamp, Lake Feldtmann, and Lake Superior in the distance. At a small lake/pond in the interior, we noticed another bull moose splashing around and going for a swim. It made us appreciate seeing the moose that morning all the more, as photos of a moose from 50 feet away are much more compelling to skeptical family members than ones from 5 miles away!
 
 ![View from Grace Creek Overlook towards the interior](https://i.imgur.com/C5JmY2R.jpg)
 *View from Grace Creek Overlook towards the interior*
@@ -215,9 +216,9 @@ The natural choice for a return trip would be to do the Greenstone Ridge from Wi
 
 # Gear and Food Thoughts
 
-I felt like my gear held up very well. My Six Moon Designs Skyscape Scout was easy to set up and handled the wind at Feldtmann Lake just fine. My Hammock Gear Economy Burrow 30 quilt let me moderate temperature easily, and I slept well enough on a Nemo Tensor Insulated pad. Sawyer Squeezes worked well for filtering water, and my brother even used my old Squeeze Mini directly on his water bottle with no isues. 
+I felt like my gear held up very well. My Six Moon Designs Skyscape Scout tent was easy to set up and handled the wind at Feldtmann Lake just fine. My Hammock Gear Economy Burrow 30 quilt let me moderate temperature easily, and I slept well enough on a Nemo Tensor Insulated pad. Sawyer Squeezes worked well for filtering water, and my brother even used my old Squeeze Mini directly on his water bottle with no issues. 
 
-My Deuter ACT Lite 50+10 pack carried had plenty of room. My total pack weight was about 28 lbs. including 2L of water. By the last day, I felt like I was barely carrying anything. One of the last items I added to my pack was a CNOC Vecto 2L bladder. As mentioned above, it came in super handy! The flexibility of the mouth makes it much easier to scoop water from marginal sources, such as the barely flowing spring at Island Mine.
+My Deuter ACT Lite 50+10 pack had plenty of room. My total pack weight was about 28 lbs. including 2L of water. By the last day, I felt like I was barely carrying anything. One of the last items I added to my gear list was a CNOC Vecto 2L bladder. As mentioned above, it came in super handy! The flexibility of the mouth makes it much easier to scoop water from marginal sources, such as the barely flowing spring at Island Mine.
 
 I did do a trial run about a month before this trip on the [Twin Valley Trail](https://www.backpackohio.com/trails/twin-valley-backpack-trail/). While I only went out for 2 days/1 night, I did hike the full 28 miles. That gave me confidence the mileage on Isle Royale would not be an issue, let me test out my gear, and make sure I had my Garmin inReach Mini 2 configured correctly. The biggest thing I learned was that needed an inflatable pillow!
 
