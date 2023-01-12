@@ -224,3 +224,6 @@ I did do a trial run about a month before this trip on the [Twin Valley Trail](h
 
 For food, I mostly followed Andrew Skurka's [recipes](https://andrewskurka.com/section/food-nutrition/). Breakfast was a modified version of coconut chia oatmeal, snacks were trail mix and dark chocolate bars, lunch was "raw" cookie dough, and dinner was beans and rice. Spending time planning meals definitely kept my pack weight down, as I had about 4.5 lbs. of food compared to more like ~8 lbs. for the other members of the group. Granted, I am not a picky eater, but I felt like I was eating like a king for the entire trip.
 
+Photos from the trip:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LyEGGb_EFUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
