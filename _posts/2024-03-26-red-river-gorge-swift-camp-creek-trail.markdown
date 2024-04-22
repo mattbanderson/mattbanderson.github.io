@@ -4,7 +4,7 @@ title: Red River Gorge Swift Camp Creek Trail
 date: '2024-04-21 21:45:00'
 ---
 
-# Red River Gorge - Swift Camp Creek Trail
+# About the Red River Gorge 
 
 The [Red River Gorge Geological Area](https://www.fs.usda.gov/recarea/dbnf/recreation/recarea/?recid=39458), located within the Daniel Boone National Forest in Kentucky, is a breathtaking natural wonder renowned for its rugged sandstone cliffs, lush forests, and abundant recreational opportunities. Encompassing over 29,000 acres of pristine wilderness, the Red River Gorge is a haven for outdoor enthusiasts, offering a diverse array of activities such as hiking, rock climbing, camping, fishing, and wildlife viewing.
 
@@ -18,14 +18,14 @@ With its stunning landscapes, rich biodiversity, and abundant recreational offer
 
 # Planning and Gear
 
-I have been visited the Red River Gorge area several times over the years with friends. This year, a group of us were renting a cabin for a weekend; however, the weather forecast showed steady rain over the course of the weekend. I headed to the Gorge a day early to take advantage of a small window with no rain in the forecast to do some backpacking.
+I have visited the Red River Gorge area several times over the years with friends. This year, a group of us were renting a cabin for a weekend; however, the weather forecast showed steady rain while we would be there. I headed to the Gorge a day early to take advantage of a small window with no rain in the forecast to do some backpacking.
 
-I relied on Sean Patrick Hill's [guidebook](https://www.amazon.com/dp/1634041372) *Hiking Kentucky's Red River Gorge* to decide on a trail and plan the trip. One of the challenges of hiking in the gorge is that opportunities for true loops are limited. Combining the Swift Camp Creek Trail, Wildcat Hollow Trail, and Rock Bridge Trail allowed for a loops at boths ends with a few miles of connecting trail repeated in the middle.
+I relied on Sean Patrick Hill's guidebook *(Hiking Kentucky's Red River Gorge)(https://www.amazon.com/dp/1634041372)* to decide on a trail and plan the trip. One of the challenges of hiking in the gorge is that opportunities for true loops are limited. Combining the Swift Camp Creek Trail, Wildcat Trail, and Rock Bridge Trail allowed for a loops at boths ends with a few miles of connecting trail repeated in the middle.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/53611722814/in/dateposted-public/" title="swift-camp-creek"><img src="https://live.staticflickr.com/65535/53611722814_6a8538c0e9_k.jpg" width="2048" height="1530" alt="swift-camp-creek"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Purple track is my hiking route*
 
-I had two new pieces of gear to try out: a Gossamer Gear The One single-wall tent and Wrangler ATG Trail Joggers hiking pants. I also recently made a cat-food can alcohol stove that I like to take on short trips since I can bring exactly as much fuel as I need and do not need to transport it in a metal fuel canister. 
+I had two new pieces of gear to try out: a [Gossamer Gear The One](https://www.gossamergear.com/products/the-one) single-wall tent and Wrangler ATG Trail Joggers hiking pants. I also recently made a cat-food can alcohol stove that I like to take on short trips since I can bring exactly as much fuel as I need and can avoid carrying a metal fuel canister. 
 
 # Day 1
 
@@ -36,7 +36,7 @@ From the trailhead parking lot, the trail crossed KY-715 and entered the forest.
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/53611803860/in/dateposted-public/" title="PXL_20240307_202206103"><img src="https://live.staticflickr.com/65535/53611803860_50a66f7fd8_k.jpg" width="1542" height="2048" alt="PXL_20240307_202206103"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Follow the white diamond blazes...*
 
-The trail quickly begins its descent towards Swift Camp Creek, following Sons Branch. Where Sons Branch joins Swift Camp Creek, the trail turns south to parallel the creek. Immediately after this crossing, there are some nice beaches as well as a fantastic area for a campsite on the opposite side of Swift Camp Creek. Unfortunately far to early for me to set up camp, but good to know for future trips!
+The trail quickly begins its descent towards Swift Camp Creek, following Sons Branch. Where Sons Branch joins Swift Camp Creek, the trail turns south to parallel the creek. Immediately after this crossing, there are some nice beaches as well as a fantastic area for a campsite on the opposite side of Swift Camp Creek. Unfortunately it was far too early for me to set up camp, but good to know for future trips!
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/53611690749/in/dateposted-public/" title="PXL_20240307_210557156"><img src="https://live.staticflickr.com/65535/53611690749_b35682f0d5_k.jpg" width="2048" height="1542" alt="PXL_20240307_210557156"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Wow, that's a nice campsite!*
@@ -55,7 +55,7 @@ Unfortunately, these beaches are some of the only easily-accessible ones on the 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/53611804190/in/dateposted-public/" title="PXL_20240307_215152266"><img src="https://live.staticflickr.com/65535/53611804190_e608039c90_k.jpg" width="1542" height="2048" alt="PXL_20240307_215152266"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *The trail does open up in places for views of the creek down below*
 
-Eventually, I reached the junction of the Swift Camp Creek Trail with the Wildcat Hollow Trail. Since I started at the Swift Camp Creek Trailhead, I planned to follow the Wildcat Creek Trail on my return trip tomorrow. It was around this point that I realized how much the uneven terrain was slowly my pace. Checking my mapping app, I saw I was averaging a robust 1.6 miles per hour.
+Eventually, I reached the junction of the Swift Camp Creek Trail with the Wildcat Trail. Since I started at the Swift Camp Creek Trailhead, I planned to follow the Wildcat Trail on my return trip tomorrow. It was around this point that I realized how much the uneven terrain was slowing my pace. Checking my mapping app, I saw I was averaging a robust 1.6 miles per hour!
 
 I reached the massive boulders surrounding Dog Creek around 6:00 PM and spent a few minutes deciding if I should push forward. In my head, I had figured I could at least reach a campsite described as "perfect" in the guidebook off a side trail near the 5.5 mile mark; however, I was only ~4.5 miles in, and darkness would fall shortly after 7 PM. There were a couple options for campsites nearby, and I decided the smart thing to do would be to call it a day rather than risk trying to find a campsite in the dark. Eventually I set up camp across the fork with a lovely view downstream and the sounds of rushing water in the background.
 
@@ -69,7 +69,7 @@ Setting up camp was uneventful, and I had just enough flat, dry ground to set up
 
 # Day 2
 
-First night in the GG The One went great! Had a very thin layer of moisture on the inside wall, which I felt was quite resonable consdering my campsite was in creek valley after several days of rain. Certainly worth the 1+ pound weight reduction from my Skyscape Scout. I packed up camp and hit the trail, aiming to eat breakfast somewhere further along. About half a mile further, there was a small stream crossing with a nice flat spot for a campsite. If I had pushed forward yesterday, I almost certainly would have stopped here for the night. Looks like a very nice spot, but somehow I neglected to take a photo!
+First night in the The One went great! Had a very thin layer of moisture on the inside wall, which I felt was quite resonable consdering my campsite was in creek valley after several days of rain. Certainly worth the 1+ pound weight reduction from my Skyscape Scout. I packed up camp and hit the trail, aiming to eat breakfast somewhere further along. About half a mile further, there was a small stream crossing with a nice flat spot for a campsite. If I had pushed forward yesterday, I almost certainly would have stopped here for the night. Looks like a very nice spot, but somehow I neglected to take a photo!
 
 At the ~5.5 mile mark, I found the side trail to a large open campsite area and stopped for breakfast. This section of trail has some good overlooks of the creek and a waterfall, though it is hard to get a clear view of the falls themselves. The campsite does have plenty of room for several tents, though most of it is on a slight incline.
 
@@ -94,7 +94,7 @@ I took the trailhead for the Rock Bridge Trail that heads south. The beginning s
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/53611691294/in/album-72177720315675062/" title="PXL_20240308_152330211"><img src="https://live.staticflickr.com/65535/53611691294_e2dcf5e4b1_k.jpg" width="2048" height="1542" alt="PXL_20240308_152330211"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Creation Falls from the overlook*
 
-Just a short distance beyond Creation Falls is Rock Bridge Arch. It is the only true "bridge" in Red River Gorge, as it is the only arch that actually spans water. If I understand the history correctly, Rock Bridge Arch was actually formed by Creation Falls, but the falls have moved further upstream as they continue to erode the creekbed.
+Just a short distance beyond Creation Falls is Rock Bridge Arch. It is the only true "bridge" in Red River Gorge, as it is the only arch that actually spans water. If I understand the geology and history correctly, Rock Bridge Arch was actually formed by Creation Falls, but the falls have moved further upstream as they continue to erode the creekbed.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/53610480367/in/album-72177720315675062/" title="PXL_20240308_153014159"><img src="https://live.staticflickr.com/65535/53610480367_b45368e261_k.jpg" width="2048" height="1542" alt="PXL_20240308_153014159"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Rock Bridge Arch*
@@ -103,7 +103,7 @@ Just a short distance beyond Creation Falls is Rock Bridge Arch. It is the only 
 *View across the arch*
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/53611565883/in/album-72177720315675062/" title="PXL_20240308_153600317"><img src="https://live.staticflickr.com/65535/53611565883_87e338d923_k.jpg" width="2048" height="1542" alt="PXL_20240308_153600317"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-*View downstream from Rock Bridge*
+*View downstream from Rock Bridge Arch*
 
 Shortly after Rock Bridge Arch I reached the junction to re-join the Swift Camp Creek Trail. This section of trail offers some of the best views of the creek.
 
@@ -113,7 +113,7 @@ Shortly after Rock Bridge Arch I reached the junction to re-join the Swift Camp 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/53611804770/in/album-72177720315675062/" title="PXL_20240308_160359322"><img src="https://live.staticflickr.com/65535/53611804770_7db95c7cf0_k.jpg" width="1542" height="2048" alt="PXL_20240308_160359322"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Views of Swift Camp Creek*
 
-A little over a mile from the Rock Bridge/Swift Camp Creek junction, I made it back to side trail to the Turtle Back Arch loop. The was slightly demoralizing, as I knew I was leaving the easier stretches of trail and now had to slowly retrace the route along this section of trail. To add to the fun, the rain returned again and lasted for about an hour. One benefit to this section of trail is there are numerous rock overhangs to provide shelter, so I was able to stay dry while stopping for lunch.
+A little over a mile from the Rock Bridge/Swift Camp Creek junction, I made it back to the side trail to the Turtle Back Arch loop. This was slightly demoralizing, as I knew I was leaving the easier stretches of trail and now had to slowly retrace the route along the middle section of the trail. To add to the fun, the rain returned again and lasted for about an hour. At least the geology of the Gorge provides numerous rock overhangs to provide shelter, so I was able to stay dry while stopping for lunch.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/53611353296/in/album-72177720315675062/" title="PXL_20240308_173543259.MP"><img src="https://live.staticflickr.com/65535/53611353296_7c36142b52_k.jpg" width="2048" height="1542" alt="PXL_20240308_173543259.MP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Re-crossing Dog Fork the next day*
@@ -121,7 +121,7 @@ A little over a mile from the Rock Bridge/Swift Camp Creek junction, I made it b
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/53611805000/in/album-72177720315675062/" title="PXL_20240308_175747562"><img src="https://live.staticflickr.com/65535/53611805000_d2c739c862_k.jpg" width="1542" height="2048" alt="PXL_20240308_175747562"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Rare opening with view of Swift Camp Creek*
 
-Eventually, I made it back to the junction with Wildcat Trail and headed towards west and up towards KY-715. The first section gains elevation rapidly as the trail climbs away from the creek, but the second half is a mostly level walk through the woods back to the road. For a few brief moments, it almost looked like the sun might come out!
+Eventually, I made it back to the junction with Wildcat Trail and headed west and up towards KY-715. The first section gains elevation rapidly as the trail climbs away from the creek, but the second half is a mostly level walk through the woods back to the road. For a few brief moments, it even looked like the sun might come out!
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/53611805105/in/album-72177720315675062/" title="PXL_20240308_191248446"><img src="https://live.staticflickr.com/65535/53611805105_04395b2882_k.jpg" width="1542" height="2048" alt="PXL_20240308_191248446"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *The sun tried, but couldn't quite break through the clouds*
@@ -129,17 +129,17 @@ Eventually, I made it back to the junction with Wildcat Trail and headed towards
  I did have a short road walk back to the Swift Camp Creek trailhead, but this allowed me to check out Angel Windows along the way, which was pretty cool. Apparently the "windows" are carved by wind, rather than water.
 
  <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/53611691799/in/album-72177720315675062/" title="PXL_20240308_193412790"><img src="https://live.staticflickr.com/65535/53611691799_8a72bee6b7_k.jpg" width="2048" height="1542" alt="PXL_20240308_193412790"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-*Angel windows*
+*Angel Windows*
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/53611353456/in/album-72177720315675062/" title="PXL_20240308_193501248"><img src="https://live.staticflickr.com/65535/53611353456_fbae86a3a3_k.jpg" width="2048" height="1542" alt="PXL_20240308_193501248"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-*Rock overhang on the far side of the windows*
+*Rock overhang beyond the Windows*
 
 
 # Trip Summary 
 
-It was great to get out into nature and experience my first backpacking trip in Red River Gorge. It's hard to find the exact right description for the Swift Camp Creek Trail itself. There are beautiful sections and campsites and the northern and southern ends, but the middle section definitely feels like it exists solely to link the two ends together, and you have to hike it twice unless you shuttle vehicles. The terrain is rugged but not overly difficult. The continuous small ups and downs and rocks and roots on the trail force you to move slowly and think about nearly every foot placement. For me, this does detract some from being able to enjoy the scenery since I am so focused on my feet. 
+It was great to get out and experience my first backpacking trip in Red River Gorge. It is hard to find the exact right description for the Swift Camp Creek Trail itself. There are beautiful sections and campsites in the northern and southern ends, but the middle section definitely feels like it exists solely to link the two ends together, and you have to hike it twice unless you shuttle vehicles. The terrain is rugged but not exceptionally difficult. The continuous small ups and downs and rocks and roots on the trail require you to move slowly and think about nearly every foot placement. For me, this does detract some from being able to enjoy the scenery since I am so focused on my feet. 
 
-I hiked in early March befure hardly any spring growth had started. I would be a bit wary of hiking the trail in the middle of summer when I suspect the trail could be highly overgrown and you might be constantly pushing leaves and branches out of the way. Along those same lines, blazes are inconsistent. Some are clearly new, others make you wonder, "Is that a blaze or just some tree growth?"
+I hiked in early March before hardly any spring growth had started. I would be a bit wary of hiking the trail in the middle of summer when I suspect the trail could be highly overgrown and you might be constantly pushing leaves and branches out of the way. Along those same lines, blazes are inconsistent. Some are clearly new, others make you wonder, "Is that a blaze or just some tree growth?"
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/53611690984/in/album-72177720315675062/" title="PXL_20240307_231449861"><img src="https://live.staticflickr.com/65535/53611690984_2bf23c8464_k.jpg" width="1542" height="2048" alt="PXL_20240307_231449861"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *High-quality blaze (rare)*
@@ -147,4 +147,6 @@ I hiked in early March befure hardly any spring growth had started. I would be a
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/53610480472/in/album-72177720315675062/" title="PXL_20240308_154701299"><img src="https://live.staticflickr.com/65535/53610480472_2b657495b6_k.jpg" width="1542" height="2048" alt="PXL_20240308_154701299"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Is that a blaze inside the knot on that tree? (far more common)*
 
-I will almost certainly be back for another trip. Now that I have a better understanding of the terrain and its quirks, I would like to link up the Swift Camp Creek trail to a longer route and incorporate some of the other great campsites I saw along the way. The Rough Trail ends at the Swift Camp Creek trailhead, so that is the obvious choice to connect to, but some additional creativity will likely be required to avoid too much of an out-and-back. The Gorge is awesome, but the topograph does not necessarily lend itself to obvious loop trails!
+A closing gear note: I thought the stretch and flexibility in the legs of the Wrangler ATG pants was great, but there was too much elasticity in the waist. By the second day I was really having to tighten down the belt, and even then there was too much sag and stretch. So as much as I liked the material, they just were not the right fit for me.
+
+I will almost certainly be back for another backpacking trip in the Gorge. Now that I have a better understanding of the terrain and its quirks, I would like to link up the Swift Camp Creek trail to a longer route and incorporate some of the other great campsites I saw along the way. The Rough Trail ends at the Swift Camp Creek trailhead, so that is the obvious choice to connect to, but some additional creativity will likely be required to avoid too much of an out-and-back. The Gorge is awesome, but the topography does not necessarily lend itself to obvious loop trails!
