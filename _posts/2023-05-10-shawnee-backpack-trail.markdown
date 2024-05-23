@@ -120,7 +120,7 @@ I woke up at 6:20 AM, feeling unsure about the quality of my sleep but grateful 
 
 After packing up camp, I hit the trail at 7:45 AM and began a huge climb that immediately made my left Achilles sore, and it did not loosen up as I walked. The trail was mostly heavy bulldozer trail, but just before reaching the forest, logging opened up excellent views, and there was even a picnic table to enjoy the scenery!
 
-![A picnic table along the trail](https://i.imgur.com/YWz445E.jpg) *Is that somewhere to actually site down?!?*
+![A picnic table along the trail](https://i.imgur.com/YWz445E.jpg) *Is that somewhere to actually sit down?!?*
 
 ![Best view from the actual trail](https://i.imgur.com/6kdyeVn.jpg) *Best view from the actual trail*
 
