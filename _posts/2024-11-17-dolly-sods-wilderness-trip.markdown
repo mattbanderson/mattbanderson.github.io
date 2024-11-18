@@ -1,7 +1,7 @@
 ---
 
-title: Dolly Sods Wildnerness
-date: '2024-11-17 21:15:00'
+title: Dolly Sods Wilderness Trip
+date: '2024-11-17 21:35:00'
 ---
 
 # What is the Dolly Sods?
