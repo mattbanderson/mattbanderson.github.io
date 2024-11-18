@@ -31,15 +31,15 @@ This would be my second trip with my [Gossamer Gear The One](https://www.gossame
 
 # Day 1
 
-I drove to Dolly Sods from Ohio, so I decided to use the Red Creek trailhead for access. The  trailhead parking lot was a bit confusing, but I just parked next to a few other cards and figured I was good. The trailhead itself has good signage and an optional log book to enter your expected itinerary. The trail itself has no blazes, though intersections are marked by signs. In fall with the leaves down, following the trail can be a bit tricky. I quickly managed to lose the trail after passing through a camp site. It is not really possible to get lost since this stretch of trail parallels the Red Creek, but bushwhacking does make for a slower pace. I did manage to find the junction with the Little Stonecoal Trail where it crosses Red Creek, and it did not look like a well-traveled path:
+I drove to Dolly Sods from Ohio, so I decided to use the Red Creek trailhead for access. The  trailhead parking lot was a bit confusing, but I just parked next to a few other cards and figured I was good. The trailhead itself has good signage and an optional log book to enter your expected itinerary. The trail itself has no blazes, though intersections are marked by signs. In fall with the leaves down, following the trail can be a bit tricky. I quickly managed to lose the trail after passing through a camp site. It is not really possible to get lost since this stretch of trail parallels the Red Creek, but bushwhacking does make for a slower pace. I did manage to find the junction with the Little Stonecoal Trail where it crosses Red Creek, and it did not look like a well-traveled path.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54105984275/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105984275_dda2a5fe2d_h.jpg" width="1600" height="1205" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-*Little Stonecoal Trail Red Creek crossing
+*Little Stonecoal Trail Red Creek crossing*
 
 Soon enough, I encountered three hikers going the opposite direction about 50 feet away, and thanks to their superior wayfinding I was able to get back on the trail. When I was planning the trip, I was not sure if I would continue on the Red Creek Trail until it joined the Rocky Point Trail upstream, or take the Big Stonecoal Trail up to the Rocky Point Trail to check out the Lion's Head overlook. I planned to visit Lion's Head on Day 3, so I did not necessarily have to see it on Day 1. As I got further along the Red Creek, the trail stayed far enough into the forest that there were not a ton of views of the creek.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54105871104/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105871104_67b4b5d62b_h.jpg" width="1205" height="1600" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-*One good view down into Red Creek
+*Good view down into Red Creek&
 
  As a result, I decided to take Big Stonecoal, cross Red Creek, and head uphill to Lion's Head. The creek cross with beautiful, with just a big of challenge rock-hopping to keep my feet dry.
 
@@ -127,7 +127,7 @@ Just before the junction with Dobbins Grade, a beaver dam made for some muddy pa
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54104663617/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54104663617_2973f00b5f_h.jpg" width="1600" height="1205" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54105980580/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105980580_a91e606f33_h.jpg" width="1600" height="1205" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-*The Raven Ridge Trail offered expansive views*
+*Looking back south on Raven Ridge Trail*
 
 The Raven Ridge Trail climbed steadily but at a very reasonable pace, flanked by sweeping views, open spaces, and eventually passing through patches of forest. I reached the Sundew Trail trail junction and headed east toward Bear Rocks. 
 
@@ -166,7 +166,7 @@ As the day wore on, I could feel the exposure to sun and wind beginning to drain
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54104662997/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54104662997_e8ccb6eebe_h.jpg" width="1600" height="1205" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54105982505/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105982505_02e58beffb_h.jpg" width="1600" height="1205" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-*Views along Raven Ridge*
+*More views along Raven Ridge*
 
 By mid-afternoon, I reached the northwest corner of Dolly Sods where Raven Ridge Trail ends and the Rocky Ridge Trail begins heading south. This stretch was a sea of boulders with many vistas into the Canaan Valley to the west. 
 
@@ -197,7 +197,7 @@ The sun and wind was unrelenting, so I spent most of this stretch looking down t
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54105788648/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105788648_a5737c6e19_h.jpg" width="1600" height="1205" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54105526856/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105526856_b6753e2656_h.jpg" width="1600" height="1205" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-*Views from the top*
+*Views from the top of Harman Knob*
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54105526851/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105526851_a5dfadc4ea_h.jpg" width="1600" height="1205" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Beautiful fall foliage*
@@ -239,14 +239,14 @@ I slept in a bit on Day 3, staying under my quilt until about 6:45 AM. I packed 
 
 As I headed towards the Rocky Point Trail, I could feel a warm breeze even though it was still relatively early in the morning. This time I took the first entrance to the side trail to Lion's Head. The ascent was steep at first, but no scrambling required. Soon the trail flattened to an easy stroll through the forest.
 
-*<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54105868284/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105868284_67cbe71f7f_h.jpg" width="1205" height="1600" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54105868284/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105868284_67cbe71f7f_h.jpg" width="1205" height="1600" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Through the trees to Lion's Head*
 
 I passed several excellent campsites. The only downside is the need to haul all your water since there are no sources nearby. The last campsite was occupied by two hikers from New Jersey, and I stopped to chat with them for a few minutes, trading stories about our routes and trip. 
 
 Once out of the forest and onto the rocks, the wind was much stronger than Day 1, whipping around as I settled in at the edge of the overlook. I sat there and enjoyed a snack, taking int he view of the valley spread out below, shimmering in the morning sun, dotted with fall colors and morning shadows. 
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54105868204/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105868204_270e3a81de_h.jpg" width="1600" height="1205" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54105868204/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105868204_270e3a8north1de_h.jpg" width="1600" height="1205" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54105868189/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105868189_ffb238e89b_h.jpg" width="1600" height="1205" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -270,4 +270,5 @@ Some lessons learned: always check your water filter before you leave, even if i
 
 Lastly, the sun hoodie was a good call. It was very open in the northern Sods and the sun was beaming down all day. The hood and my bucket had served to both keep the sun off and shield some of the wind as it picked up on Day 2. It was definitely worth bringing the Thinlight and strapping it to the top of my pack. It snagged a couple times when going through brush, but having it in an easy to grab place made it much more comfortable to stop for a quick break on a trailside boulder.
 
-[All Photos](https://flic.kr/s/aHBqjBQ2Uj)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/albums/72177720321599342" target="_blank" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105786698_380f5905ec_z.jpg" width="640" height="480" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Click to see all photos*
