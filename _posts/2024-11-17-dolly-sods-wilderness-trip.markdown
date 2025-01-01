@@ -6,7 +6,7 @@ date: '2024-11-17 21:35:00'
 
 # What is the Dolly Sods?
 
-The [Dolly Sods Wilderness](https://www.fs.usda.gov/recarea/mnf/recreation/recarea/?recid=12366) in West Virginia is a strikingly unique and scenic region within the Monongahela National Forest, known for its expansive views, rocky landscapes, and high-altitude bogs. Located in the Allegheny Mountains at elevations that reach over 4,000 feet, Dolly Sods offers a distinctly rugged, subalpine environment with tundra-like conditions rare in the eastern United States. Its name reflects the area’s early history, with "Dolly" originating from the German Dahle family who settled here, and "Sods" referring to open grassy meadows. With its wind-sculpted spruce trees, heath barrens, and windswept plateau, the landscape of Dolly Sods feels like a portal to a more northern, Arctic ecosystem, offering a diverse and unique experience for visitors.
+The [Dolly Sods Wilderness](https://www.fs.usda.gov/recarea/mnf/recreation/recarea/?recid=12366) in West Virginia is a strikingly unique and scenic region within the Monongahela National Forest, known for its expansive views, rocky landscapes, and high-altitude bogs. Located in the Allegheny Mountains at elevations that reach over 4,000 feet, Dolly Sods offers a distinctly rugged, subalpine environment with tundra-like conditions rare in the eastern United States. Its name reflects the area’s early history, with "Dolly" originating from the German Dahle family who settled here, and "Sods" referring to open grassy meadows. With its wind-sculpted spruce trees, heath barrens, and windswept plateau, the landscape of Dolly Sods feels like a portal to a more northern ecosystem, offering a diverse and unique experience for visitors.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54105786698/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105786698_d43163bcba_h.jpg" width="1600" height="1205" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -25,13 +25,13 @@ The interface can be a little intimidating at first, but once I got the hang of 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54116872777/in/dateposted-public/" title="dolly-sods-elevation"><img src="https://live.staticflickr.com/65535/54116872777_28c0710358_h.jpg" width="1600" height="729" alt="dolly-sods-elevation"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Also calculates the elevation profile*
 
-The [HikingUpward](https://www.hikingupward.com/) web site had a nice overview of the [Lion's Head/Bear Rocks loop](https://www.hikingupward.com/MNF/DollySodsLionsHead/), albeit starting at the Bear Rocks trailhead instead of the Red Creek trailhead where I planned to begin. By starting from Bear Rocks, the loop can be as short as 21 miles round-trip, whereas my route was 28.5 miles.
+The [HikingUpward](https://www.hikingupward.com/) web site had a nice overview of the [Lion's Head/Bear Rocks loop](https://www.hikingupward.com/MNF/DollySodsLionsHead/), albeit starting at the Bear Rocks trailhead instead of the Red Creek trailhead where I planned to begin. By starting from Bear Rocks, the loop can be as short as 21 miles round-trip, whereas my [route](https://caltopo.com/m/KE120) was 28.5 miles.
 
 This would be my second trip with my [Gossamer Gear The One](https://www.gossamergear.com/products/the-one) single-wall tent. I also recently made a cat-food can alcohol stove that I decided to take on this trip since it meant I could bring ~110ml of fuel in a squeeze bottle rather than a fuel isobutane canister. I almost came to regret going with the alcohol stove over the canister stove (more on that later). I also decided to try strapping my [Gossamer Gear Thinlight](https://www.gossamergear.com/products/thinlight-foam-pad) foam pad to the top of my pack to see if the increased accessibility would remind me to use it more during breaks. With plenty of sun in the forecast and limited tree cover in the north Sods, I wore my [Sahara sun hoodie](https://www.rei.com/product/185196/rei-co-op-sahara-shade-hoodie-mens) as my primary top layer. The last additional item I added was a Govee Bluetooth thermometer. At less than an ounce, it is a very lightweight way to know exactly what temperature ranges I would experience on the trip.
 
 # Day 1
 
-I drove to Dolly Sods from Ohio, so I decided to use the Red Creek trailhead for access. The  trailhead parking lot was a bit confusing, but I just parked next to a few other cards and figured I was good. The trailhead itself has good signage and an optional log book to enter your expected itinerary. The trail itself has no blazes, though intersections are marked by signs. In fall with the leaves down, following the trail can be a bit tricky. I quickly managed to lose the trail after passing through a camp site. It is not really possible to get lost since this stretch of trail parallels the Red Creek, but bushwhacking does make for a slower pace. I did manage to find the junction with the Little Stonecoal Trail where it crosses Red Creek, and it did not look like a well-traveled path.
+I drove to Dolly Sods from Ohio, so I decided to use the Red Creek trailhead for access. The trailhead parking was a bit confusing. Turn left at the parking lot, go past a couple buildings, and find a spot [here](https://maps.app.goo.gl/PsYFT5JzavZ2GRMm7). I parked next to a few other cars and figured I was good. The trailhead itself has good signage and an optional log book to enter your expected itinerary. The trail itself has no blazes, though intersections are marked by signs. In fall with the leaves down, following the trail can be a bit tricky. I quickly managed to lose the trail after checking out a campsite. It is not really possible to get lost since this stretch of trail parallels the Red Creek, but bushwhacking does make for a slower pace. I did manage to find the junction with the Little Stonecoal Trail where it crosses Red Creek, and it did not look like a well-traveled path.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54105984275/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105984275_dda2a5fe2d_h.jpg" width="1600" height="1205" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Little Stonecoal Trail Red Creek crossing*
@@ -41,7 +41,7 @@ Soon enough, I encountered three hikers going the opposite direction about 50 fe
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54105871104/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105871104_67b4b5d62b_h.jpg" width="1205" height="1600" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Good view down into Red Creek&
 
- As a result, I decided to take Big Stonecoal, cross Red Creek, and head uphill to Lion's Head. The creek cross with beautiful, with just a big of challenge rock-hopping to keep my feet dry.
+ As a result, I decided to take Big Stonecoal, cross Red Creek, and head uphill to Lion's Head. The creek cross ing was beautiful, with just a bit of challenge rock-hopping to keep my feet dry.
 
  <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54105790978/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105790978_f67fbedcc9_h.jpg" width="1600" height="1205" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
  *Downstream at Red Creek crossing*
@@ -58,7 +58,7 @@ The climb up Big Stonecoal was quite rocky (this would become a theme!), but the
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54105529226/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105529226_19f314d6c7_h.jpg" width="1205" height="1600" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Climb up Big Stonecoal*
 
-Eventually I reached the intersection with the Rocky Point Trail and heading south towards Lion's Head. I skipped the first entrance to the side trail to Lion's Head and head up the second one. It required some scrambling but nothing too difficult to reach the upper level of the overlook. From there, it became careful rock hopping to find the best views of the surrounding valley and hills.
+Eventually I reached the intersection with the Rocky Point Trail and heading south towards Lion's Head. I skipped the first entrance to the side trail to Lion's Head and headed up the second one. It required some scrambling but nothing too difficult to reach the upper level of the overlook. From there, it became careful rock hopping to find the best views of the surrounding valley and hills.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54105529191/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105529191_40664ddefb_h.jpg" width="1205" height="1600" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Slight scramble to reach the top level of Lion's Head*
@@ -84,7 +84,7 @@ After descending from Lion's Head, I learned exactly how the Rocky Point Trail g
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54105983790/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105983790_9cf0129bc0_h.jpg" width="1205" height="1600" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Yes, that is rocky*
 
-Trails with "rocky" in the name are a common theme in the Dolly Sods, and they got those names for good reason. It took some time, but eventually the rock-strewn trail gave way to milder footing through the forest. This allowed me to push a little faster toward my planned campsite near "The Forks", which is where the Left and Right Forks of the Red Creek join.
+Trails with "rocky" in the name are a common theme in the Dolly Sods, and they got those names for good reason. It took some time, but eventually the rock-strewn trail gave way to milder footing through the forest. This allowed me to push a little faster toward my planned campsite near "The Forks", which is at the confluence of the Left and Right Forks of the Red Creek.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54105790458/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105790458_fcdda97c8b_h.jpg" width="1205" height="1600" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *A nice break for the feet*
@@ -104,11 +104,11 @@ With daylight fading, I focused on making dinner, knowing I could attempt to fil
 
 Regardless, I got a burst of energy from dinner, and settled into a stone chair (cushioned by my Thinlight!) to take another shot at filtering water. I took advantage of all the stone surfaces around me and really knocked my Sawyer around, hoping the it would clear whatever was blocking the flow. After giving it a solid beating, I was able to get a decent enough flow out of it, much to my relief. It probably took 10-15 minutes to filter a liter of water, but with darkness falling, I had plenty of time to spend filling up my water bottles.
 
-I ended up setting up my tent by headlamp in the fading light and filtered my second liter of water by headlamp in the dark. I finally settled into my sleeping bag under the pine trees, savoring the sound of Red Creek rushing over the waterfalls and around boulders and rocks.  
+I ended up setting up my tent by headlamp in the fading light and filtered my second liter of water by headlamp in the dark. I finally settled into my sleeping bag under the pine trees, enjoying the sound of Red Creek rushing over the waterfalls and around boulders and rocks.  
 
 # Day 2
 
-Day 2 began around 6:15 AM. I started packing up inside my tent while it was still dark. I checked the Govee thermometer and the overnight low was 42F. A quick breakfast warmed me up, and I hit the trail by 7:30. my pack weighed down with nearly 4 liters of water. I was not sure where the next water source would be, so I loaded up with nearly 4L of water. 
+Day 2 began around 6:15 AM. I started packing up inside my tent while it was still dark. I checked the Govee thermometer and the overnight low was 42F. A quick breakfast warmed me up, and I hit the trail by 7:30. I was not sure where the next water source would be, so I loaded up with nearly 4 liters of water. 
 
 The morning hiking was beautiful, slowly gaining elevation through scrubby meadows and red spruce forests, with early-morning light just beginning to spill over the hills. 
 
@@ -122,14 +122,14 @@ Views began opening up along Upper Red Creek, offering glimpses of the wildernes
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54105980630/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105980630_33d291f616_h.jpg" width="1600" height="1205" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Views on Upper Red Creek Trail*
 
-Just before the junction with Dobbins Grade, a beaver dam made for some muddy patches. The tenth of a mile I spent on the Dobbins Grade Trail itself lived up to its reputation as one long mud pit and confirmed my decision to take the longer but hopefully drier Raven Ridge Trail.
+Just before the junction with Dobbins Grade, a beaver dam made for some muddy patches. The tenth of a mile I spent on the Dobbins Grade Trail itself lived up to its reputation as one long mud pit and confirmed my decision to take the longer but drier Raven Ridge Trail.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54104663617/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54104663617_2973f00b5f_h.jpg" width="1600" height="1205" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54105980580/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105980580_a91e606f33_h.jpg" width="1600" height="1205" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Looking back south on Raven Ridge Trail*
 
-The Raven Ridge Trail climbed steadily but at a very reasonable pace, flanked by sweeping views, open spaces, and eventually passing through patches of forest. I reached the Sundew Trail trail junction and headed east toward Bear Rocks. 
+The Raven Ridge Trail climbed steadily but at a very reasonable pace, flanked by sweeping views, open spaces, and eventually passing through patches of forest. I reached the Sundew Trail junction and headed east toward Bear Rocks. 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54104663487/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54104663487_ae6476cc22_h.jpg" width="1600" height="1205" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Up and over a knob on the Sundew Trail*
@@ -168,7 +168,7 @@ As the day wore on, I could feel the exposure to sun and wind beginning to drain
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54105982505/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105982505_02e58beffb_h.jpg" width="1600" height="1205" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *More views along Raven Ridge*
 
-By mid-afternoon, I reached the northwest corner of Dolly Sods where Raven Ridge Trail ends and the Rocky Ridge Trail begins heading south. This stretch was a sea of boulders with many vistas into the Canaan Valley to the west. 
+I stopped for a quick lunch at a dry campsite on the ridge and rested for a bit in the sun. By mid-afternoon, I reached the northwest corner of Dolly Sods where Raven Ridge Trail ends and the Rocky Ridge Trail begins heading south. This stretch was a sea of boulders with many vistas into the Canaan Valley to the west. 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54105786958/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105786958_7e39d87b72_h.jpg" width="1600" height="1205" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Boulders everywhere*
@@ -184,7 +184,7 @@ By mid-afternoon, I reached the northwest corner of Dolly Sods where Raven Ridge
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54105788798/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105788798_fea72c36bc_h.jpg" width="1600" height="1205" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Looks like an elephant!*
 
-The sun and wind was unrelenting, so I spent most of this stretch looking down to avoid the blinding glare and to carefully choose my footing. Rocky Knob and Harman Knob each offered their overlooks, but all the rocks, roots, and swampy patches kept me treading carefully. 
+The sun and wind were unrelenting, and I often found myself looking down during this stretch to avoid the blinding glare and to carefully choose my footing. Rocky Knob and Harman Knob each offered their overlooks, but all the rocks, roots, and swampy patches kept me treading carefully. 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54105525201/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105525201_213609def0_h.jpg" width="1600" height="1205" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -255,7 +255,7 @@ Once out of the forest and onto the rocks, the wind was much stronger than Day 1
 
 After a while, I packed up and retraced my route back down the side trail. The hike down Big Stonecoal Trail was slower than I remembered, with plenty of roots and rocks making for treacherous footing. I think it was easier going up than it was coming down!
 
-The final crossing of Red Creek put me back on the Red Creek Trail. The final stretch was smooth, and I navigated my way without losing the trail this time. As I neared the trailhead, I passed several more hikers just setting out. The parking lot was just as full as I left it, and I even had to back up and let two cars coming towards the trailhead cross the single-lane bridge over Red Creek before I could head back home.
+The final crossing of Red Creek put me back on the Red Creek Trail. The last stretch was smooth, and I navigated my way without losing the trail this time. As I neared the trailhead, I passed several more hikers just setting out. The parking lot was just as full as I left it, and I even had to back up and let two cars coming towards the trailhead cross the single-lane bridge over Red Creek before I could head back home.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54105867974/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105867974_bef060172f_h.jpg" width="1205" height="1600" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Crossing Red Creek for the last time*
@@ -264,11 +264,12 @@ The final crossing of Red Creek put me back on the Red Creek Trail. The final st
 
 The Dolly Sods was incredible! I learned about the area because it shows up on lots of "best places to backpack in the mid-Atlantic" lists, and it did not disappoint. The variety of landscapes, overlooks, vistas everywhere, and campsite options certainly made it worth the five-plus hour drive to get there. In my opinion, the mileage-to-cool-things-to-see ratio is phenomenal. My 28.5 mile loop was packed with scenery and views throughout, and if you were to start from Bear Rocks, you could get the same experience in just over a 21-mile loop.
 
-I was watching the weather forecast closely, and I had nearly perfect weather for late October. If anything it was even a bit warm, with low 70s during the day and full sun, lows in the low 40s at night, and not a hint of rain. If you have questions before a trip, I recommend calling the Cheat-Potomac District Monogahela National Forest Office. They were very knowledgeable and able to answer all my questions. If only I had thought to ask about water flow in the Upper Red Creek, I could have avoided carrying so much water on Day 2!
+I was watching the weather forecast closely, and I had nearly perfect weather for late October. If anything it was even a bit warm, with low 70s during the day and full sun, lows in the low 40s at night, and not a hint of rain. If you have questions before a trip, I recommend calling the [Cheat-Potomac District Monogahela National Forest Office](https://www.fs.usda.gov/detail/mnf/about-forest/offices/?cid=fsm9_011228). They were very knowledgeable and able to answer all my questions. If only I had thought to ask about water flow in the Upper Red Creek, I could have avoided carrying so much water on Day 2!
 
 Some lessons learned: always check your water filter before you leave, even if it worked great when you stored it after your last trip and consider how failures can cascade. My filter not working was made worse by not having enough fuel to boil water if I had to. In the future, if I am going on a solo multi-day trip, I will either bring an alternate water treatment method or a fuel canister so I can boil water as a last resort. Of course, one advantage of a group trip vs. a solo one is those backup options can be gear that others have. If multiple people in a group have water filters, it's not necessary for any one person to bring a backup. 
 
-Lastly, the sun hoodie was a good call. It was very open in the northern Sods and the sun was beaming down all day. The hood and my bucket had served to both keep the sun off and shield some of the wind as it picked up on Day 2. It was definitely worth bringing the Thinlight and strapping it to the top of my pack. It snagged a couple times when going through brush, but having it in an easy to grab place made it much more comfortable to stop for a quick break on a trailside boulder.
+Lastly, the sun hoodie was a good call. It was very open in the northern Sods and the sun was beaming down all day. The hood and my bucket hat kept the sun off and shielded some of the wind as it picked up on Day 2. It was definitely worth bringing the Thinlight and strapping it to the top of my pack. It snagged a couple times when going through brush, but having it in an easy to grab place made it much more comfortable to stop for a quick break on a trailside boulder.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/albums/72177720321599342" target="_blank" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105786698_380f5905ec_z.jpg" width="640" height="480" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-*Click to see all photos*
+
+[Click to see all photos](https://live.staticflickr.com/65535/54105786698_380f5905ec_z.jpg)
