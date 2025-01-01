@@ -39,7 +39,7 @@ I drove to Dolly Sods from Ohio, so I decided to use the Red Creek trailhead for
 Soon enough, I encountered three hikers going the opposite direction about 50 feet away, and thanks to their superior wayfinding I was able to get back on the trail. When I was planning the trip, I was not sure if I would continue on the Red Creek Trail until it joined the Rocky Point Trail upstream, or take the Big Stonecoal Trail up to the Rocky Point Trail to check out the Lion's Head overlook. I planned to visit Lion's Head on Day 3, so I did not necessarily have to see it on Day 1. As I got further along the Red Creek, the trail stayed far enough into the forest that there were not a ton of views of the creek.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54105871104/in/album-72177720321599342/" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105871104_67b4b5d62b_h.jpg" width="1205" height="1600" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-*Good view down into Red Creek&
+*Good view down into Red Creek*
 
  As a result, I decided to take Big Stonecoal, cross Red Creek, and head uphill to Lion's Head. The creek cross ing was beautiful, with just a bit of challenge rock-hopping to keep my feet dry.
 
