@@ -272,4 +272,4 @@ Lastly, the sun hoodie was a good call. It was very open in the northern Sods an
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/albums/72177720321599342" target="_blank" title="Dolly Sods Wilderness"><img src="https://live.staticflickr.com/65535/54105786698_380f5905ec_z.jpg" width="640" height="480" alt="Dolly Sods Wilderness"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-[Click to see all photos](https://live.staticflickr.com/65535/54105786698_380f5905ec_z.jpg)
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/albums/72177720321599342" target="_blank" title="Dolly Sods Wilderness">Click to see all photos</a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
