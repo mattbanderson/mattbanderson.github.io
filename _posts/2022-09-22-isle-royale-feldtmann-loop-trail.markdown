@@ -49,7 +49,7 @@ We were not on the trail for more than a few minutes before we saw the first pat
 ![Ripe thimbleberries](https://i.imgur.com/6IEEWIb.jpg)
 *Thimbleberries!*
 
-The trail was easy to follow but I found it surprising that there were no blazes marking the trail itself. All trail intersections were clearing marked. The trail quickly climbed up the Greenstone Ridge, but this section of the ridge is mostly tree-covered. This was definitely the least interesting section of trail, and it offered little in the way of views besides the surrounding forest. 
+The trail was easy to follow but I found it surprising that there were no blazes marking the trail itself. All trail intersections were clearly marked. The trail quickly climbed up the Greenstone Ridge, but this section of the ridge is mostly tree-covered. This was definitely the least interesting section of trail, and it offered little in the way of views besides the surrounding forest. 
 
 The sky gradually became more overcast and some light rain fell at various points. We kept a leisurely pace, stopping for quick breaks every 45 minutes or so. We reached the junction to head towards Island Mine camp around 7:00 PM and were at the campground by 7:30 PM. 
 
@@ -65,12 +65,12 @@ We were the second or third group into camp, but it filled up quickly after we a
 
 I slept well and woke up around 7:20 AM. Today was our shortest hike at less than 4.5 miles, so we took our time making breakfast and breaking down camp. We finally hit the trail about 10:15 AM after stopping to fill our water bottles on the way out of camp. After one initial climb shortly after leaving Island Mine, the trail went gradually downhill towards Siskiwit Bay.
 
-Along the way, we found the remains of a rusted steam engine, a large pile of rock tailings, and an old mine shaft. One of the maps indicated a cemetery along the trail but we saw no signs of it. 
+Along the way, we found the remains of a rusted steam engine, a large pile of rock tailings, and an old mine shaft. One of our maps indicated a cemetery along the trail, but we saw no signs of it. 
 
 ![Abandon steam engine](https://i.imgur.com/1KffE2m.jpg)
 *Abandoned steam engine along Island Mine trail*
 
-Once we reached Siskiwit Bay, the trail mostly followed the shoreline around the bay. We took several breaks, including a stop for 15-20 minutes to lounge in the sun on rocks along the shoreline just across Senter Point. We could barely make out the Siskiwit Bay dock and campground across the bay.
+Once we reached Siskiwit Bay, the trail mostly followed the shoreline around the bay. We took several breaks, including a stop for 15-20 minutes to lounge in the sun on rocks along the shoreline just across Senter Point. We could just barely make out the Siskiwit Bay dock and campground across the bay.
 
 ![Siskiwit Bay shoreline](https://i.imgur.com/TkLv3AA.jpg)
 *Following the shoreline along Siskiwit Bay*
@@ -106,7 +106,7 @@ We all sat down on the dock at dusk to watch for moose and other wildlife, but o
 ![Sunset at Siskiwit Bay](https://i.imgur.com/tv7pkak.jpg)
 *Sunset at Siskiwit Bay*
 
-I woke up at 1:30 AM to head outside and check to see if the Northern Lights were visible, but unfortunately, they were not. Nevertheless, the Milky Way was clearly visible in the clear night sky, along with thousands (millions?) of other stars. It is hard to describe just how many more stars are visible in the complete wildnerness on a night with no moon.
+I woke up at 1:30 AM to head outside and check to see if the Northern Lights were visible, but unfortunately, they were not. Nevertheless, the Milky Way was clearly visible in the clear night sky, along with thousands (millions?) of other stars. It is hard to describe just how many more stars are visible in the complete wilderness on a night with no moon.
 
 # Day 3
 
@@ -212,7 +212,7 @@ We all agreed that taking a clockwise route around the Feldtmann Loop was vastly
 
 I would definitely go back again, either to do the same route or try a new one. July/August are the busiest months on the island, but the remoteness of the Feldtmann Loop helps offset that somewhat. For example, the only campsite that completely filled up was Island Mine, likely because you had both people hiking the Greenstone Ridge Trail and the Feldtmann Loop staying there.
 
-The natural choice for a return trip would be to do the Greenstone Ridge from Windigo to Rock Harbor. If I were to do the Feldtmann Loop again, I would consider skipping Island Mine and adding to Hugginin Cove. This would create a longer 14 mile day instead of a 4.5 mile day but would be completely doable with adequate preparation. With this variation, I think either a counter-clockwise route might actually work better because you would gradually build up distances (8.5, 10.5, 14) and the final day letdown is eliminated by skipping Island Mine. The actual last day would be a short hike from Huginnin to Windigo, which could either accommodate an early flight/ferry out or let you hang out at Huginnin for a chunk of the day before heading to Windigo.
+The natural choice for a return trip would be to do the Greenstone Ridge from Windigo to Rock Harbor. If I were to do the Feldtmann Loop again, I would consider skipping Island Mine and adding to Hugginin Cove. This would create a longer 14 mile day instead of a 4.5 mile day but would be completely doable with adequate preparation. With this variation, I think a counter-clockwise route would actually work better because you would gradually build up distances (8.5, 10.5, 14) and the final day letdown is eliminated by skipping Island Mine. The actual last day would be a short hike from Huginnin to Windigo, which could either accommodate an early flight/ferry out or let you hang out at Huginnin for a chunk of the day before heading to Windigo.
 
 # Gear and Food Thoughts
 
