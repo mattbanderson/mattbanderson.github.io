@@ -87,7 +87,7 @@ analytics:
 author:
   name             : "Matt Anderson"
   avatar           : /assets/img/mba-profile.jpg
-  bio              : "Born and raised in Detroit, now a software engineer in Dayton. Enjoy bicycling, solving problems, and asking the naive question."
+  bio              : "Born and raised in Detroit, now a software engineer in Dayton. Enjoy the outdoors, solving problems, and asking the naive question."
   location         : "Dayton, OH"
   email            : matt@mattbanderson.com
   uri              :
@@ -100,7 +100,7 @@ author:
   github           : mattbanderson
   gitlab           :
   google_plus      :
-  keybase          : mattbanderson
+  keybase          : 
   instagram        :
   lastfm           :
   linkedin         : mattbanderson
