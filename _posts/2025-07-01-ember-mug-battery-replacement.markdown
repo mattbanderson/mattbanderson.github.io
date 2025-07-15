@@ -141,5 +141,6 @@ Carefully slide the base back into the mug. It will fit very tightly. Assuming t
 
 If everything went according to plan, you now have an almost-brand-new Ember mug. I replaced my battery about in June 2025 and it has worked flawlessly since.
 
+# About That Android App
 
-
+If you made it this far and have an Android phone, you are likely well aware that the Ember Android app is terrible. Someone built an alternative app called [EmberSupreme](https://play.google.com/store/apps/details?id=com.gcodestudios.embersupreme&hl=en-US) that seems to work much better. I have no relationship or association with the developer, but I can confirm that this app connects much more reliably than the default app. It is not free (it costs $2.49), but if you paid ~$150 for a fancy self-heating mug, why not shell out a couple bucks for an app that actually works?
