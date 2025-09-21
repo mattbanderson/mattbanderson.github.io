@@ -94,7 +94,7 @@ $ sudo nvme fw-commit -s 1 -a 0 /dev/nvme0n1
 Success committing firmware action:0 slot:1
 ```
 
-Commit the firmware to slot 1 `-s 1` and activate it `-a 0`:
+Commit the firmware to slot 1 `-s 1` and activate it `-a 2`:
 ```sh
 $ sudo nvme fw-commit -s 1 -a 2 /dev/nvme0n1
 Success committing firmware action:2 slot:1
