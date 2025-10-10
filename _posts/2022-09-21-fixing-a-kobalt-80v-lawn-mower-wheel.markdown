@@ -29,7 +29,7 @@ One of the bearing was completely destroyed, and the other one was rapidly faili
 # The Solution
 
 While neither Lowe's nor Kobalt support sells bearings, replacement ones can be found on Amazon or Ebay.
-I purchased a set of four from [Amazon](https://amzn.to/4eqZ02C) (affiliate link).
+I purchased a set of four from [Amazon](https://amzn.to/48WVxbt) (affiliate link).
 
 The wheel can be removed by popping off the plastic cover in the center, removing the cotter pin, and sliding the wheel off the bolt.
 There are two bearings on each wheel.
