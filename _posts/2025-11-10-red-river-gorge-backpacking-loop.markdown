@@ -48,11 +48,69 @@ On my shorter hikes, I really liked having my hips and legs completely free of a
 
 ## GPS Watch Navigation
 
-The one piece of gear I was using for the first time was the [Garmin Epix Pro Gen2](https://amzn.to/46J5pnJ) smartwatch I picked up at a sale around the 4th of July. I loaded my planned route onto the watch as a GPX file and used it as my primary navigation tool.
+The one piece of gear I was using for the first time was the [Garmin Epix Pro Gen2](https://amzn.to/46J5pnJ) smartwatch I picked up at a sale around the 4th of July. I loaded my planned route onto the watch as a GPX file and used it as my primary navigation tool. I set the GPX track as a course to follow. While it wasn't perfect, I was pretty impressed with the level at accuracy at many of the intersections. It did get a little annoyed with me when I started following spur trails that we not part of the route. 
 
 **Verdict: highly recommend** 
 
-Full gear list [here](https://lighterpack.com/r/qqyn7t).
+The rest of my gear list can be found [here](https://lighterpack.com/r/qqyn7t).
+
+# Trip Report
+
+## Day 1
+
+Any overnight parking in the Gorge requires a pass, so my trip began at the Pine Ridge Mart, where I bought my 3-day pass. From there, I headed to the Rough Trail/Swift Camp Creek [trailhead parking lot](https://maps.app.goo.gl/E86Ge2JREbT1C4u77).
+
+I decided to get the road walk out of the way first. For me, I like getting the least interesting stretch over and done with, although I can certainly see the argument for leaving the road walk for last, since it is easy walking. KY-715 dropped steadily downhill towards the Red River. The crossing is a single-lane bridge with [paved parking lot](https://maps.app.goo.gl/u7rWes1qr7cEyJL69) with restrooms on the northeast side. 
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924549443/in/album-72177720330324746" title="PXL_20251020_161704347"><img src="https://live.staticflickr.com/65535/54924549443_e9410ecaaf_c.jpg" width="602" height="800" alt="PXL_20251020_161704347"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Single-lane bridge over Red River*
+
+I quickly found the Douglas Trail. It was a pleasant walk along the river, though a bit eroded in spots. I stopped for lunch right on the river just before the fork for the Eagle Point Buttress Trail.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924350616/in/album-72177720330324746/" title="PXL_20251020_163110518"><img src="https://live.staticflickr.com/65535/54924350616_214bdabbe1_c.jpg" width="800" height="602" alt="PXL_20251020_163110518"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Large boulders in the river*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924599439/in/album-72177720330324746/" title="PXL_20251020_164818175"><img src="https://live.staticflickr.com/65535/54924599439_5c4f7b95f7_c.jpg" width="800" height="602" alt="PXL_20251020_164818175"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Nice spot for lunch (looking upstream)*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924599454/in/album-72177720330324746/" title="PXL_20251020_164821833"><img src="https://live.staticflickr.com/65535/54924599454_7ffcb09b8d_c.jpg" width="800" height="602" alt="PXL_20251020_164821833"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Nice spot for lunch (looking downstream)*
+
+
+After finishing lunch, I loaded up on water for a lengthy dry stretch and got back on the trail. Garmin navigation absolutely nailed the split in the trail to head towards Eagle Point Buttress. My watch chirped that there was a turn, and right in front of me was a fork in the trail. I headed uphill, and away from the river. The trail was mostly easy to follow as it looped around the base of buttress.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924549498/in/album-72177720330324746/" title="PXL_20251020_171036246"><img src="https://live.staticflickr.com/65535/54924549498_0ae9ed016c_c.jpg" width="800" height="602" alt="PXL_20251020_171036246"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Looking up at Eagle Point Buttress*
+
+The trail then climbed up a steady incline over roots and rocks. Just keep heading up until things level out at the top. From there a followed a spur trail to the left towards the overlook. Definitely do not stop at the first vista! Eventually the trail reaches a large, open promontory with 270-degree views of the Gorge with the Red River below.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923481217/in/album-72177720330324746/" title="PXL_20251020_172703992"><img src="https://live.staticflickr.com/65535/54923481217_d56002f31f_c.jpg" width="800" height="602" alt="PXL_20251020_172703992"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923481232/in/album-72177720330324746/" title="PXL_20251020_172835819"><img src="https://live.staticflickr.com/65535/54923481232_eb039a5abd_c.jpg" width="602" height="800" alt="PXL_20251020_172835819"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924655325/in/album-72177720330324746/" title="PXL_20251020_173209531"><img src="https://live.staticflickr.com/65535/54924655325_8ff3615ce6_c.jpg" width="800" height="602" alt="PXL_20251020_173209531"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Views from Eagle Point Buttress Overlook*
+
+Had I known how great the overlook would be, I would have waited to eat lunch up at the top! Definitely one of the highlights of the trip!
+
+After enjoying the sunshine, blue sky, and views at the overlook for a bit, I got back on the trail, heading north/northwest to link up with the Osborne Bend Trail. Because it is not an official trail, there are no blazes.
+
+**Be careful on this section. I recommend having a GPS device in addition to a map**. 
+
+The trail is relatively flat, but significant deadfall makes it very easy to lose the trail, which  also gets pretty faint at times. I lost the trail about half a mile in and ended up several hundred feet off trail. Because I had GPS on my watch, I was able to hold a bearing and intersect back up with the trail, but not after wandering around for close to half an hour. I was not particularly concerned since I knew the direction I needed to go thanks to GPS, but if I had only a paper map the situation could have become much more problematic.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923481257/in/album-72177720330324746/" title="PXL_20251020_174156860"><img src="https://live.staticflickr.com/65535/54923481257_e9625603c4_c.jpg" width="602" height="800" alt="PXL_20251020_174156860"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Deadfall on the way to the Osborne Bend trail*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924655340/in/album-72177720330324746/" title="PXL_20251020_181520164"><img src="https://live.staticflickr.com/65535/54924655340_2d1eedd9ff_c.jpg" width="602" height="800" alt="PXL_20251020_181520164"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Easier woods walking once on the actual Osborne Bend trail*
+
+Once on the Osborne Bend trail, it became easier to navigate. The Lost Branch trali was a rough stretch of trail. Fortunately it had been so dry I did not have to deal wtth much mud, and I was going steadily downhill, but the descent was steep and rocky enough that I had to pick my way also pretty slowly. 
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924655350/in/album-72177720330324746/" title="PXL_20251020_191618860"><img src="https://live.staticflickr.com/65535/54924655350_8eb552d7ab_c.jpg" width="602" height="800" alt="PXL_20251020_191618860"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Making my way downhill on the Lost Branch trail*
+
+I finally reached Gladie Creek around 3:30 PM where I was able to refill my water supply. Unfortunately, my Sawyer Squeeze still was not flowing quite as fast as I would have liked, so each stop to filter water took longer than I would have liked. Still, it was at least a consistent flow, much better than my near-disaster last year in the Dolly Sods. The creek was also lovely in the low-angle mid-afternoon sunshine.
 
 
 
