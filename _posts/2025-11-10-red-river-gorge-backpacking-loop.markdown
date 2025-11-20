@@ -56,7 +56,7 @@ The rest of my gear list can be found [here](https://lighterpack.com/r/qqyn7t).
 
 # Trip Report
 
-## Day 1
+## Day 1: Eagle Point, Lost in the Woods and Creeks, and Indian Staircase
 
 Any overnight parking in the Gorge requires a pass, so my trip began at the Pine Ridge Mart, where I bought my 3-day pass. From there, I headed to the Rough Trail/Swift Camp Creek [trailhead parking lot](https://maps.app.goo.gl/E86Ge2JREbT1C4u77).
 
@@ -130,7 +130,7 @@ I saw a large campsite on the north side, checked it out, and quickly found the 
 The Sheltowee started with nice easy walking through rhododendrons and eventually descended deeper into the woods towards the Garrett Branch crossing. Here I encountered more route-finding fun! Even though I was now on a major long-distance trail, the blazes left a lot to be desired. The map showed a roughly 180-degree turn a bit past Garrett Branch; however, being a seasonal stream, it is not clear where exactly it actually is. I began heading uphill on what appeared to be a fairly well-trodden path that almost immediately disappeared. A bit more fumbling in the woods before retracing the path downhill. The turn was a much tighter hairpin than the map indicated right at Garrett Branch, not just past it. After retracing my steps back to the crossing, I was able to find a blaze on the other side and verify that I had found the trail again.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924350756/in/album-72177720330324746/" title="PXL_20251020_204723409"><img src="https://live.staticflickr.com/65535/54924350756_1321d442b7_c.jpg" width="800" height="602" alt="PXL_20251020_204723409"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-*Quick hairpin to the left, not straight ahead and uphill*
+*Quick hairpin to the left, not to the right and uphill*
 
 By this point, I was considering where I was going to camp for the night. I had thought I might make it past the Indian Staircase and Cloud Splitter on the first day, but my misadventures getting off trail had slowed me down a fair amount. I also knew those would be some of the highlights of the trip and did not want to rush through them. The stretch of trail between and beyond them was also dry until I reached the Red River. Klaber Branch would be the last water source until the Red River crossing. I decided if there was a good spot by Klaber Branch I would camp there; otherwise I would load up on water and find a good spot near Indian Staircase.
 
@@ -162,6 +162,40 @@ There are a number of nice campsites along the trail the follows the gorge rim. 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924350886/in/album-72177720330324746/" title="PXL_20251021_112105759"><img src="https://live.staticflickr.com/65535/54924350886_d086c55db0_c.jpg" width="800" height="602" alt="PXL_20251021_112105759"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Goodnight!*
 
-## Day 2
+## Day 2: Cloud Splitter, Red River, Veranda Vista, Gray's Arch, and Hanson's Point
+
+I mentioned this was my first trip with my Garmin watch. In addition to navigation, one of its other features is sleep tracking. My watch was *very* concerned about me. I noticed four warnings about abnormal health/sleep metrics and I had my second-lowest sleep score ever (48), topped only by a night of hanging out with friends until almost 2 AM where I barely got four hours of sleep. 
+
+Despite Garmin thinking I was dying, I felt pretty good, all things considered. I awoke to a lovely morning. I packed up camp and admired the Gorge in the morning light from different angles as I walked aroud the rim.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924549703/in/album-72177720330324746/" title="PXL_20251021_114647853"><img src="https://live.staticflickr.com/65535/54924549703_6e67541ffe_c.jpg" width="800" height="602" alt="PXL_20251021_114647853"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923481422/in/album-72177720330324746/" title="PXL_20251021_115343349"><img src="https://live.staticflickr.com/65535/54923481422_8eb1627bf0_c.jpg" width="800" height="602" alt="PXL_20251021_115343349"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924599074/in/album-72177720330324746/" title="PXL_20251021_120733726"><img src="https://live.staticflickr.com/65535/54924599074_75d9a4e93b_c.jpg" width="800" height="602" alt="PXL_20251021_120733726"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Views around the rim past Indian Staircase
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923481447/in/album-72177720330324746/" title="PXL_20251021_122402833"><img src="https://live.staticflickr.com/65535/54923481447_c5ab0b0f27_c.jpg" width="800" height="602" alt="PXL_20251021_122402833"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Red River below*
+
+I took the spur trail to Adena Arch--definitely worth checking out. In addition to the arch itself, the spur has several nice vistas, and I stopped at one to make breakfast.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924549763/in/album-72177720330324746/" title="PXL_20251021_122526224"><img src="https://live.staticflickr.com/65535/54924549763_23298670fa_c.jpg" width="800" height="602" alt="PXL_20251021_122526224"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923481452/in/album-72177720330324746/" title="PXL_20251021_122546561"><img src="https://live.staticflickr.com/65535/54923481452_e888d31896_c.jpg" width="800" height="602" alt="PXL_20251021_122546561"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Adena Arch*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924655575/in/album-72177720330324746/" title="PXL_20251021_122938814"><img src="https://live.staticflickr.com/65535/54924655575_f9f19a4c43_c.jpg" width="800" height="602" alt="PXL_20251021_122938814"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Adena Arch trail vista*
+
+After breakfast, I headed downhill just a bit to check out Indian Arch. It's a short detour to see it, but it felt a bit underwhelming to me.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924655575/in/album-72177720330324746/" title="PXL_20251021_122938814"><img src="https://live.staticflickr.com/65535/54924655575_f9f19a4c43_c.jpg" width="800" height="602" alt="PXL_20251021_122938814"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Indian Arch*
+
+
+
+
+## Day 3: Chimney Top Creek Crossings, Rough Trail, and Cool Caves
 
 *This post contains affiliate links. If you use them, thanks for helping to fund my next trip!*
