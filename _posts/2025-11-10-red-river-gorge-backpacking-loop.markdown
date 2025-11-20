@@ -110,8 +110,58 @@ Once on the Osborne Bend trail, it became easier to navigate. The Lost Branch tr
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924655350/in/album-72177720330324746/" title="PXL_20251020_191618860"><img src="https://live.staticflickr.com/65535/54924655350_8eb552d7ab_c.jpg" width="602" height="800" alt="PXL_20251020_191618860"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Making my way downhill on the Lost Branch trail*
 
-I finally reached Gladie Creek around 3:30 PM where I was able to refill my water supply. Unfortunately, my Sawyer Squeeze still was not flowing quite as fast as I would have liked, so each stop to filter water took longer than I would have liked. Still, it was at least a consistent flow, much better than my near-disaster last year in the Dolly Sods. The creek was also lovely in the low-angle mid-afternoon sunshine.
+I finally reached Gladie Creek around 3:30 PM where I was able to refill my water supply. Unfortunately, my Sawyer Squeeze still was not flowing quite as fast as I would have liked, so each stop to filter water took longer than I would have liked. Still, it was at least a consistent flow, much better than my near-disaster last year in the Dolly Sods. The creek was lovely in the low-angle mid-afternoon sunshine.
+
+I crossed the creek to continue on the trail but managed to almost immediately lose it again. I thought I was following it along the creek, but I must have taken a side trail to the creek itself. Reviewing the map and elevation profile afterwards, it looks like I should have gained some elevation as the trail paralleled Gladie Creek. From where I ended up, there was no clear path uphill to any trail, and the path along the north side of the creek eventually ended as small bluffs rose out the water. After backtracking a bit, finding no obvious fork, and returning to the edge of the creek, I started wondering whether my map was inaccurate and the trail was actually on the south side of the creek. Looking across, there did appear to be a bit of a path, so I crossed the creek and gave it a shot. It quickly petered out. Returning to the map, I knew that Salt Fork would be joining Gladie Creek shortly downstream, which should be an unmistakable landmark. With my feet already wet and the creek shallow and sandy, I waded down the one clear and obvious path: Glade Creek itself. 
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924599584/in/album-72177720330324746/" title="PXL_20251020_195844483"><img src="https://live.staticflickr.com/65535/54924599584_bd218ebd8a_c.jpg" width="602" height="800" alt="PXL_20251020_195844483"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Good walking, I guess?*
+
+Fortunately, my route finding skills did not turn out to be completely worthless, and I quickly reached Salt Fork. The next challenge was making sure I actually found the trail on the other side. I paused on the south bank to survey the other side and noticed some large droppings. "Pretty remote spot for dog poop, and dogs probably aren't eating that many berries", I thought to myself, before moving on. 
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924350731/in/album-72177720330324746/" title="PXL_20251020_201537133"><img src="https://live.staticflickr.com/65535/54924350731_0e1d934605_c.jpg" width="602" height="800" alt="PXL_20251020_201537133"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Not camping here tonight!*
+
+I saw a large campsite on the north side, checked it out, and quickly found the trail, which was now the Sheltowee Trace with it's white turtle blazes. Looking back where I should have come from, there was clearly a trail, so I definitely missed a turn somewhere upstream.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924350746/in/album-72177720330324746/" title="PXL_20251020_202003569.MP"><img src="https://live.staticflickr.com/65535/54924350746_fa5a79163b_c.jpg" width="602" height="800" alt="PXL_20251020_202003569.MP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Where I should have come from*
+
+The Sheltowee started with nice easy walking through rhododendrons and eventually descended deeper into the woods towards the Garrett Branch crossing. Here I encountered more route-finding fun! Even though I was now on a major long-distance trail, the blazes left a lot to be desired. The map showed a roughly 180-degree turn a bit past Garrett Branch; however, being a seasonal stream, it is not clear where exactly it actually is. I began heading uphill on what appeared to be a fairly well-trodden path that almost immediately disappeared. A bit more fumbling in the woods before retracing the path downhill. The turn was a much tighter hairpin than the map indicated right at Garrett Branch, not just past it. After retracing my steps back to the crossing, I was able to find a blaze on the other side and verify that I had found the trail again.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924350756/in/album-72177720330324746/" title="PXL_20251020_204723409"><img src="https://live.staticflickr.com/65535/54924350756_1321d442b7_c.jpg" width="800" height="602" alt="PXL_20251020_204723409"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Quick hairpin to the left, not straight ahead and uphill*
+
+By this point, I was considering where I was going to camp for the night. I had thought I might make it past the Indian Staircase and Cloud Splitter on the first day, but my misadventures getting off trail had slowed me down a fair amount. I also knew those would be some of the highlights of the trip and did not want to rush through them. The stretch of trail between and beyond them was also dry until I reached the Red River. Klaber Branch would be the last water source until the Red River crossing. I decided if there was a good spot by Klaber Branch I would camp there; otherwise I would load up on water and find a good spot near Indian Staircase.
+
+As it turns out, even though Klaber Branch is shown as a year-round steam on the map, there is not much flow, at least in late fall in a dry year. No campsite either, so after filtering and grabbing an extra liter to carry, I headed on toward Indian Staircase. I reached the base right around the golden hour.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924549658/in/album-72177720330324746/" title="PXL_20251020_220734729"><img src="https://live.staticflickr.com/65535/54924549658_9fb9937605_c.jpg" width="800" height="602" alt="PXL_20251020_220734729"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Base of the staircase*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924655465/in/album-72177720330324746/" title="PXL_20251020_221058995"><img src="https://live.staticflickr.com/65535/54924655465_46eca064a0_c.jpg" width="800" height="602" alt="PXL_20251020_221058995"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Going up!*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923481382/in/album-72177720330324746/" title="PXL_20251020_221130611"><img src="https://live.staticflickr.com/65535/54923481382_1a32eac740_c.jpg" width="800" height="602" alt="PXL_20251020_221130611"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Sun dipping below the gorge rim on the way up*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924350851/in/album-72177720330324746/" title="PXL_20251020_221338923"><img src="https://live.staticflickr.com/65535/54924350851_628de5e7df_c.jpg" width="602" height="800" alt="PXL_20251020_221338923"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Almost to the top!*
 
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924350896/in/album-72177720330324746/" title="PXL_20251020_221619040"><img src="https://live.staticflickr.com/65535/54924350896_619b72de0d_c.jpg" width="800" height="602" alt="PXL_20251020_221619040"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Made it!*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923481402/in/album-72177720330324746/" title="PXL_20251020_221507670"><img src="https://live.staticflickr.com/65535/54923481402_c1286b8818_c.jpg" width="800" height="602" alt="PXL_20251020_221507670"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924655490/in/album-72177720330324746/" title="PXL_20251020_221548818"><img src="https://live.staticflickr.com/65535/54924655490_c18e87b32b_c.jpg" width="800" height="602" alt="PXL_20251020_221548818"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Views from the top*
+
+There are a number of nice campsites along the trail the follows the gorge rim. I unloaded my gear and took my cook kit to a ledge to make dinner, savor the solitude, and watch the sunset. Despite some wrong turns along the way, day one was in the books, and capped off by beatiful views of the Gorge.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924350886/in/album-72177720330324746/" title="PXL_20251021_112105759"><img src="https://live.staticflickr.com/65535/54924350886_d086c55db0_c.jpg" width="800" height="602" alt="PXL_20251021_112105759"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Goodnight!*
+
+## Day 2
 
 *This post contains affiliate links. If you use them, thanks for helping to fund my next trip!*
