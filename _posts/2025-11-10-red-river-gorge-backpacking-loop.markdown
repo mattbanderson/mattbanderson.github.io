@@ -193,6 +193,72 @@ After breakfast, I headed downhill just a bit to check out Indian Arch. It's a s
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924655575/in/album-72177720330324746/" title="PXL_20251021_122938814"><img src="https://live.staticflickr.com/65535/54924655575_f9f19a4c43_c.jpg" width="800" height="602" alt="PXL_20251021_122938814"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Indian Arch*
 
+I continued on the trail a couple miles to reach the Cloud Splitter spur. It's a bit of scramble up boulders and roots. I quickly dropped by pack to recover on the way back down. Eventually you emerge onto mostly bare rock and must decide if you are up for trusting a rope of unknown age to climb a crack to reach the top. 
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923481492/in/album-72177720330324746/" title="PXL_20251021_135321499"><img src="https://live.staticflickr.com/65535/54923481492_49dec0f243_c.jpg" width="602" height="800" alt="PXL_20251021_135321499"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Cloud Splitter looming in the background*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924549823/in/album-72177720330324746/" title="PXL_20251021_135427291"><img src="https://live.staticflickr.com/65535/54924549823_316aff4f87_c.jpg" width="800" height="602" alt="PXL_20251021_135427291"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Not quite as vertical as it looks, but the rope is definitely required*
+
+I carefully made my way up the rope, being careful to keep my toeholds as secure as possible. It's a little sketchy but the 360-degree views from the top are absolutely worth it!
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924655640/in/album-72177720330324746/" title="PXL_20251021_135715332.MP"><img src="https://live.staticflickr.com/65535/54924655640_7172955e20_c.jpg" width="800" height="602" alt="PXL_20251021_135715332.MP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924599824/in/album-72177720330324746/" title="PXL_20251021_135831245"><img src="https://live.staticflickr.com/65535/54924599824_39fe96da86_c.jpg" width="800" height="602" alt="PXL_20251021_135831245"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924549878/in/album-72177720330324746/" title="PXL_20251021_135913662"><img src="https://live.staticflickr.com/65535/54924549878_20a661bf2d_c.jpg" width="602" height="800" alt="PXL_20251021_135913662"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*On top of Cloud Splitter*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923481552/in/album-72177720330324746/" title="PXL_20251021_140407187"><img src="https://live.staticflickr.com/65535/54923481552_cd62f84c82_c.jpg" width="800" height="602" alt="PXL_20251021_140407187"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Heading back down*
+
+The trip down the rope/crack is even more heartpounding than the way up. Proceed slowly and carefully. From Cloud Splitter, a half mile or so further along the Sheltowee is the Nowhere Trail spur. I was going to skip it but decided to check it out on a whim.  The sun was starting to break through and added some flavor to the view.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923481567/in/album-72177720330324746/" title="PXL_20251021_143405696"><img src="https://live.staticflickr.com/65535/54923481567_18f4c53319_c.jpg" width="800" height="602" alt="PXL_20251021_143405696"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924599874/in/album-72177720330324746/" title="PXL_20251021_143436049"><img src="https://live.staticflickr.com/65535/54924599874_ceefd63d51_c.jpg" width="800" height="602" alt="PXL_20251021_143436049"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924351046/in/album-72177720330324746/" title="PXL_20251021_143646797"><img src="https://live.staticflickr.com/65535/54924351046_85cbc69ba9_c.jpg" width="800" height="602" alt="PXL_20251021_143646797"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Nowhere Trail overlook*
+
+By this point, I was running low on water due to the dry camp and several stops. I rationed the last bit I had left, knowing there would be plenty to drink in 1.5 miles once I reached the Red River crossing. I knew the suspension bridge was out, but it was still sad to see the extent of the damage.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923481622/in/album-72177720330324746/" title="PXL_20251021_150433614"><img src="https://live.staticflickr.com/65535/54923481622_ecf04a6d6b_c.jpg" width="800" height="602" alt="PXL_20251021_150433614"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Remains of the bridge over the Red River*
+
+The river was easy to cross with the fall being so dry. The bottom was nice and sandy, so I decided to take a break for an early lunch sitting on a log with my feet in the river. After a nice break in the sun, 
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924549928/in/album-72177720330324746/" title="PXL_20251021_150609138"><img src="https://live.staticflickr.com/65535/54924549928_741115be34_c.jpg" width="800" height="602" alt="PXL_20251021_150609138"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Nice spot for lunch*
+
+I waded across to the left of the bridge, as I saw a bit of a path and a rope hanging down the bank to help climb up. I naively assumed I would just pick up the trail, but there were a ton of downed trees I had to pick my way through. After a couple of false starts, I made my way through and picked up the trail, only to pass much easier climb up the bank to meet the trail. Moral of the story: if you are heading south on the Sheltowee Trace, cross the river south of the bridge and look for a spot to climb the bank and join the trail. I stopped briefly to check out Jump Rock but declined to take a jump myself. Maybe if it were summer!
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924549978/in/album-72177720330324746/" title="PXL_20251021_160715392"><img src="https://live.staticflickr.com/65535/54924549978_de3366cd46_c.jpg" width="800" height="602" alt="PXL_20251021_160715392"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Not jumping today!*
+
+Just a bit further down the trail, it bends east then makes a quick hairpin turn back to the west. It is at this point that the Low Rider trail splits off. According to *Hinterlands*, this trail will take you to Chimney Top Rock and Half Moon Arch. I was interested in giving it a shot, and a trail was clear for a hundred feet or so, but it quickly disappeared. Not wanting another off-trail episode, I opted to return to the Sheltowee.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924655890/in/album-72177720330324746/" title="PXL_20251021_163436469"><img src="https://live.staticflickr.com/65535/54924655890_562bfcd244_c.jpg" width="602" height="800" alt="PXL_20251021_163436469"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Sunshine along Chimney Top Creek*
+
+The trail followed Chimney Top Creek for a mile or so before merging into the Rough Trail and crossing the creek heading west. I wanted to camp at Hanson's Point, and looking at the map and amount of daylight left, I felt comfortable looping past it to go see Gray's Arch and circling back around along the Pinch 'Em Tight ridge to finish the day at Hanson's. Since I would be passing the spur shortly before continuing on my loop, I took an extra liter of water from the creek to cache for the evening/next morning.
+
+The climb up the ridge was one of the biggest of the trip, checking in at about 500 feet of elevation gain. Once up on the ridge, I passed the intersection with the Pinch 'Em Tight trail (where I would come from to end the day) and took the Hanson's Point spur to check it out. I reached the first large campsite and dropped my liter of water by log. I ran into several other hikers on the spur--it's a popular place to visit. Two of them were coming back from the point and assured me it was well worth it.
+
+Returning to the Rough Trail (the Sheltowee follows the Pinch 'Em Tight Trail), I descended to Rush Branch. A little over a quarter-mile past Rush Branch, as the trail is ascending back onto a ridge, there is a large rock overhang where it is not clear which way the trail goes. IIRC, I looked left, thought, "Ha that *looks* like a trail, but I clearly see trail going to the right", went right, realized that went nowhere, and turned back around and went left. Eventually I found a downed tree with a blaze and continued on my way.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924351236/in/album-72177720330324746/" title="PXL_20251021_181758053"><img src="https://live.staticflickr.com/65535/54924351236_43291596df_c.jpg" width="800" height="602" alt="PXL_20251021_181758053"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Left!*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923481777/in/album-72177720330324746/" title="PXL_20251021_181753902"><img src="https://live.staticflickr.com/65535/54923481777_6fc348f300_c.jpg" width="800" height="602" alt="PXL_20251021_181753902"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+"No, right!"
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923480777/in/album-72177720330324746/" title="PXL_20251021_181856246"><img src="https://live.staticflickr.com/65535/54923480777_382a839e0a_c.jpg" width="602" height="800" alt="PXL_20251021_181856246"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+"Ah, there it is!"
+
+
+
 
 
 
