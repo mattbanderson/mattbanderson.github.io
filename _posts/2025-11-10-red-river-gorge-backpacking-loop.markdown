@@ -257,9 +257,30 @@ Returning to the Rough Trail (the Sheltowee follows the Pinch 'Em Tight Trail), 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923480777/in/album-72177720330324746/" title="PXL_20251021_181856246"><img src="https://live.staticflickr.com/65535/54923480777_382a839e0a_c.jpg" width="602" height="800" alt="PXL_20251021_181856246"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 "Ah, there it is!"
 
+Once onto Rush Ridge, I took the Veranda Trail spur to the overlook. Definitely worth a visit! There is also a nice campsite along the way.
+I took a snack break on the point and relaxed in the sun for a bit. A breeze was blowing, making for nearly perfect weather.
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924654795/in/album-72177720330324746/" title="PXL_20251021_182938948"><img src="https://live.staticflickr.com/65535/54924654795_45d5509fca_c.jpg" width="800" height="602" alt="PXL_20251021_182938948"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Campsite on Veranda Trail*
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924549018/in/album-72177720330324746/" title="PXL_20251021_183052684"><img src="https://live.staticflickr.com/65535/54924549018_635931c12d_c.jpg" width="800" height="602" alt="PXL_20251021_183052684"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Approaching the overlook*
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924548973/in/album-72177720330324746/" title="PXL_20251021_184952996"><img src="https://live.staticflickr.com/65535/54924548973_02b7560873_c.jpg" width="800" height="602" alt="PXL_20251021_184952996"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924548988/in/album-72177720330324746/" title="PXL_20251021_184032115"><img src="https://live.staticflickr.com/65535/54924548988_1d2610860d_c.jpg" width="800" height="602" alt="PXL_20251021_184032115"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924654760/in/album-72177720330324746/" title="PXL_20251021_183145068"><img src="https://live.staticflickr.com/65535/54924654760_c5bd550ebb_c.jpg" width="800" height="602" alt="PXL_20251021_183145068"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*More great views!*
+
+Back on the main trail, I descended about 400 feet from the ridge down to King Branch. The descent was steep enough that there were stairs along part of it.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924350251/in/album-72177720330324746/" title="PXL_20251021_190401714"><img src="https://live.staticflickr.com/65535/54924350251_df56e439ea_c.jpg" width="602" height="800" alt="PXL_20251021_190401714"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Stairs descending to King Branch*
+
+I stopped to filter water at King Branch. My Saywer filter had been slow but usable for most of the trip, but for whatever reason, it was not until this moment that I decided to try filling my water bottle with dirty water and drinking directly from the filter by squeezing. This worked pretty well! Yes, I had to occasionally unscrew the filter enough to let in more air but the flow rate was more than adequate, and I no longer needed to spend a bunch of time sitting and filter when I would rather be moving. No idea why it took me so long to try this!
+
+Ironically, just across King Branch, I ran into a pair of hiker who were also filtering. The person filtering raved about his Katadyne filter and how he much preferred it to Saywer, but to be perfectly honest, as I watching him, the flow rate looked basically identical to my Sawyer. Seems all hikers have the same set of problems and complaints!
 
 
 ## Day 3: Chimney Top Creek Crossings, Rough Trail, and Cool Caves
