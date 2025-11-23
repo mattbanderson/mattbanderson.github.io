@@ -280,9 +280,64 @@ Back on the main trail, I descended about 400 feet from the ridge down to King B
 
 I stopped to filter water at King Branch. My Saywer filter had been slow but usable for most of the trip, but for whatever reason, it was not until this moment that I decided to try filling my water bottle with dirty water and drinking directly from the filter by squeezing. This worked pretty well! Yes, I had to occasionally unscrew the filter enough to let in more air but the flow rate was more than adequate, and I no longer needed to spend a bunch of time sitting and filter when I would rather be moving. No idea why it took me so long to try this!
 
-Ironically, just across King Branch, I ran into a pair of hiker who were also filtering. The person filtering raved about his Katadyne filter and how he much preferred it to Saywer, but to be perfectly honest, as I watching him, the flow rate looked basically identical to my Sawyer. Seems all hikers have the same set of problems and complaints!
+Ironically, just across King Branch, I ran into a pair of hiker who were also filtering. The person filtering raved about his Katadyne filter and how he much preferred it to Saywer, but to be honest, as I watched him, the flow rate looked basically identical to my Sawyer. Seems all hikers have the same set of problems and complaints!
 
+From King Branch came a big climb up to Gray's Arch, about 250 feet to the base of the arch and another 300 or so after that to reach the ridge. Gray's Arch is very impressive!
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924350226/in/album-72177720330324746/" title="PXL_20251021_193533245"><img src="https://live.staticflickr.com/65535/54924350226_a499bf418c_c.jpg" width="800" height="602" alt="PXL_20251021_193533245"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Approaching Gray's Arch*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924655950/in/album-72177720330324746/" title="PXL_20251021_193915691"><img src="https://live.staticflickr.com/65535/54924655950_61a7f93bc5_c.jpg" width="800" height="602" alt="PXL_20251021_193915691"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924600034/in/album-72177720330324746/" title="PXL_20251021_194048128.MP"><img src="https://live.staticflickr.com/65535/54924600034_28f6ee6b70_c.jpg" width="800" height="602" alt="PXL_20251021_194048128.MP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Gray's Arch*
+
+Once on the ridge, the trail was a flat and easy walk though the woods. I skipped the D. Boon Hut Trail to ensure I had plenty of time to make it back to Hanson's Point, set up camp, and enjoy the evening. 
+After a brief road walk along Tunnel Ridge Road, I was back on the Sheltowee Trace heading east towards the Pinch 'Em Tight Trail to complete my loop back to Hanson's Point.
+The Pinch 'Em Tight Trail has some interesting exposed rocks steps/ledges but overall was an easy hike.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924600074/in/album-72177720330324746/" title="PXL_20251021_203232440"><img src="https://live.staticflickr.com/65535/54924600074_de2f831af6_c.jpg" width="602" height="800" alt="PXL_20251021_203232440"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924598974/in/album-72177720330324746/" title="PXL_20251021_204240066"><img src="https://live.staticflickr.com/65535/54924598974_31ccea7680_c.jpg" width="800" height="602" alt="PXL_20251021_204240066"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Exposed rock on the Pinch 'Em Tight Trail*
+
+I made it back to the spur trail shortly after 5 PM, retrieved my water, and continued down the spur trail to find a campsite. Six or seven sites were occupied but there are multiple huge campsites and many smaller ones to choose from.
+I went all the way out to the point and then backtracked to find a spot I liked close to the point. I could have camped almost right on the point, but decided to choose something more sheltered in case of wind overnight and not directly on the trail. I found a nice little spot tucked into the trees with just enough room for my tent.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924656080/in/album-72177720330324746/" title="PXL_20251021_222630995"><img src="https://live.staticflickr.com/65535/54924656080_77e436e181_c.jpg" width="800" height="602" alt="PXL_20251021_222630995"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Campsite*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924351301/in/album-72177720330324746/" title="PXL_20251021_212016300"><img src="https://live.staticflickr.com/65535/54924351301_d9c3c83183_c.jpg" width="800" height="602" alt="PXL_20251021_212016300"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Hanson's Point*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924600089/in/album-72177720330324746/" title="PXL_20251021_212011153"><img src="https://live.staticflickr.com/65535/54924600089_b177382752_c.jpg" width="800" height="602" alt="PXL_20251021_212011153"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924656020/in/album-72177720330324746/" title="PXL_20251021_212039405"><img src="https://live.staticflickr.com/65535/54924656020_47e58b8545_c.jpg" width="800" height="602" alt="PXL_20251021_212039405"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924351336/in/album-72177720330324746/" title="PXL_20251021_212201521"><img src="https://live.staticflickr.com/65535/54924351336_781f353a7a_c.jpg" width="800" height="602" alt="PXL_20251021_212201521"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Views all around!*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924548863/in/album-72177720330324746/" title="PXL_20251021_214109425"><img src="https://live.staticflickr.com/65535/54924548863_57fdaa6922_c.jpg" width="800" height="602" alt="PXL_20251021_214109425"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924656085/in/album-72177720330324746/" title="PXL_20251021_230116344"><img src="https://live.staticflickr.com/65535/54924656085_8659ed2028_c.jpg" width="800" height="602" alt="PXL_20251021_230116344"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924600189/in/album-72177720330324746/" title="PXL_20251021_230400652"><img src="https://live.staticflickr.com/65535/54924600189_47f4463f33_c.jpg" width="800" height="602" alt="PXL_20251021_230400652"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Light fading away*
 
 ## Day 3: Chimney Top Creek Crossings, Rough Trail, and Cool Caves
+
+I woke up before dawn and packed up camp so that I could head back to the point for sunrise. I found a nice spot to sit, cooked breakfast, and watched the sun climb over the ridgeline. In addition to the sunrise, it was interested to the see the fog settled in the Gorge over the Red River.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924351411/in/album-72177720330324746/" title="PXL_20251022_113216146"><img src="https://live.staticflickr.com/65535/54924351411_a18809e14c_c.jpg" width="800" height="602" alt="PXL_20251022_113216146"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*First light*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923481957/in/album-72177720330324746/" title="PXL_20251022_114325543"><img src="https://live.staticflickr.com/65535/54923481957_36024a2d17_c.jpg" width="800" height="602" alt="PXL_20251022_114325543"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Fog over the Red River*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924550178/in/album-72177720330324746/" title="PXL_20251022_120200862"><img src="https://live.staticflickr.com/65535/54924550178_679de3a20c_c.jpg" width="800" height="602" alt="PXL_20251022_120200862"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Good morning, sunshine!*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924350136/in/album-72177720330324746/" title="PXL_20251022_120321920"><img src="https://live.staticflickr.com/65535/54924350136_5002ef49ff_c.jpg" width="800" height="602" alt="PXL_20251022_120321920"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Light hitting the far side of the Gorge
 
 *This post contains affiliate links. If you use them, thanks for helping to fund my next trip!*
