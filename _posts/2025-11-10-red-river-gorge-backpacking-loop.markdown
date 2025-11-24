@@ -1,7 +1,7 @@
 ---
 
 title: Red River Gorge Backpacking Loop
-date: '2025-11-10 21:15:00'
+date: '2025-11-23 21:15:00'
 ---
 
 # About The Gorge 
@@ -44,7 +44,7 @@ Not much new gear for this trip--the big change was removing the hip belt and fr
 
 **Big takeaway: going frameless/beltless was a huge success**! 
 
-On my shorter hikes, I really liked having my hips and legs completely free of any restrictions from a belt. It felt rgreat to see that translate completely to an actual trip without any negative side-effects. I did not notice any lack of support and would not hesitate to do it again. 
+On my shorter hikes, I really liked having my hips and legs completely free of any restrictions from a belt. It felt great to see that translate completely to an actual trip without any negative side-effects. I did not notice any lack of support and would not hesitate to do it again. 
 
 ## GPS Watch Navigation
 
@@ -105,7 +105,7 @@ The trail is relatively flat, but significant deadfall makes it very easy to los
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924655340/in/album-72177720330324746/" title="PXL_20251020_181520164"><img src="https://live.staticflickr.com/65535/54924655340_2d1eedd9ff_c.jpg" width="602" height="800" alt="PXL_20251020_181520164"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Easier woods walking once on the actual Osborne Bend trail*
 
-Once on the Osborne Bend trail, it became easier to navigate. The Lost Branch trali was a rough stretch of trail. Fortunately it had been so dry I did not have to deal wtth much mud, and I was going steadily downhill, but the descent was steep and rocky enough that I had to pick my way also pretty slowly. 
+Once on the Osborne Bend trail, it became easier to navigate. The Lost Branch trail was a rough stretch of trail. Fortunately it had been so dry I did not have to deal with much mud, and I was going steadily downhill, but the descent was steep and rocky enough that I had to pick my way also pretty slowly. 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924655350/in/album-72177720330324746/" title="PXL_20251020_191618860"><img src="https://live.staticflickr.com/65535/54924655350_8eb552d7ab_c.jpg" width="602" height="800" alt="PXL_20251020_191618860"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Making my way downhill on the Lost Branch trail*
@@ -157,7 +157,7 @@ As it turns out, even though Klaber Branch is shown as a year-round steam on the
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924655490/in/album-72177720330324746/" title="PXL_20251020_221548818"><img src="https://live.staticflickr.com/65535/54924655490_c18e87b32b_c.jpg" width="800" height="602" alt="PXL_20251020_221548818"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Views from the top*
 
-There are a number of nice campsites along the trail the follows the gorge rim. I unloaded my gear and took my cook kit to a ledge to make dinner, savor the solitude, and watch the sunset. Despite some wrong turns along the way, day one was in the books, and capped off by beatiful views of the Gorge.
+There are a number of nice campsites along the trail the follows the gorge rim. I unloaded my gear and took my cook kit to a ledge to make dinner, savor the solitude, and watch the sunset. Despite some wrong turns along the way, day one was in the books, and capped off by beautiful views of the Gorge.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924350886/in/album-72177720330324746/" title="PXL_20251021_112105759"><img src="https://live.staticflickr.com/65535/54924350886_d086c55db0_c.jpg" width="800" height="602" alt="PXL_20251021_112105759"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Goodnight!*
@@ -166,7 +166,7 @@ There are a number of nice campsites along the trail the follows the gorge rim. 
 
 I mentioned this was my first trip with my Garmin watch. In addition to navigation, one of its other features is sleep tracking. My watch was *very* concerned about me. I noticed four warnings about abnormal health/sleep metrics and I had my second-lowest sleep score ever (48), topped only by a night of hanging out with friends until almost 2 AM where I barely got four hours of sleep. 
 
-Despite Garmin thinking I was dying, I felt pretty good, all things considered. I awoke to a lovely morning. I packed up camp and admired the Gorge in the morning light from different angles as I walked aroud the rim.
+Despite Garmin thinking I was dying, I felt pretty good, all things considered. I awoke to a lovely morning. I packed up camp and admired the Gorge in the morning light from different angles as I walked aroumd the rim.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924549703/in/album-72177720330324746/" title="PXL_20251021_114647853"><img src="https://live.staticflickr.com/65535/54924549703_6e67541ffe_c.jpg" width="800" height="602" alt="PXL_20251021_114647853"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -213,7 +213,7 @@ I carefully made my way up the rope, being careful to keep my toeholds as secure
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923481552/in/album-72177720330324746/" title="PXL_20251021_140407187"><img src="https://live.staticflickr.com/65535/54923481552_cd62f84c82_c.jpg" width="800" height="602" alt="PXL_20251021_140407187"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Heading back down*
 
-The trip down the rope/crack is even more heartpounding than the way up. Proceed slowly and carefully. From Cloud Splitter, a half mile or so further along the Sheltowee is the Nowhere Trail spur. I was going to skip it but decided to check it out on a whim.  The sun was starting to break through and added some flavor to the view.
+The trip down the rope/crack is even more heart-pounding than the way up. Proceed slowly and carefully. From Cloud Splitter, a half mile or so further along the Sheltowee is the Nowhere Trail spur. I was going to skip it but decided to check it out on a whim.  The sun was starting to break through and added some flavor to the view.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923481567/in/album-72177720330324746/" title="PXL_20251021_143405696"><img src="https://live.staticflickr.com/65535/54923481567_18f4c53319_c.jpg" width="800" height="602" alt="PXL_20251021_143405696"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -246,7 +246,7 @@ The trail followed Chimney Top Creek for a mile or so before merging into the Ro
 
 The climb up the ridge was one of the biggest of the trip, checking in at about 500 feet of elevation gain. Once up on the ridge, I passed the intersection with the Pinch 'Em Tight trail (where I would come from to end the day) and took the Hanson's Point spur to check it out. I reached the first large campsite and dropped my liter of water by log. I ran into several other hikers on the spur--it's a popular place to visit. Two of them were coming back from the point and assured me it was well worth it.
 
-Returning to the Rough Trail (the Sheltowee follows the Pinch 'Em Tight Trail), I descended to Rush Branch. A little over a quarter-mile past Rush Branch, as the trail is ascending back onto a ridge, there is a large rock overhang where it is not clear which way the trail goes. IIRC, I looked left, thought, "Ha that *looks* like a trail, but I clearly see trail going to the right", went right, realized that went nowhere, and turned back around and went left. Eventually I found a downed tree with a blaze and continued on my way.
+Returning to the Rough Trail (the Sheltowee follows the Pinch 'Em Tight Trail), I descended to Rush Branch. A little over a quarter-mile past Rush Branch, as the trail is ascending back onto a ridge, there is a large rock overhang where it is not clear which way the trail goes. If I recall correctly, I looked left, thought, "Ha that *looks* like a trail, but I clearly see trail going to the right", went right, realized that went nowhere, and turned back around and went left. Eventually I found a downed tree with a blaze and continued on my way.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924351236/in/album-72177720330324746/" title="PXL_20251021_181758053"><img src="https://live.staticflickr.com/65535/54924351236_43291596df_c.jpg" width="800" height="602" alt="PXL_20251021_181758053"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Left!*
@@ -278,9 +278,9 @@ Back on the main trail, I descended about 400 feet from the ridge down to King B
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924350251/in/album-72177720330324746/" title="PXL_20251021_190401714"><img src="https://live.staticflickr.com/65535/54924350251_df56e439ea_c.jpg" width="602" height="800" alt="PXL_20251021_190401714"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Stairs descending to King Branch*
 
-I stopped to filter water at King Branch. My Saywer filter had been slow but usable for most of the trip, but for whatever reason, it was not until this moment that I decided to try filling my water bottle with dirty water and drinking directly from the filter by squeezing. This worked pretty well! Yes, I had to occasionally unscrew the filter enough to let in more air but the flow rate was more than adequate, and I no longer needed to spend a bunch of time sitting and filter when I would rather be moving. No idea why it took me so long to try this!
+I stopped to filter water at King Branch. My Sawyer filter had been slow but usable for most of the trip, but for whatever reason, it was not until this moment that I decided to try filling my water bottle with dirty water and drinking directly from the filter by squeezing. This worked pretty well! Yes, I had to occasionally unscrew the filter enough to let in more air but the flow rate was more than adequate, and I no longer needed to spend a bunch of time sitting and filter when I would rather be moving. No idea why it took me so long to try this!
 
-Ironically, just across King Branch, I ran into a pair of hiker who were also filtering. The person filtering raved about his Katadyne filter and how he much preferred it to Saywer, but to be honest, as I watched him, the flow rate looked basically identical to my Sawyer. Seems all hikers have the same set of problems and complaints!
+Ironically, just across King Branch, I ran into a pair of hiker who were also filtering. The person filtering raved about his Katadyne filter and how he much preferred it to Sawyer, but to be honest, as I watched him, the flow rate looked basically identical to my Sawyer. Seems all hikers have the same set of problems and complaints!
 
 From King Branch came a big climb up to Gray's Arch, about 250 feet to the base of the arch and another 300 or so after that to reach the ridge. Gray's Arch is very impressive!
 
