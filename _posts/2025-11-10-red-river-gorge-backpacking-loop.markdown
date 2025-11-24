@@ -340,4 +340,79 @@ I woke up before dawn and packed up camp so that I could head back to the point 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924350136/in/album-72177720330324746/" title="PXL_20251022_120321920"><img src="https://live.staticflickr.com/65535/54924350136_5002ef49ff_c.jpg" width="800" height="602" alt="PXL_20251022_120321920"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Light hitting the far side of the Gorge
 
+My final decision of the trip was whether I would head back the way I came on the Rough Trail or take a slightly longer route on the Pinch 'Em Tight Trail, Buck Trail, and Koomer Ridge Trail before rejoining the Rough Trail just to the southeast of where I started on it yesterday. I decided to take the longer route. 
+
+The Buck Trail was a nice walk through the woods, though close enough to the Bert T. Combs Mountain Parkway that some of the sounds highway reached the trail. The trail dropped about 400 feet down to cross the right fork of Chimney Top Creek. The Gorge almost got me one final time after the creek crossing, as I attempted to follow the "trail" uphill before realizing I could not possibly be on the route. From 50-75 feet above the creek, I spotted a blaze and the trail below and carefully made my way back down.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924600259/in/album-72177720330324746/" title="PXL_20251022_132136459"><img src="https://live.staticflickr.com/65535/54924600259_6e4acf89bf_c.jpg" width="602" height="800" alt="PXL_20251022_132136459"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*If you look carefully, there's a blaze on the tree in the middle*
+
+I climbed back up just shy of 400 feet to gain Koomer Ridge. The trees thinned in a couple places but never quite enough to get a view. I eventually descended another 430 back down to cross the main branch of Chimney Top Creek.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924656205/in/album-72177720330324746/" title="PXL_20251022_141126380.MP"><img src="https://live.staticflickr.com/65535/54924656205_65a7fbb574_c.jpg" width="800" height="602" alt="PXL_20251022_141126380.MP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Chimney Top Creek crossing*
+
+From there, the trail steadily climbed 450+ feet to get back on a ridge. This section has many huge boulders and rock shelters. Once up on the ridge , the trail crosses Chimney Top Ridge Road. Near the road crossing, there was an interesting pile of droppings right in the middle of the trail. ChatGPT says it is definitely black bear. I showed a photo to a friend who studies black bears, and her assessment was that it mostly likely came from a black bear. I did not see any prints or other signs nearby to offer any corroborating evidence.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924654645/in/album-72177720330324746/" title="PXL_20251022_144552449"><img src="https://live.staticflickr.com/65535/54924654645_c50ac37f58_c.jpg" width="602" height="800" alt="PXL_20251022_144552449"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Black bear?*
+
+The trail did not stay level for long (there is a reason it is called "Rough Trail"), and dropped almost 400 feet down to Parched Corn Creek. I was glad I had extra water stashed in my car in the parking area because the creek did not look particularly appealing to drink--mostly stagnant water with a lot of foam and scum. The last mile or so did offer some interesting caves and rock shelters. 
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923481012/in/album-72177720330324746/" title="PXL_20251022_145355363"><img src="https://live.staticflickr.com/65535/54923481012_04db1e51e2_c.jpg" width="800" height="602" alt="PXL_20251022_145355363"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924549388/in/album-72177720330324746/" title="PXL_20251022_145431312"><img src="https://live.staticflickr.com/65535/54924549388_c6006ebe72_c.jpg" width="800" height="602" alt="PXL_20251022_145431312"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924549393/in/album-72177720330324746/" title="PXL_20251022_145520589"><img src="https://live.staticflickr.com/65535/54924549393_02e7ec16b0_c.jpg" width="800" height="602" alt="PXL_20251022_145520589"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Rock shelter near eastern end of Rough Trail*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923480977/in/album-72177720330324746/" title="PXL_20251022_150032735"><img src="https://live.staticflickr.com/65535/54923480977_d7ee8356b5_c.jpg" width="800" height="602" alt="PXL_20251022_150032735"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Another rock shelter*
+
+The creek crossing itself was easy with a small wooden bridge. After a couple of small rises, I reached the final climb up to KY-715 and the trailhead parking lot.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924549253/in/album-72177720330324746/" title="PXL_20251022_153207040"><img src="https://live.staticflickr.com/65535/54924549253_41e916e879_c.jpg" width="800" height="602" alt="PXL_20251022_153207040"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Looking up towards the trailhead*
+
+After observing the minimal number of blazes on many of the other trails, I was amused to see not one but two posts with arrows indicating turns on the last 500 feet of trail. I guess no one wanted to carry any more of them in any further than that! 
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924655040/in/album-72177720330324746/" title="PXL_20251022_153454157"><img src="https://live.staticflickr.com/65535/54924655040_a7d913cbd6_c.jpg" width="602" height="800" alt="PXL_20251022_153454157"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Ascending to the trailhead, pretty sure I would have figured this one out on my own*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923480902/in/album-72177720330324746/" title="PXL_20251022_154618500"><img src="https://live.staticflickr.com/65535/54923480902_0e0a40b0df_c.jpg" width="602" height="800" alt="PXL_20251022_154618500"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Back at the trailhead!*
+
+In just a few more steps, I was back to the trailhead. I enjoyed some water and unloaded my gear into the back. Since the weather was beautiful and the entrance was just 3/4 of mile down the road, I decided to check out the Sky Bridge trail and arch. 
+
+## Day 3 Bonus: Sky Bridge
+
+Sky Bridge is one of the most accessible features in the Gorge. There is a picnic area, several great lookouts along the access road, and an easy 3/4 mile loop trail that goes on top of and below the Sky Bridge Arch. I did the trail first and hit the lookouts on the way out.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924599194/in/album-72177720330324746/" title="PXL_20251022_160120477"><img src="https://live.staticflickr.com/65535/54924599194_4c2a28319c_c.jpg" width="800" height="602" alt="PXL_20251022_160120477"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924654960/in/album-72177720330324746/" title="PXL_20251022_160213108"><img src="https://live.staticflickr.com/65535/54924654960_69614f9356_c.jpg" width="800" height="602" alt="PXL_20251022_160213108"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Sky Bridge from below*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924654900/in/album-72177720330324746/" title="PXL_20251022_160728188"><img src="https://live.staticflickr.com/65535/54924654900_df439e6355_c.jpg" width="800" height="602" alt="PXL_20251022_160728188"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924549113/in/album-72177720330324746/" title="PXL_20251022_160807594"><img src="https://live.staticflickr.com/65535/54924549113_9f81b44963_c.jpg" width="800" height="602" alt="PXL_20251022_160807594"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Looking north into the Gorge from on top of Sky Bridge*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923480812/in/album-72177720330324746/" title="PXL_20251022_160923900.MP"><img src="https://live.staticflickr.com/65535/54923480812_22d1f37fc4_c.jpg" width="602" height="800" alt="PXL_20251022_160923900.MP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*On top of Sky Bridge*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924598854/in/album-72177720330324746/" title="PXL_20251022_161744336"><img src="https://live.staticflickr.com/65535/54924598854_e7eb116271_c.jpg" width="800" height="602" alt="PXL_20251022_161744336"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Another view into the Gorge*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924598854/in/album-72177720330324746/" title="PXL_20251022_161744336"><img src="https://live.staticflickr.com/65535/54924598854_e7eb116271_c.jpg" width="800" height="602" alt="PXL_20251022_161744336"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*View to the west at Devil's Canyon Overlook*
+
+# Closing Thoughts
+
+As I wrote this trip report, I realized just how many interesting and beautiful sites there are in the Gorge. This might be my longest trip report, and it certainly was not my longest trip in either time or miles. A lot of the sites are reachable by car and a short or moderate hike, but connecting them all together on foot makes for a really memorable trip. I had great weather, just enough adventure between some scrambling and losing the trail a few times, plenty of solitude but also a few enjoyable conversations with other hikers. 
+
+The Gorge is probably the most appealing destination within a three hour drive, and I definitely expect I will be back for more. Despite going in late October, the trees were still mostly green overall. Sliding one or two weeks later into early November might be the best time to go for peak fall colors. 
+
+Lastly, if anyone reading this knows of a way to purchase a copy of *Hinterlands*, shoot me an email, as it appears it has gone out of print. I would love to have my own copy!
+
 *This post contains affiliate links. If you use them, thanks for helping to fund my next trip!*
