@@ -1,20 +1,20 @@
 ---
 
 title: Red River Gorge Backpacking Loop
-date: '2025-11-23 21:15:00'
+date: '2025-11-24 21:35:00'
 ---
 
 # About The Gorge 
 
-The [Red River Gorge Geological Area](https://www.fs.usda.gov/recarea/dbnf/recreation/recarea/?recid=39458), located in the [Daniel Boone National Forest](https://www.fs.usda.gov/dbnf/) in Kentucky, is known for its rugged  cliffs, natural arches, and abundant recreational opportunities. 
+The [Red River Gorge Geological Area](https://www.fs.usda.gov/recarea/dbnf/recreation/recarea/?recid=39458), located in the [Daniel Boone National Forest](https://www.fs.usda.gov/dbnf/) in Kentucky, is known for its natural arches, rugged ridges, sandstone cliffs, and numerous recreational opportunities. 
 
-Though the Red River Gorge is a haven for outdoor enthusiasts today, in the 1960s, the Army Corps of Engineers proposed building a dam on the Red River, which would have flooded the gorge. Congress approved the plans and began to appropriate funding. Wendell Berry wrote a book called [*The Unforeseen Wilderness*](https://archive.org/details/unforeseenwilder0000berr) in which he advocated for preserving the Gorge. After a 20-year battle to preserve the area, the Red River was designated as a [National Wild and Scenic River](https://rivers.gov/river/red) in 1993.
+Though the Red River Gorge is a haven for outdoor enthusiasts today, in the 1960s, the Army Corps of Engineers proposed building a dam on the Red River, which would have flooded the Gorge. Congress approved the plans and began to appropriate funding. Wendell Berry wrote a book called [*The Unforeseen Wilderness*](https://archive.org/details/unforeseenwilder0000berr) in which he advocated for preserving the Gorge. After a 20-year battle to preserve the area, the Red River was designated as a [National Wild and Scenic River](https://rivers.gov/river/red) in 1993.
 
 # Planning
 
 In 2024, I did an overnight trip on the [Swift Camp Creek Trail](https://mattbanderson.com/red-river-gorge-swift-camp-creek-trail). After returning home and reading *The Unforeseen Wilderness*, I decided to plan a longer route to see more of what the Gorge had to offer. 
 
-While the Gorge has a number of named hiking trails, including a section of the [Sheltowee Trace](https://sheltoweetrace.org/trail), most of them are point-to-point trails. As I studied maps of the area , my goal was to link up several trails into as close to a loop as I could get. 
+While the Gorge has a number of named hiking trails, including a section of the [Sheltowee Trace](https://sheltoweetrace.org/trail), most of them are point-to-point trails. As I studied maps of the area, my goal was to link up several trails into as close to a loop as I could get. 
 
 I found several guidebooks useful:
 * *[Hiking Kentucky's Red River Gorge](https://amzn.to/47QGqy2)* by Sean Patrick Hill
@@ -28,7 +28,7 @@ Eventually, I assembled a route that combined multiple trails into a figure-eigh
 ![Original Gorge route](https://i.imgur.com/SNkZpTY.png)
 *Original planned route: ~42 miles*
 
-Since I had done an [overnight on the Swift Camp Creek trail](https://mattbanderson.com/red-river-gorge-swift-camp-creek-trail/) in March 2024, I planned to start with the longer loop around the rest of the Gorge and see how it went. I also knew the number of spur trails I planned to explore would add an indeterminate amount of mileage.
+Since I had done the Swift Camp Creek Trail previously, I planned to start with the longer loop around the rest of the Gorge and see how it went. I also knew exploring many of the spur trails would add an indeterminate amount of mileage.
 
 As it turned out, those spurs added quite a bit, plus a few misadventures getting off-trail, and by late afternoon on the first day I was adjusting the route on the fly. The actual route ended up being 37.5 miles:
 
@@ -42,23 +42,23 @@ As it turned out, those spurs added quite a bit, plus a few misadventures gettin
 
 Not much new gear for this trip--the big change was removing the hip belt and framesheet from my pack and going frameless. I did quite a few 3-5 mile shakedown/training hikes prior to the trip and felt pretty good about being able to carry ~15 pounds without much issue, but there was always the chance that my shoulders would hate me after ramping up to a full 10-20 mile day on the trail. 
 
-**Big takeaway: going frameless/beltless was a huge success**! 
+**Big takeaway: going frameless/beltless was a huge success!** 
 
 On my shorter hikes, I really liked having my hips and legs completely free of any restrictions from a belt. It felt great to see that translate completely to an actual trip without any negative side-effects. I did not notice any lack of support and would not hesitate to do it again. 
 
 ## GPS Watch Navigation
 
-The one piece of gear I was using for the first time was the [Garmin Epix Pro Gen2](https://amzn.to/46J5pnJ) smartwatch I picked up at a sale around the 4th of July. I loaded my planned route onto the watch as a GPX file and used it as my primary navigation tool. I set the GPX track as a course to follow. While it wasn't perfect, I was pretty impressed with the level at accuracy at many of the intersections. It did get a little annoyed with me when I started following spur trails that we not part of the route. 
+The one piece of gear I was using for the first time was the [Garmin Epix Pro Gen2](https://amzn.to/46J5pnJ) smartwatch I picked up on sale around the 4th of July. I loaded my planned route onto the watch as a GPX file and used it as my primary navigation tool. I set the GPX track as a course to follow. While it was not perfect, I was pretty impressed with the level of accuracy at many of the intersections. It did get a little annoyed with me when I started following spur trails that we not part of the route and would keep prompting me to turn around. It was also a huge help when I got off trail.
 
 **Verdict: highly recommend** 
 
-The rest of my gear list can be found [here](https://lighterpack.com/r/qqyn7t).
+The rest of my gear list can be found on this [LighterPack](https://lighterpack.com/r/qqyn7t).
 
 # Trip Report
 
 ## Day 1: Eagle Point, Lost in the Woods and Creeks, and Indian Staircase
 
-Any overnight parking in the Gorge requires a pass, so my trip began at the Pine Ridge Mart, where I bought my 3-day pass. From there, I headed to the Rough Trail/Swift Camp Creek [trailhead parking lot](https://maps.app.goo.gl/E86Ge2JREbT1C4u77).
+Any overnight parking in the Gorge requires a pass, so my trip began at the [Pine Ridge Mart](https://maps.app.goo.gl/gi5nhKbumyZnRFW58), where I bought my 3-day pass. From there, I headed to the Rough Trail/Swift Camp Creek [trailhead parking lot](https://maps.app.goo.gl/E86Ge2JREbT1C4u77).
 
 I decided to get the road walk out of the way first. For me, I like getting the least interesting stretch over and done with, although I can certainly see the argument for leaving the road walk for last, since it is easy walking. KY-715 dropped steadily downhill towards the Red River. The crossing is a single-lane bridge with [paved parking lot](https://maps.app.goo.gl/u7rWes1qr7cEyJL69) with restrooms on the northeast side. 
 
@@ -82,7 +82,7 @@ After finishing lunch, I loaded up on water for a lengthy dry stretch and got ba
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924549498/in/album-72177720330324746/" title="PXL_20251020_171036246"><img src="https://live.staticflickr.com/65535/54924549498_0ae9ed016c_c.jpg" width="800" height="602" alt="PXL_20251020_171036246"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Looking up at Eagle Point Buttress*
 
-The trail then climbed up a steady incline over roots and rocks. Just keep heading up until things level out at the top. From there a followed a spur trail to the left towards the overlook. Definitely do not stop at the first vista! Eventually the trail reaches a large, open promontory with 270-degree views of the Gorge with the Red River below.
+The trail then climbed up a steady incline over roots and rocks. Just keep heading up until things level out at the top. From there I followed a spur trail to the left towards the overlook. Definitely do not stop at the first vista! Eventually the trail reaches a large, open promontory with 270-degree views of the Gorge with the Red River below.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923481217/in/album-72177720330324746/" title="PXL_20251020_172703992"><img src="https://live.staticflickr.com/65535/54923481217_d56002f31f_c.jpg" width="800" height="602" alt="PXL_20251020_172703992"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -97,7 +97,7 @@ After enjoying the sunshine, blue sky, and views at the overlook for a bit, I go
 
 **Be careful on this section. I recommend having a GPS device in addition to a map**. 
 
-The trail is relatively flat, but significant deadfall makes it very easy to lose the trail, which  also gets pretty faint at times. I lost the trail about half a mile in and ended up several hundred feet off trail. Because I had GPS on my watch, I was able to hold a bearing and intersect back up with the trail, but not after wandering around for close to half an hour. I was not particularly concerned since I knew the direction I needed to go thanks to GPS, but if I had only a paper map the situation could have become much more problematic.
+The trail is relatively flat, but significant deadfall makes it very easy to lose the trail, which also gets pretty faint at times. I lost the trail about half a mile in and ended up several hundred feet off trail. Because I had GPS on my watch, I was able to hold a bearing and intersect back up with the trail, but not after wandering around for close to half an hour. I was not particularly concerned since I knew the direction I needed to go thanks to GPS and the route on my watch, but if I had only a paper map the situation could have become much more problematic.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923481257/in/album-72177720330324746/" title="PXL_20251020_174156860"><img src="https://live.staticflickr.com/65535/54923481257_e9625603c4_c.jpg" width="602" height="800" alt="PXL_20251020_174156860"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Deadfall on the way to the Osborne Bend trail*
@@ -105,14 +105,14 @@ The trail is relatively flat, but significant deadfall makes it very easy to los
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924655340/in/album-72177720330324746/" title="PXL_20251020_181520164"><img src="https://live.staticflickr.com/65535/54924655340_2d1eedd9ff_c.jpg" width="602" height="800" alt="PXL_20251020_181520164"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Easier woods walking once on the actual Osborne Bend trail*
 
-Once on the Osborne Bend trail, it became easier to navigate. The Lost Branch trail was a rough stretch of trail. Fortunately it had been so dry I did not have to deal with much mud, and I was going steadily downhill, but the descent was steep and rocky enough that I had to pick my way also pretty slowly. 
+Once on the Osborne Bend trail, it became easier to navigate. The Lost Branch trail was a rough stretch. Fortunately it had been so dry I did not have to deal with much mud, and I was going steadily downhill, but the descent was steep and rocky enough that I had to pick my way along pretty slowly. 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924655350/in/album-72177720330324746/" title="PXL_20251020_191618860"><img src="https://live.staticflickr.com/65535/54924655350_8eb552d7ab_c.jpg" width="602" height="800" alt="PXL_20251020_191618860"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Making my way downhill on the Lost Branch trail*
 
-I finally reached Gladie Creek around 3:30 PM where I was able to refill my water supply. Unfortunately, my Sawyer Squeeze still was not flowing quite as fast as I would have liked, so each stop to filter water took longer than I would have liked. Still, it was at least a consistent flow, much better than my near-disaster last year in the Dolly Sods. The creek was lovely in the low-angle mid-afternoon sunshine.
+I finally reached Gladie Creek around 3:30 PM where I was able to refill my water supply. Unfortunately, my Sawyer Squeeze still was not flowing quite as fast as I would have liked, so each stop to filter water took longer than I wanted. Still, it was at least a consistent flow, much better than my near-disaster last year in the Dolly Sods. The creek was lovely in the low-angle mid-afternoon sunshine.
 
-I crossed the creek to continue on the trail but managed to almost immediately lose it again. I thought I was following it along the creek, but I must have taken a side trail to the creek itself. Reviewing the map and elevation profile afterwards, it looks like I should have gained some elevation as the trail paralleled Gladie Creek. From where I ended up, there was no clear path uphill to any trail, and the path along the north side of the creek eventually ended as small bluffs rose out the water. After backtracking a bit, finding no obvious fork, and returning to the edge of the creek, I started wondering whether my map was inaccurate and the trail was actually on the south side of the creek. Looking across, there did appear to be a bit of a path, so I crossed the creek and gave it a shot. It quickly petered out. Returning to the map, I knew that Salt Fork would be joining Gladie Creek shortly downstream, which should be an unmistakable landmark. With my feet already wet and the creek shallow and sandy, I waded down the one clear and obvious path: Glade Creek itself. 
+I crossed the creek to continue on the trail but managed to almost immediately lose it again. I thought I was following it along the creek, but I must have taken a side trail to the creek itself. Reviewing the map and elevation profile afterwards, it looks like I should have gained some elevation as the trail paralleled Gladie Creek. From where I ended up, there was no clear path uphill to any trail, and the path along the north side of the creek eventually ended as small bluffs rose out the water. After backtracking a bit, finding no obvious fork, and returning to the edge of the creek, I started wondering whether my map was inaccurate and the trail was actually on the south side of the creek. Looking across, there did appear to be a bit of a path, so I crossed the creek and gave it a shot. It quickly petered out. Returning to the map, I knew that Salt Fork would be joining Gladie Creek shortly downstream, which should be an unmistakable landmark. With my feet already wet and the creek shallow and sandy, I waded down the one clear and obvious path: Gladie Creek itself. 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924599584/in/album-72177720330324746/" title="PXL_20251020_195844483"><img src="https://live.staticflickr.com/65535/54924599584_bd218ebd8a_c.jpg" width="602" height="800" alt="PXL_20251020_195844483"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Good walking, I guess?*
@@ -122,17 +122,17 @@ Fortunately, my route finding skills did not turn out to be completely worthless
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924350731/in/album-72177720330324746/" title="PXL_20251020_201537133"><img src="https://live.staticflickr.com/65535/54924350731_0e1d934605_c.jpg" width="602" height="800" alt="PXL_20251020_201537133"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Not camping here tonight!*
 
-I saw a large campsite on the north side, checked it out, and quickly found the trail, which was now the Sheltowee Trace with it's white turtle blazes. Looking back where I should have come from, there was clearly a trail, so I definitely missed a turn somewhere upstream.
+I saw a large campsite on the north side, checked it out, and quickly found the trail, which was now the Sheltowee Trace with its white turtle blazes. Looking back where I should have come from, there was clearly a trail, so I definitely missed a turn somewhere upstream.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924350746/in/album-72177720330324746/" title="PXL_20251020_202003569.MP"><img src="https://live.staticflickr.com/65535/54924350746_fa5a79163b_c.jpg" width="602" height="800" alt="PXL_20251020_202003569.MP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Where I should have come from*
 
-The Sheltowee started with nice easy walking through rhododendrons and eventually descended deeper into the woods towards the Garrett Branch crossing. Here I encountered more route-finding fun! Even though I was now on a major long-distance trail, the blazes left a lot to be desired. The map showed a roughly 180-degree turn a bit past Garrett Branch; however, being a seasonal stream, it is not clear where exactly it actually is. I began heading uphill on what appeared to be a fairly well-trodden path that almost immediately disappeared. A bit more fumbling in the woods before retracing the path downhill. The turn was a much tighter hairpin than the map indicated right at Garrett Branch, not just past it. After retracing my steps back to the crossing, I was able to find a blaze on the other side and verify that I had found the trail again.
+The Sheltowee started with nice easy walking through rhododendrons and eventually descended deeper into the woods towards the Garrett Branch crossing. Here I encountered more route-finding fun! Even though I was now on a major long-distance trail, the blazes left a lot to be desired. The map showed a roughly 180-degree turn a bit past Garrett Branch; however, being a seasonal stream, it is not clear where exactly it actually is. I began heading uphill on what appeared to be a fairly well-trodden path that almost immediately disappeared. I did a bit more fumbling in the woods before retracing the path downhill. The turn was a much tighter hairpin than the map indicated right at Garrett Branch, not just past it. After retracing my steps back to the crossing, I was able to find a blaze on the other side and verify that I had found the trail again.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924350756/in/album-72177720330324746/" title="PXL_20251020_204723409"><img src="https://live.staticflickr.com/65535/54924350756_1321d442b7_c.jpg" width="800" height="602" alt="PXL_20251020_204723409"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Quick hairpin to the left, not to the right and uphill*
 
-By this point, I was considering where I was going to camp for the night. I had thought I might make it past the Indian Staircase and Cloud Splitter on the first day, but my misadventures getting off trail had slowed me down a fair amount. I also knew those would be some of the highlights of the trip and did not want to rush through them. The stretch of trail between and beyond them was also dry until I reached the Red River. Klaber Branch would be the last water source until the Red River crossing. I decided if there was a good spot by Klaber Branch I would camp there; otherwise I would load up on water and find a good spot near Indian Staircase.
+By this point, I was considering where I was going to camp for the night. I had thought I might make it past the Indian Staircase and Cloud Splitter on the first day, but my misadventures getting off trail had slowed me down a fair amount. I also knew those would be some of the highlights of the trip and did not want to rush through them. The stretch of trail between and beyond them was also dry until I reached the Red River. Klaber Branch would be the last water source until the Red River crossing. I decided if there was a good spot by Klaber Branch I would camp there; otherwise I would load up on water and find a campsite near Indian Staircase.
 
 As it turns out, even though Klaber Branch is shown as a year-round steam on the map, there is not much flow, at least in late fall in a dry year. No campsite either, so after filtering and grabbing an extra liter to carry, I headed on toward Indian Staircase. I reached the base right around the golden hour.
 
@@ -155,9 +155,9 @@ As it turns out, even though Klaber Branch is shown as a year-round steam on the
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923481402/in/album-72177720330324746/" title="PXL_20251020_221507670"><img src="https://live.staticflickr.com/65535/54923481402_c1286b8818_c.jpg" width="800" height="602" alt="PXL_20251020_221507670"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924655490/in/album-72177720330324746/" title="PXL_20251020_221548818"><img src="https://live.staticflickr.com/65535/54924655490_c18e87b32b_c.jpg" width="800" height="602" alt="PXL_20251020_221548818"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-*Views from the top*
+*Views from the top*a good spot
 
-There are a number of nice campsites along the trail the follows the gorge rim. I unloaded my gear and took my cook kit to a ledge to make dinner, savor the solitude, and watch the sunset. Despite some wrong turns along the way, day one was in the books, and capped off by beautiful views of the Gorge.
+There are a number of nice campsites along the trail the follows the gorge rim. I unloaded my gear and took my cook kit to a ledge to make dinner, savor the solitude, and watch the sunset. Despite some wrong turns along the way, day one was in the books, and capped off by beautiful views of the Gorge!
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924350886/in/album-72177720330324746/" title="PXL_20251021_112105759"><img src="https://live.staticflickr.com/65535/54924350886_d086c55db0_c.jpg" width="800" height="602" alt="PXL_20251021_112105759"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Goodnight!*
@@ -193,7 +193,7 @@ After breakfast, I headed downhill just a bit to check out Indian Arch. It's a s
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924655575/in/album-72177720330324746/" title="PXL_20251021_122938814"><img src="https://live.staticflickr.com/65535/54924655575_f9f19a4c43_c.jpg" width="800" height="602" alt="PXL_20251021_122938814"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Indian Arch*
 
-I continued on the trail a couple miles to reach the Cloud Splitter spur. It's a bit of scramble up boulders and roots. I quickly dropped by pack to recover on the way back down. Eventually you emerge onto mostly bare rock and must decide if you are up for trusting a rope of unknown age to climb a crack to reach the top. 
+I continued on the trail a couple miles to reach the Cloud Splitter spur. It requires a bit scrambling up boulders and roots. I quickly left my pack to grab on the way back down. Eventually you emerge onto mostly bare rock and must decide if you are up for trusting a rope of unknown age to climb a crack to reach the top. 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923481492/in/album-72177720330324746/" title="PXL_20251021_135321499"><img src="https://live.staticflickr.com/65535/54923481492_49dec0f243_c.jpg" width="602" height="800" alt="PXL_20251021_135321499"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Cloud Splitter looming in the background*
@@ -201,7 +201,7 @@ I continued on the trail a couple miles to reach the Cloud Splitter spur. It's a
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924549823/in/album-72177720330324746/" title="PXL_20251021_135427291"><img src="https://live.staticflickr.com/65535/54924549823_316aff4f87_c.jpg" width="800" height="602" alt="PXL_20251021_135427291"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Not quite as vertical as it looks, but the rope is definitely required*
 
-I carefully made my way up the rope, being careful to keep my toeholds as secure as possible. It's a little sketchy but the 360-degree views from the top are absolutely worth it!
+I slowly made my way up the rope, being careful to keep my toeholds as secure as possible. It's a little sketchy but the 360-degree views from the top are absolutely worth it!
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924655640/in/album-72177720330324746/" title="PXL_20251021_135715332.MP"><img src="https://live.staticflickr.com/65535/54924655640_7172955e20_c.jpg" width="800" height="602" alt="PXL_20251021_135715332.MP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -213,7 +213,7 @@ I carefully made my way up the rope, being careful to keep my toeholds as secure
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923481552/in/album-72177720330324746/" title="PXL_20251021_140407187"><img src="https://live.staticflickr.com/65535/54923481552_cd62f84c82_c.jpg" width="800" height="602" alt="PXL_20251021_140407187"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Heading back down*
 
-The trip down the rope/crack is even more heart-pounding than the way up. Proceed slowly and carefully. From Cloud Splitter, a half mile or so further along the Sheltowee is the Nowhere Trail spur. I was going to skip it but decided to check it out on a whim.  The sun was starting to break through and added some flavor to the view.
+The trip down the rope/crack is even more heart-pounding than the way up. Proceed slowly and carefully. From Cloud Splitter, a half mile or so further along the Sheltowee is the Nowhere Trail spur. I was going to skip it but decided to check it out on a whim. The sun was starting to break through and added some flavor to the views.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923481567/in/album-72177720330324746/" title="PXL_20251021_143405696"><img src="https://live.staticflickr.com/65535/54923481567_18f4c53319_c.jpg" width="800" height="602" alt="PXL_20251021_143405696"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -227,37 +227,37 @@ By this point, I was running low on water due to the dry camp and several stops.
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923481622/in/album-72177720330324746/" title="PXL_20251021_150433614"><img src="https://live.staticflickr.com/65535/54923481622_ecf04a6d6b_c.jpg" width="800" height="602" alt="PXL_20251021_150433614"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Remains of the bridge over the Red River*
 
-The river was easy to cross with the fall being so dry. The bottom was nice and sandy, so I decided to take a break for an early lunch sitting on a log with my feet in the river. After a nice break in the sun, 
+The river was easy to cross with this fall being so dry. The bottom was nice and sandy, so I decided to take a break for an early lunch sitting on a log with my feet in the river. 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924549928/in/album-72177720330324746/" title="PXL_20251021_150609138"><img src="https://live.staticflickr.com/65535/54924549928_741115be34_c.jpg" width="800" height="602" alt="PXL_20251021_150609138"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Nice spot for lunch*
 
-I waded across to the left of the bridge, as I saw a bit of a path and a rope hanging down the bank to help climb up. I naively assumed I would just pick up the trail, but there were a ton of downed trees I had to pick my way through. After a couple of false starts, I made my way through and picked up the trail, only to pass much easier climb up the bank to meet the trail. Moral of the story: if you are heading south on the Sheltowee Trace, cross the river south of the bridge and look for a spot to climb the bank and join the trail. I stopped briefly to check out Jump Rock but declined to take a jump myself. Maybe if it were summer!
+After a nice break in the sun, I waded across to the left of the bridge, as I saw a bit of a path and a rope hanging down the bank to help climb up. I naively assumed I would just pick up the trail, but there were lots of downed trees I had to pick my way through. After a couple of false starts, I made my way through and found up the trail, only to pass a much easier climb up the bank to meet the trail. **Moral of the story: if you are heading south on the Sheltowee Trace, cross the river south of the bridge and look for a spot to climb the bank and join the trail.** I stopped briefly to check out Jump Rock but declined to take a jump myself. Maybe if it were summer!
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924549978/in/album-72177720330324746/" title="PXL_20251021_160715392"><img src="https://live.staticflickr.com/65535/54924549978_de3366cd46_c.jpg" width="800" height="602" alt="PXL_20251021_160715392"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Not jumping today!*
 
-Just a bit further down the trail, it bends east then makes a quick hairpin turn back to the west. It is at this point that the Low Rider trail splits off. According to *Hinterlands*, this trail will take you to Chimney Top Rock and Half Moon Arch. I was interested in giving it a shot, and a trail was clear for a hundred feet or so, but it quickly disappeared. Not wanting another off-trail episode, I opted to return to the Sheltowee.
+Just a bit further down the trail, it bends east then makes a quick hairpin turn back to the west. It is at this point that the Low Rider Trail splits off. According to *Hinterlands*, this trail will take you to Chimney Top Rock and Half Moon Arch. I was interested in giving it a shot, and a trail was clear for a hundred feet or so, but it quickly disappeared. Not wanting another off-trail episode, I opted to return to the Sheltowee.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924655890/in/album-72177720330324746/" title="PXL_20251021_163436469"><img src="https://live.staticflickr.com/65535/54924655890_562bfcd244_c.jpg" width="602" height="800" alt="PXL_20251021_163436469"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Sunshine along Chimney Top Creek*
 
 The trail followed Chimney Top Creek for a mile or so before merging into the Rough Trail and crossing the creek heading west. I wanted to camp at Hanson's Point, and looking at the map and amount of daylight left, I felt comfortable looping past it to go see Gray's Arch and circling back around along the Pinch 'Em Tight ridge to finish the day at Hanson's. Since I would be passing the spur shortly before continuing on my loop, I took an extra liter of water from the creek to cache for the evening/next morning.
 
-The climb up the ridge was one of the biggest of the trip, checking in at about 500 feet of elevation gain. Once up on the ridge, I passed the intersection with the Pinch 'Em Tight trail (where I would come from to end the day) and took the Hanson's Point spur to check it out. I reached the first large campsite and dropped my liter of water by log. I ran into several other hikers on the spur--it's a popular place to visit. Two of them were coming back from the point and assured me it was well worth it.
+The climb up the ridge was one of the biggest of the trip, checking in at about 500 feet of elevation gain. Once up on the ridge, I passed the intersection with the Pinch 'Em Tight trail (where I would come from to end the day) and took the Hanson's Point spur to check it out. I reached the first large campsite and dropped my liter of water in a circle of logs. I ran into several other hikers on the spur--it's a popular place to visit. Two of them were coming back from the point and assured me it was well worth it.
 
-Returning to the Rough Trail (the Sheltowee follows the Pinch 'Em Tight Trail), I descended to Rush Branch. A little over a quarter-mile past Rush Branch, as the trail is ascending back onto a ridge, there is a large rock overhang where it is not clear which way the trail goes. If I recall correctly, I looked left, thought, "Ha that *looks* like a trail, but I clearly see trail going to the right", went right, realized that went nowhere, and turned back around and went left. Eventually I found a downed tree with a blaze and continued on my way.
+Returning to the Rough Trail (the Sheltowee follows the Pinch 'Em Tight Trail), I descended to Rush Branch. A little over a quarter-mile past Rush Branch, as the trail is ascending back onto a ridge, there is a large rock overhang where it is not clear which way the trail goes. If I recall correctly, I looked left, thought, *"Ha that looks like a trail, but I clearly see trail going to the right"*, went right, realized that went nowhere, and turned back around and went left. Eventually I found a downed tree with a blaze and continued on my way.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924351236/in/album-72177720330324746/" title="PXL_20251021_181758053"><img src="https://live.staticflickr.com/65535/54924351236_43291596df_c.jpg" width="800" height="602" alt="PXL_20251021_181758053"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Left!*
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923481777/in/album-72177720330324746/" title="PXL_20251021_181753902"><img src="https://live.staticflickr.com/65535/54923481777_6fc348f300_c.jpg" width="800" height="602" alt="PXL_20251021_181753902"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-"No, right!"
+*No, right!*
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923480777/in/album-72177720330324746/" title="PXL_20251021_181856246"><img src="https://live.staticflickr.com/65535/54923480777_382a839e0a_c.jpg" width="602" height="800" alt="PXL_20251021_181856246"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-"Ah, there it is!"
+*Ah, there it is!*
 
-Once onto Rush Ridge, I took the Veranda Trail spur to the overlook. Definitely worth a visit! There is also a nice campsite along the way.
+Once onto Rush Ridge, I took the Veranda Trail spur to the overlook. Definitely worth a checking out! There is also a nice campsite along the way.
 I took a snack break on the point and relaxed in the sun for a bit. A breeze was blowing, making for nearly perfect weather.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924654795/in/album-72177720330324746/" title="PXL_20251021_182938948"><img src="https://live.staticflickr.com/65535/54924654795_45d5509fca_c.jpg" width="800" height="602" alt="PXL_20251021_182938948"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -280,7 +280,7 @@ Back on the main trail, I descended about 400 feet from the ridge down to King B
 
 I stopped to filter water at King Branch. My Sawyer filter had been slow but usable for most of the trip, but for whatever reason, it was not until this moment that I decided to try filling my water bottle with dirty water and drinking directly from the filter by squeezing. This worked pretty well! Yes, I had to occasionally unscrew the filter enough to let in more air but the flow rate was more than adequate, and I no longer needed to spend a bunch of time sitting and filter when I would rather be moving. No idea why it took me so long to try this!
 
-Ironically, just across King Branch, I ran into a pair of hiker who were also filtering. The person filtering raved about his Katadyne filter and how he much preferred it to Sawyer, but to be honest, as I watched him, the flow rate looked basically identical to my Sawyer. Seems all hikers have the same set of problems and complaints!
+Ironically, just across King Branch, I ran into a pair of hiker who were also filtering. The person filtering raved about his Katadyne filter and how he much preferred it to Sawyer, but to be honest, as I watched him, the flow rate looked basically identical to my Sawyer. Seems all hikers have the same sets of problems and complaints!
 
 From King Branch came a big climb up to Gray's Arch, about 250 feet to the base of the arch and another 300 or so after that to reach the ridge. Gray's Arch is very impressive!
 
@@ -293,16 +293,14 @@ From King Branch came a big climb up to Gray's Arch, about 250 feet to the base 
 *Gray's Arch*
 
 Once on the ridge, the trail was a flat and easy walk though the woods. I skipped the D. Boon Hut Trail to ensure I had plenty of time to make it back to Hanson's Point, set up camp, and enjoy the evening. 
-After a brief road walk along Tunnel Ridge Road, I was back on the Sheltowee Trace heading east towards the Pinch 'Em Tight Trail to complete my loop back to Hanson's Point.
-The Pinch 'Em Tight Trail has some interesting exposed rocks steps/ledges but overall was an easy hike.
+After a brief road walk along Tunnel Ridge Road, I was back on the Sheltowee Trace heading east towards the Pinch 'Em Tight Trail to complete my loop back to Hanson's Point. The Pinch 'Em Tight Trail has some interesting exposed rocks steps/ledges but overall was an easy hike.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924600074/in/album-72177720330324746/" title="PXL_20251021_203232440"><img src="https://live.staticflickr.com/65535/54924600074_de2f831af6_c.jpg" width="602" height="800" alt="PXL_20251021_203232440"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924598974/in/album-72177720330324746/" title="PXL_20251021_204240066"><img src="https://live.staticflickr.com/65535/54924598974_31ccea7680_c.jpg" width="800" height="602" alt="PXL_20251021_204240066"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Exposed rock on the Pinch 'Em Tight Trail*
 
-I made it back to the spur trail shortly after 5 PM, retrieved my water, and continued down the spur trail to find a campsite. Six or seven sites were occupied but there are multiple huge campsites and many smaller ones to choose from.
-I went all the way out to the point and then backtracked to find a spot I liked close to the point. I could have camped almost right on the point, but decided to choose something more sheltered in case of wind overnight and not directly on the trail. I found a nice little spot tucked into the trees with just enough room for my tent.
+I made it back to the spur trail shortly after 5 PM, retrieved my water, and continued down the spur trail to find a campsite. Six or seven sites were occupied but there are multiple huge campsites and many smaller ones to choose from. I went all the way out to the point and then backtracked to find the spot I liked best. I could have camped almost right on the point, but decided to take something more sheltered in case of wind overnight and not directly on the trail. I found a nice little spot tucked into the trees with just enough room for my tent.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924656080/in/album-72177720330324746/" title="PXL_20251021_222630995"><img src="https://live.staticflickr.com/65535/54924656080_77e436e181_c.jpg" width="800" height="602" alt="PXL_20251021_222630995"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Campsite*
@@ -324,9 +322,9 @@ I went all the way out to the point and then backtracked to find a spot I liked 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924600189/in/album-72177720330324746/" title="PXL_20251021_230400652"><img src="https://live.staticflickr.com/65535/54924600189_47f4463f33_c.jpg" width="800" height="602" alt="PXL_20251021_230400652"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Light fading away*
 
-## Day 3: Chimney Top Creek Crossings, Rough Trail, and Cool Caves
+## Day 3: Chimney Top Creek Croschoosesings, Rough Trail, and Cool Caves
 
-I woke up before dawn and packed up camp so that I could head back to the point for sunrise. I found a nice spot to sit, cooked breakfast, and watched the sun climb over the ridgeline. In addition to the sunrise, it was interested to the see the fog settled in the Gorge over the Red River.
+I woke up before dawn and packed up camp so that I could head back to the point for sunrise. I found a nice spot to sit, cooked breakfast, and watched the sun climb over the ridgeline. In addition to the sunrise, it was interesting to the see the fog settled in the Gorge over the Red River.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924351411/in/album-72177720330324746/" title="PXL_20251022_113216146"><img src="https://live.staticflickr.com/65535/54924351411_a18809e14c_c.jpg" width="800" height="602" alt="PXL_20251022_113216146"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *First light*
@@ -342,22 +340,22 @@ I woke up before dawn and packed up camp so that I could head back to the point 
 
 My final decision of the trip was whether I would head back the way I came on the Rough Trail or take a slightly longer route on the Pinch 'Em Tight Trail, Buck Trail, and Koomer Ridge Trail before rejoining the Rough Trail just to the southeast of where I started on it yesterday. I decided to take the longer route. 
 
-The Buck Trail was a nice walk through the woods, though close enough to the Bert T. Combs Mountain Parkway that some of the sounds highway reached the trail. The trail dropped about 400 feet down to cross the right fork of Chimney Top Creek. The Gorge almost got me one final time after the creek crossing, as I attempted to follow the "trail" uphill before realizing I could not possibly be on the route. From 50-75 feet above the creek, I spotted a blaze and the trail below and carefully made my way back down.
+The Buck Trail was a nice walk through the woods, though close enough to the Bert T. Combs Mountain Parkway that some of the sounds of traffic reached the trail. The trail dropped about 400 feet down to cross the right fork of Chimney Top Creek. The Gorge almost got me one final time after the creek crossing, as I attempted to follow the "trail" uphill before realizing I could not possibly be on the route. From 50-75 feet above the creek, I spotted a blaze and the trail below and carefully made my way back down.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924600259/in/album-72177720330324746/" title="PXL_20251022_132136459"><img src="https://live.staticflickr.com/65535/54924600259_6e4acf89bf_c.jpg" width="602" height="800" alt="PXL_20251022_132136459"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *If you look carefully, there's a blaze on the tree in the middle*
 
-I climbed back up just shy of 400 feet to gain Koomer Ridge. The trees thinned in a couple places but never quite enough to get a view. I eventually descended another 430 back down to cross the main branch of Chimney Top Creek.
+I climbed back up just shy of 400 feet to Koomer Ridge. The trees thinned in a couple places but never quite enough to get a view. I eventually descended another 430 feet back down to cross the main branch of Chimney Top Creek.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924656205/in/album-72177720330324746/" title="PXL_20251022_141126380.MP"><img src="https://live.staticflickr.com/65535/54924656205_65a7fbb574_c.jpg" width="800" height="602" alt="PXL_20251022_141126380.MP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Chimney Top Creek crossing*
 
-From there, the trail steadily climbed 450+ feet to get back on a ridge. This section has many huge boulders and rock shelters. Once up on the ridge , the trail crosses Chimney Top Ridge Road. Near the road crossing, there was an interesting pile of droppings right in the middle of the trail. ChatGPT says it is definitely black bear. I showed a photo to a friend who studies black bears, and her assessment was that it mostly likely came from a black bear. I did not see any prints or other signs nearby to offer any corroborating evidence.
+From there, the trail steadily climbed 450+ feet to get back on a ridge. This section has many huge boulders and rock shelters. Once up on the ridge, the trail crosses Chimney Top Ridge Road. Near the road crossing, there was an interesting pile of droppings right in the middle of the trail. ChatGPT says it is definitely black bear. I showed a photo to a friend who studies black bears, and her assessment was that it mostly likely came from a black bear. I did not see any prints or other signs nearby to offer any additional evidence.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924654645/in/album-72177720330324746/" title="PXL_20251022_144552449"><img src="https://live.staticflickr.com/65535/54924654645_c50ac37f58_c.jpg" width="602" height="800" alt="PXL_20251022_144552449"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Black bear?*
 
-The trail did not stay level for long (there is a reason it is called "Rough Trail"), and dropped almost 400 feet down to Parched Corn Creek. I was glad I had extra water stashed in my car in the parking area because the creek did not look particularly appealing to drink--mostly stagnant water with a lot of foam and scum. The last mile or so did offer some interesting caves and rock shelters. 
+The trail did not stay level for long (I'm guessing there is a reason it is called "Rough Trail"), and dropped almost 400 feet down to Parched Corn Creek. I was glad I had extra water stashed in my car in the parking area because the creek did not look particularly appealing to drink--mostly stagnant water with a lot of foam and scum. The last mile or so did offer some interesting caves and rock shelters. 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54923481012/in/album-72177720330324746/" title="PXL_20251022_145355363"><img src="https://live.staticflickr.com/65535/54923481012_04db1e51e2_c.jpg" width="800" height="602" alt="PXL_20251022_145355363"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -409,9 +407,9 @@ Sky Bridge is one of the most accessible features in the Gorge. There is a picni
 
 # Closing Thoughts
 
-As I wrote this trip report, I realized just how many interesting and beautiful sites there are in the Gorge. This might be my longest trip report, and it certainly was not my longest trip in either time or miles. A lot of the sites are reachable by car and a short or moderate hike, but connecting them all together on foot makes for a really memorable trip. I had great weather, just enough adventure between some scrambling and losing the trail a few times, plenty of solitude but also a few enjoyable conversations with other hikers. 
+As I wrote this trip report, I realized just how many interesting and beautiful sites there are in the Gorge. This might be my longest trip report, even though it was not my longest trip in either time or miles. A lot of the sites are reachable by car and a short or moderate hike, but connecting them all together on foot makes for a really memorable trip. I had great weather, just enough adventure between some scrambling and losing the trail a few times, plenty of solitude but also a few enjoyable conversations with other hikers. 
 
-The Gorge is probably the most appealing destination within a three hour drive, and I definitely expect I will be back for more. Despite going in late October, the trees were still mostly green overall. Sliding one or two weeks later into early November might be the best time to go for peak fall colors. 
+The Gorge is probably the most appealing destination within a three hour drive, and I definitely expect I will be back for more. Despite going in late October, the trees were still mostly green. Sliding one or two weeks later into early November might be the best time to go for peak fall colors. 
 
 Lastly, if anyone reading this knows of a way to purchase a copy of *Hinterlands*, shoot me an email, as it appears it has gone out of print. I would love to have my own copy!
 
