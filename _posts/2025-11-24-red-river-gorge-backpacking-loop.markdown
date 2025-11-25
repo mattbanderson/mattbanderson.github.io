@@ -413,4 +413,8 @@ The Gorge is probably the most appealing destination within a three hour drive, 
 
 Lastly, if anyone reading this knows of a way to purchase a copy of *Hinterlands*, shoot me an email, as it appears it has gone out of print. I would love to have my own copy!
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/albums/72177720330324746" title="Red River Gorge"><img src="https://live.staticflickr.com/65535/54924549443_e9410ecaaf_z.jpg" width="800" height="600" alt="Red River Gorge"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/albums/72177720330324746" title="Red River Gorge">Click to see all photos</a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 *This post contains affiliate links. If you use them, thanks for helping to fund my next trip!*
