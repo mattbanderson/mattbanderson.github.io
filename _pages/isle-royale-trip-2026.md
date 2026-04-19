@@ -27,7 +27,6 @@ This will take [7-9 hours of driving](https://maps.app.goo.gl/FpwwbNeYc1hugorW6)
 ### To/From Isle Royale
 
 We will be taking a seaplane to and from Isle Royale.
-Ferry information remains below for posterity.
 
 #### Seaplane
 
@@ -53,10 +52,10 @@ We must also fill out a trip permit at the Rock Harbor or Ozaagaateng/Windigo vi
 Tentative route: [Greenstone Ridge](https://www.nps.gov/tripideas/backpack-the-greenstone-ridge-trail.htm) and [Minong Ridge](https://www.nps.gov/tripideas/backpack-the-minong-ridge-trail.htm) trails:
 Rock Harbor -> Lane Cove -> Moskey Basin -> McCargoe Cove -> North Lake Desor -> Hugginin Cove -> Ozaagaateng/Windigo
 
-![Feldtmann Loop map](https://gearsignal.com/wp-content/uploads/2018/09/feldtmann-lake.jpg)
-
-This will be a 6-day, 5-night trip.
+This will be a 6-day, 5-night trip where we go from one end of the island to the other.
 Which direction we go will depend on seaplane availability.
+
+[CalTopo map](https://caltopo.com/m/J41AL)
 
 | Day | Section                                     | Miles | Shelters |
 |-----|---------------------------------------------|-------|----------|
@@ -69,8 +68,6 @@ Which direction we go will depend on seaplane availability.
 |     | TOTAL                                       | 60.2  |          |
 
 ### Alternate Routes
-
-#### Main Route
 
 This route allows the option of skipping the first/last campsite in either direction in the event of poor weather or other delays during the trip.
 
@@ -88,7 +85,7 @@ The cost for the water taxi is approximately $250, but I have not confirmed this
 
 The following describes recommended gear for the trip. Tailor to your personal needs/comfort as desired.
 
-Here is [my gear list](https://lighterpack.com/r/inn7dn). Qty > 0 means I always bring it, qty = 0 means it depends on the trip.
+Here is [my gear list](https://lighterpack.com/r/inn7dn) with specific items.
 
 ### Big Four
 
