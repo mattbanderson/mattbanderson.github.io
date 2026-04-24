@@ -3,6 +3,17 @@ title: Isle Royale Trip 2026
 permalink: /isle-royale-trip-2026/
 ---
 
+## General Isle Royale Info
+
+Check out the 2026 edition of Isle Royale's annual guide, [_The Greenstone_](https://www.nps.gov/isro/learn/upload/Web_Optimized_2026-Greenstone.pdf).
+
+### Other Resources
+
+* [NPS site](https://www.nps.gov/isro/index.htm)
+* [Isle Royale subreddit](https://www.reddit.com/r/isleroyale/)
+* [Isle Royale Queen IV ferry](https://isleroyale.com/)
+* [2022 trip report](https://mattbanderson.com/isle-royale-feldtmann-loop-trail/)
+
 ## Track Our Progress
 
 I will carry a Garmin InReach and check in periodically with our [GPS coordinates from the trail](https://share.garmin.com/share/mattbanderson).
@@ -18,74 +29,82 @@ Thursday, August 13 to Tuesday, August 18 on Isle Royale.
 
 ## Transportation 
 
-### To/From Houghton/Hubbell
+### To/From Copper Harbor
 
-We will travel from the Detroit area to the Upper Peninsula on Wednesday, August 12. 
-We will go to at least Munising on Wednesday and possibly as far as Houghton/Hubbell. 
-This will take [7-9 hours of driving](https://maps.app.goo.gl/FpwwbNeYc1hugorW6).
+We will travel from the Detroit area to the Copper Harbor on Wednesday, August 12. 
+This will take [9.5 hours of driving](https://maps.app.goo.gl/v8dPt9Hv4DQHG9JL8).
 
 ### To/From Isle Royale
 
-We will be taking a seaplane to and from Isle Royale.
+We will be taking the Isle Royale Queen IV [ferry](https://isleroyale.com/) to/from Isle Royale.
 
-#### Seaplane
+#### Ferry Information
 
-The seaplane departs from [Hubbell, MI (Torch Lake)](https://maps.app.goo.gl/j2zjfJnW2fmGwiieA).
-We must arrive 45 minutes prior to departure.
-The flight takes approximately 45 minutes to Isle Royale.
-The price is $404 round trip.
-45 lbs. gear weight limit per person.
-No flammables (e.g. stove fuel) or firearms.
-Stove fuel can be purchased from the store on the island.
+The ferry departs at 8:00 AM ET from [Copper Harbor](https://maps.app.goo.gl/oovCRnhMNHK9gxgV7).
+We need to arrive 30-45 minutes prior to departure.
+The price is $175 for a round trip and the trip takes about 3.5 hours to Rock Harbor.
+Parking is $10/day and starts at 7:00 AM.
+70 lbs. gear weight limit per person.
+The ferry will transport stove fuel.
 
-[https://www.isleroyaleseaplanes.com/](https://www.isleroyaleseaplanes.com/)
+## Lodging
+
+### On the Way There
+
+I recommend we [stay in Copper Harbor](https://copperharbor.org/places-to-stay/) the night of Wednesday, August 12.
+Lodging rates look to be in the $150-$200 range per night.
+
+### On the Way Back
+
+For the return trip, we should be back on the mainland around 6:00 PM.
+FWIW, last time we drove five hours back to Cheboygan after getting off the island.
+That was a rough drive; something shorter is probably better.
+We could stay in Copper Harbor and leave all the driving for the next day or go 3-3.5 hours to Marquette or Munising.
+
+Jeremy would remind us to remember the "Seney Desert"; i.e. there is very little on the stretch of highway east of Munising before heading south towards St. Ignace.
+
 
 ## Entrance Fees & Permits
 
 Standard entrance fee is $7 per person per day.
 $60 national parks season pass covers 1 person + 3 guests for a calendar year.
 I will purchase a season pass, which will cover the rest of the group.
-We must also fill out a trip permit at the Rock Harbor or Ozaagaateng/Windigo visitor center.
+We must also fill out a trip permit at the Rock Harbor visitor center.
 
 ## Route
 
-Tentative route: [Greenstone Ridge](https://www.nps.gov/tripideas/backpack-the-greenstone-ridge-trail.htm) and [Minong Ridge](https://www.nps.gov/tripideas/backpack-the-minong-ridge-trail.htm) trails:
-Rock Harbor -> Lane Cove -> Moskey Basin -> McCargoe Cove -> North Lake Desor -> Hugginin Cove -> Ozaagaateng/Windigo
+Tentative route: a 6-day, 5-night loop around around the NE part of the island. 
 
-This will be a 6-day, 5-night trip where we go from one end of the island to the other.
-Which direction we go will depend on seaplane availability.
+[CalTopo map](https://caltopo.com/m/C3KNTR2h)
 
-[CalTopo map](https://caltopo.com/m/J41AL)
+| Day | Section                                     | Miles | Shelters | Tier |
+|-----|---------------------------------------------|-------|----------|------|
+|  1  | Rock Harbor to Lane Cove                    |  6.8  |    0     |  A   |
+|  2  | Lane Cove to McCargoe Cove                  | 12.5  |    6     |  A   |
+|  3  | McCargoe Cove to Todd Harbor                |  6.5  |    1     |  B   | 
+|  4  | Todd Harbor to Chippewa Harbor              | 18.3  |    4     |  A   |
+|  5  | Chippewa Harbor to Moskey Basin             |  6.1  |    6     |  S   |
+|  6  | Moskey Basin to Rock Harbor                 | 10.7  |    9     |  C   |
+|     | TOTAL                                       | ~60   |          |
 
-| Day | Section                                     | Miles | Shelters |
-|-----|---------------------------------------------|-------|----------|
-|  1  | Rock Harbor to Lane Cove                    |  6.8  |    0     |
-|  2  | Lane Cove to Moskey Basin                   | 10.3  |    6     |
-|  3  | Moskey Basin to McCargoe Cove               |  8.3  |    6     | 
-|  4  | McCargoe Cove to North Lake Desor           | 16.9  |    0     |
-|  5  | North Lake Desor to Hugginin Cove           | 13.7  |    0     |
-|  6  | Hugginin Cove to Ozaagaateng/Windigo        |  4.2  |   10     |
-|     | TOTAL                                       | 60.2  |          |
+### Route Options
 
-### Alternate Routes
+The route allows the option to go clockwise or counter-clockwise around the loop.
+We are skipping past some possible campsites, so in the event of poor weather several days could be altered.
+Chippewa Harbor is a hike-in/hike-out spur, so it could be dropped if needed, but I have heard it is a tremendous campsite.
 
-This route allows the option of skipping the first/last campsite in either direction in the event of poor weather or other delays during the trip.
-
-The most difficult sections of the trail are between McCargoe Cove and Hugginin Cove.
-We have the option to take the Greenstone Ridge instead of the Minong Ridge if we do not feel up to it.
-If we do take the Minong Ridge, there are other campsites between McCargoe Cove and North Lake Desor if we are not able to cover the entire distance.
 
 #### Shorter Trip
 
 Part of the group may do a shorter trip option for just the first two nights.
-From Moskey Basin, they would take a water taxi back to Rock Harbor for a return trip to the mainland.
-The cost for the water taxi is approximately $250, but I have not confirmed this.
+They could take a ferry back to Rock Harbor for a return trip to the mainland.
+The cost for the ferry is $110-250 per person depending on the option.
 
 ## Gear
 
 The following describes recommended gear for the trip. Tailor to your personal needs/comfort as desired.
 
-Here is [my gear list](https://lighterpack.com/r/inn7dn) with specific items.
+Here is my in-progress [gear list](https://lighterpack.com/r/sgkg6z) with specific items.
 
 ### Big Four
 
@@ -96,11 +115,10 @@ Here is [my gear list](https://lighterpack.com/r/inn7dn) with specific items.
 
 ### Water/Food Storage/Cookware
 
-* Water bottle(s) (recommend at least 2L carrying capacity)
 * [Water filter](https://www.rei.com/product/103050/sawyer-squeeze-water-filter-system) or [chemical treatment](https://www.rei.com/product/866996/aquamira-water-treatment-1-oz)
-* Water bottles
+* Water bottles (recommend at least 2L carrying capacity)
 * [Backpacking stove](https://www.amazon.com/dp/B06XNLSNFR)
-* Stove fuel (purchased on the island)
+* Stove fuel (can be purchased on the island)
 * [Cookpot](https://www.amazon.com/dp/B009SBB7HM)
 * Spoon
 
@@ -112,11 +130,11 @@ Here is [my gear list](https://lighterpack.com/r/inn7dn) with specific items.
 * Base layers (wool or synthetic, not cotton)
 * Hiking shorts/pants
 * Rain jacket or poncho
-* Mid-layer (fleece)
+* Mid-layer (e.g. fleece)
 * Down jacket (may be unnecessary depending on temps)
 * Hat
 * Sunglasses
-* Bandanna/buff
+* Bandanna/buff/small towel
 * Sleeping clothes (if desired)
 
 ### Misc
@@ -151,7 +169,6 @@ Pre-packaged [backpacking meals](https://www.rei.com/c/food) are also an option.
 * 2-4 tbsp sliced almonds or walnuts
 * few dashes of salt
 * cinnamon to taste
-* 1-2 tbsp coconut oil (if desired for extra calories)
 
 Store ingredients in a plastic bag. Boil 10-12 oz of water. Once boiling, remove from heat and stir in ingredients. Let sit for a few minutes to absorb water and cool slightly.
 
@@ -194,7 +211,6 @@ Put cashews, rolled oats, salt, and cinnamon in a food processor. Chop until fin
 * 1 oz corn chips (e.g. Fritos)
 * 0.2 oz taco seasoning
 * Salt/pepper/red pepper flakes to taste
-* 0.5 oz olive oil (if desired for extra calories)
 
 Boil 10-12 oz of water on stove. Add beans, rice, and seasoning. Simmer for 60 seconds. Dice cheese and stir in. Add fritos and any additional ingredients or spices.
 
