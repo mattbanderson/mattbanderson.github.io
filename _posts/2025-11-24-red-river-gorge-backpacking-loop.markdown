@@ -230,9 +230,9 @@ By this point, I was running low on water due to the dry camp and several stops.
 The river was easy to cross with this fall being so dry. The bottom was nice and sandy, so I decided to take a break for an early lunch sitting on a log with my feet in the river. 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924549928/in/album-72177720330324746/" title="PXL_20251021_150609138"><img src="https://live.staticflickr.com/65535/54924549928_741115be34_c.jpg" width="800" height="602" alt="PXL_20251021_150609138"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-*Nice spot for lunch*
+*Another nice spot for lunch*
 
-After a nice break in the sun, I waded across to the left of the bridge, as I saw a bit of a path and a rope hanging down the bank to help climb up. I naively assumed I would just pick up the trail, but there were lots of downed trees I had to pick my way through. After a couple of false starts, I made my way through and found up the trail, only to pass a much easier climb up the bank to meet the trail. 
+After a nice break in the sun, I waded across to the left of the bridge, as I saw a bit of a path and a rope hanging down the bank to help climb up. I naively assumed I would just pick up the trail, but there were lots of downed trees I had to pick my way through. After a couple of false starts, I made my way through and found the trail, only to pass a much easier climb up the bank to meet the trail. 
 
 **Moral of the story: if you are heading south on the Sheltowee Trace, cross the river south of the bridge and look for a spot to climb the bank and join the trail.** 
 
@@ -304,7 +304,7 @@ After a brief road walk along Tunnel Ridge Road, I was back on the Sheltowee Tra
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924598974/in/album-72177720330324746/" title="PXL_20251021_204240066"><img src="https://live.staticflickr.com/65535/54924598974_31ccea7680_c.jpg" width="800" height="602" alt="PXL_20251021_204240066"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Exposed rock on the Pinch 'Em Tight Trail*
 
-I made it back to the spur trail shortly after 5 PM, retrieved my water, and continued down the spur trail to find a campsite. Six or seven sites were occupied but there are multiple huge campsites and many smaller ones to choose from. I went all the way out to the point and then backtracked to find the spot I liked best. I could have camped almost right on the point, but decided to take something more sheltered in case of wind overnight and not directly on the trail. I found a nice little spot tucked into the trees with just enough room for my tent.
+I made it back to the spur trail shortly after 5 PM, retrieved my water, and continued down the spur trail to find a campsite. Six or seven sites were occupied but there are multiple huge campsites and many smaller ones to choose from. I went all the way out to the point and then backtracked to find the spot I liked best. I could have camped almost right on the point, but decided to take something more sheltered in case of wind overnight and to not be directly on the trail. I found a nice little spot tucked into the trees with just enough room for my tent.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924656080/in/album-72177720330324746/" title="PXL_20251021_222630995"><img src="https://live.staticflickr.com/65535/54924656080_77e436e181_c.jpg" width="800" height="602" alt="PXL_20251021_222630995"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Campsite*
@@ -348,7 +348,7 @@ The Buck Trail was a nice walk through the woods, though close enough to the Ber
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/54924600259/in/album-72177720330324746/" title="PXL_20251022_132136459"><img src="https://live.staticflickr.com/65535/54924600259_6e4acf89bf_c.jpg" width="602" height="800" alt="PXL_20251022_132136459"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-*If you look carefully, there's a blaze on the tree in the middle*
+*Look carefully, there's a blaze on the tree in the middle*
 
 I climbed back up just shy of 400 feet to Koomer Ridge. The trees thinned in a couple places but never quite enough to get a view. I eventually descended another 430 feet back down to cross the main branch of Chimney Top Creek.
 
