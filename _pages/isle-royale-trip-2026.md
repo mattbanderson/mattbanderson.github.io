@@ -106,6 +106,16 @@ The following describes recommended gear for the trip. Tailor to your personal n
 
 Here is my in-progress [gear list](https://lighterpack.com/r/sgkg6z) with specific items.
 
+### Do I need a Bear Canister?
+
+What?!? There are no bears on Isle Royale!
+
+Correct, there are no bears, but apparently some of the wolves have started to get curious about human food. So despite the lack of bears, the National Park Service required everyone to carry bear bags or bear canisters in 2025. 
+
+That said, food storage lockers are now installed at almost every campground. Per _The Greenstone_, backpackers are required to "store all food, trash, and scented items in food storage locker or approved, animal-resistant, hard-sided container." 
+
+Since all the campgrounds we will stay at have lockers, we should not need bear canisters. If NPS changes that guidance, I will let everyone know.
+
 ### Big Four
 
 * Pack
