@@ -75,22 +75,24 @@ We must also fill out a trip permit at the Rock Harbor visitor center.
 
 Tentative route: a 6-day, 5-night loop around around the NE part of the island. 
 
-[CalTopo map](https://caltopo.com/m/C3KNTR2h)
+[CalTopo map](https://caltopo.com/m/C3KNTR2)
 
 | Day | Section                                     | Miles | Shelters | Tier |
 |-----|---------------------------------------------|-------|----------|------|
-|  1  | Rock Harbor to Lane Cove                    |  6.8  |    0     |  A   |
+|  1  | Rock Harbor to Lane Cove                    |  6.8  |    0     |  B   |
 |  2  | Lane Cove to McCargoe Cove                  | 12.5  |    6     |  A   |
 |  3  | McCargoe Cove to Todd Harbor                |  6.5  |    1     |  B   | 
-|  4  | Todd Harbor to Chippewa Harbor              | 18.3  |    4     |  A   |
-|  5  | Chippewa Harbor to Moskey Basin             |  6.1  |    6     |  S   |
-|  6  | Moskey Basin to Rock Harbor                 | 10.7  |    9     |  C   |
+|  4  | Todd Harbor to Chippewa Harbor              | 18.3  |    4     |  S   |
+|  5  | Chippewa Harbor to Moskey Basin             |  6.1  |    6     |  A   |
+|  6  | Moskey Basin to Rock Harbor                 | 10.7  |    9     |  D   |
 |     | TOTAL                                       | ~60   |          |
+
+[Campsite tiers](https://www.reddit.com/r/isleroyale/comments/1mdbih4/isle_royale_campground_tier_list/)
 
 ### Route Options
 
 The route allows the option to go clockwise or counter-clockwise around the loop.
-We are skipping past some possible campsites, so in the event of poor weather several days could be altered.
+We are skipping some possible campsites, so in the event of poor weather several days could be altered.
 Chippewa Harbor is a hike-in/hike-out spur, so it could be dropped if needed, but I have heard it is a tremendous campsite.
 
 
