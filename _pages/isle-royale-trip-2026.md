@@ -51,8 +51,11 @@ The ferry will transport stove fuel.
 
 ### On the Way There
 
-I recommend we [stay in Copper Harbor](https://copperharbor.org/places-to-stay/) the night of Wednesday, August 12.
-Lodging rates look to be in the $150-$200 range per night.
+I have a reservation for [cottage #4](https://www.minnetonkaresort.com/reservations.php) at the [Minnetoka Resort](https://maps.app.goo.gl/4EQLsECxtnczuEGz6) in Copper Harbor for Wednesday, August 12.
+
+They offer free parking for ferry passengers if they have space available; otherwise, we will need to park in the ferry lot ($10/day). 
+
+Copper Harbor is pretty small, so it seemed wise to lock something in. It's only $15 if we want to cancel and stay somewhere else. 
 
 ### On the Way Back
 
