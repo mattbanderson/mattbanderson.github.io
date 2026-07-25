@@ -62,7 +62,7 @@ Copper Harbor is pretty small, so it seemed wise to lock something in. It's only
 For the return trip, we should be back on the mainland around 6:00 PM.
 FWIW, last time we drove five hours back to Cheboygan after getting off the island.
 That was a rough drive; something shorter is probably better.
-We could stay in Copper Harbor and leave all the driving for the next day or go 3-3.5 hours to Marquette or Munising.
+I have a reservation at the [Fairfield Inn & Suites](https://www.marriott.com/en-us/hotels/mqtfi-fairfield-inn-and-suites-marquette/overview/) in Marquette, which is about 2 hours and 45 minutes from Copper Harbor.
 
 Jeremy would remind us to remember the "Seney Desert"; i.e. there is very little on the stretch of highway east of Munising before heading south towards St. Ignace.
 
