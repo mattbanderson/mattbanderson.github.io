@@ -24,7 +24,7 @@ I will carry a Garmin InReach and check in periodically with our [GPS coordinate
 
 ## Dates
 
-Tentatively departing Wednesday, August 12, 2026, returning Wednesday, August 19, 2026.
+Departing Wednesday, August 12, 2026, returning Wednesday, August 19, 2026.
 Thursday, August 13 to Tuesday, August 18 on Isle Royale.
 
 ## Transportation 
@@ -55,23 +55,14 @@ I have a reservation for [cottage #4](https://www.minnetonkaresort.com/reservati
 
 They offer free parking for ferry passengers if they have space available; otherwise, we will need to park in the ferry lot ($10/day). 
 
-Copper Harbor is pretty small, so it seemed wise to lock something in. It's only $15 if we want to cancel and stay somewhere else. 
-
 ### On the Way Back
 
 For the return trip, we should be back on the mainland around 6:00 PM.
-FWIW, last time we drove five hours back to Cheboygan after getting off the island.
-That was a rough drive; something shorter is probably better.
 I have a reservation at the [Fairfield Inn & Suites](https://www.marriott.com/en-us/hotels/mqtfi-fairfield-inn-and-suites-marquette/overview/) in Marquette, which is about 2 hours and 45 minutes from Copper Harbor.
-
-Jeremy would remind us to remember the "Seney Desert"; i.e. there is very little on the stretch of highway east of Munising before heading south towards St. Ignace.
-
 
 ## Entrance Fees & Permits
 
-Standard entrance fee is $7 per person per day.
-$60 national parks season pass covers 1 person + 3 guests for a calendar year.
-I will purchase a season pass, which will cover the rest of the group.
+I will purchase a season pass, which will cover entry fees for the group.
 We must also fill out a trip permit at the Rock Harbor visitor center.
 
 ## Route
@@ -94,16 +85,9 @@ Tentative route: a 6-day, 5-night loop around around the NE part of the island.
 
 ### Route Options
 
-The route allows the option to go clockwise or counter-clockwise around the loop.
+We will go clockwise or around the loop; i.e. heading to Lane Cove the first night.
 We are skipping some possible campsites, so in the event of poor weather several days could be altered.
 Chippewa Harbor is a hike-in/hike-out spur, so it could be dropped if needed, but I have heard it is a tremendous campsite.
-
-
-#### Shorter Trip
-
-Part of the group may do a shorter trip option for just the first two nights.
-They could take a ferry back to Rock Harbor for a return trip to the mainland.
-The cost for the ferry is $110-250 per person depending on the option.
 
 ## Gear
 
