@@ -5,9 +5,9 @@ date: '2026-08-24 20:15:00'
 ---
 
 
-# About Isle Royale
+# The Good Place
 
-Isle Royale National Park sits out in Lake Superior, closer to Ontario than to the Michigan mainland it technically belongs to. There's no road access — the only ways in are by seaplane or by ferry, and once you're there, you're there. No cell service, no resupply beyond what the camp store in Rock Harbor stocks, and no quick bailout if things go sideways. It's consistently one of the least-visited national parks by total visitor count, but one of the most-revisited by the people who actually make it out there, which tells you something about what it's like once you arrive.
+Isle Royale National Park sits in Lake Superior, closer to Ontario than to Michigan, which it technically belongs to. The Objiwe name for Isle Royale is "Minong" (pronounced "MEE-nong"), which can be translated as "the good place". The only ways to reach it are by seaplanem ferry, or private boat. Extremely limited cell service and no re-supply beyond what the minimal camp stores stock. It is consistently one of the least-visited national parks by total visitor count, but one of the most-revisited by the people who actually make it way out there.
 
 # Getting There
 
@@ -61,7 +61,7 @@ We reached McCargoe at 12:30, went for a swim, filtered water, and had lunch. Al
 
 From there it was a big climb back up to the Greenstone Ridge, with a confusing multi-way junction that our GPX track helped sort out. A gentler descent followed on the Indian Portage Trail away from the ridge. We got beautiful views of Lake Richie along the way and at the campsites there. While we stopped for a break and filtered water, we debated Moskey Basin versus Chippewa Harbor. We agreed to decide at the junction itself. After our experience on the Greenstone on Day 1, I was a little worried that the 4-mile spur trail toward Chippewa might be badly overgrown. The Lake Richie camp looked full, and as we approached the junction, two hikers we talked to said they had some from Moskey Basin. They told us Moskey was overflowing, with people setting up in random spots on the rock bluffs.
 
-At the Moskey Basin/Chippewa Harbor junction, I made the call to head for Chippewa, shifting into a crush-some-miles pace. We had several of our fastest miles here, with a couple of them over 3 miles an hour. We mixed in a few brief breaks and made it to Chippewa Harbor by 6:40. Much to our disappointment, every shelter was taken by boaters, with possibly one group of hikers in the mix. Two hikers down by the dock pointed us toward the group site, which turned out to be great! It had a large grassy area as well as a tiny beach right on the water. We took a dip, filtered water, and made dinner. A guy walking through camp recommended a spur trail up the bluff to an overlook and/or to an old schoolhouse, so after setting up tents and stashing food, I decided to check it out. The route up the rock bluff to the overlook was a little tough to follow, but cairns marked the way in several places, and the views from the top were excellent. We called it a night around 9:30 PM. I woke up at some point in the middle of the night and emerged from my tent to get a great view of the Milky Way.
+At the Moskey Basin/Chippewa Harbor junction, I made the call to head for Chippewa, shifting into a crush-some-miles pace. We had several of our fastest miles here, with a couple of them over 3 miles an hour. We mixed in a few brief breaks and made it to Chippewa Harbor by 6:40. Much to our disappointment, every shelter was taken by boaters, with possibly one group of hikers in the mix. A hiker couple sitting at the picnic table by the dock pointed us toward the group site, which turned out to be great! It had a large grassy area as well as a tiny beach right on the water. We took a dip, filtered water, and made dinner. A guy walking through camp recommended a spur trail up the bluff to an overlook and/or to an old schoolhouse, so after setting up tents and stashing food, I decided to check it out. The route up the rock bluff to the overlook was a little tough to follow, but cairns marked the way in several places, and the views from the top were excellent. We called it a night around 9:30 PM. I woke up at some point in the middle of the night and emerged from my tent to get a great view of the Milky Way.
 
 ## Day 5: Chippewa Harbor to Moskey Basin
 
@@ -73,17 +73,84 @@ We dropped our stuff, jumped in for a swim, and dried off in the sun before maki
 
 ## Day 6: Daisy Farm, the Tobin Harbor Trail, and the Ferry Home
 
-A surprise thunderstorm rolled through around midnight — my right arm and part of my quilt got wet while I was trying to close the vestibule, but it passed quickly. I was up around 5:30, woke Jer at 6, and we were on the trail by 7. The first half of the trail was easy, and we kept bracing for the hard section a mom-and-son pair had warned us about the day before; the second half did get noticeably rockier.
+A surprise thunderstorm rolled in out of nowhere around midnight. My right arm and part of my quilt got wet as I was frantically trying to close my tent vestibule. The storm passed quickly, but I was concerned wet conditions might slow us down the next morning. I was up around 5:30 AM, woke my brother at 6, and we were on the trail by 7. The first half of the trail was easy. We kept bracing for the difficult section the mom and son pair at Lake Ritchie had warned us about yesterday. The second half did get noticeably rockier the closer we got to the Daisy Farm campsite.
 
-We reached Daisy Farm shortly before 10, dried out our socks and shoes under the pavilion for a bit, and had a snack. We followed the trail down to the dock to filter water and asked a ranger for his take on the Rock Harbor Trail versus the Tobin Harbor Trail for the last stretch — he said either would work fine. We were surprised by how big Daisy Farm actually was, with several nice shelters right down by the water, and started kicking around ideas for a future backcountry trip to Isle Royale.
+We reached Daisy Farm shortly before 10 AM, dried out our socks and shoes under the pavilion for a bit, and had a snack. We followed the trail down to the dock to filter water and asked a ranger for his take on the level of difficulty of the Rock Harbor Trail versus the Tobin Harbor Trail. He said if we had made it this far, either would be fine. We were surprised by how large Daisy Farm actually was, and to me it almost felt more like a state park campground. 16 shelters total, with several right down by the water. As we continued down the trail towards Rock Harbor, we started kicking around ideas for a future trip to Isle Royale to finally bring our brother-in-law out here.
 
-From there we headed out along the Lake Superior shoreline — flat, easy trail with several small beaches and easy water access, plus nice views of the Rock Harbor Lighthouse and the park headquarters out on Mott Island as we passed an old mining area. The last mile or so got rockier and more bouldery. We talked with several other hikers along the way trying to get a read on Rock Harbor Trail versus Tobin Harbor Trail, and the closer we got to the junction, the more thoroughly spent Rock Harbor Trail hikers we saw coming the other way — that settled it, and we took the Tobin Harbor Trail.
+Past Daisy Farm we followed the Lake Superior shoreline along flat, easy trail with several small beaches, plenty of water access, plus nice views of the Rock Harbor Lighthouse and the park headquarters out on Mott Island. We also passed through an old mining area. The last mile or so got rockier and more boulder-strewn. We talked with several other hikers along the way trying to make a final call on staying on the Rock Harbor Trail the entire way versus taking a quick detour inland to follow the Tobin Harbor Trail. The closer we got to the junction, the more thoroughly spent Rock Harbor Trail hikers we saw coming the other way. That settled it for us, and we headed up the Mt. Franklin Trail.
 
-It was a short up-and-down from the Mt. Franklin trail junction to the Tobin Harbor Trail, where we chatted with a family, and then nice, easy hiking the rest of the way. We stopped for an early lunch to finish off the last of our tortillas, salami, and cheese, and skipped the spur to Suzy's Cave given the incline required to reach it. We passed several day hikers who confirmed there'd be a spur trail back into Rock Harbor.
+It was a short up-and-down from the Mt. Franklin trail junction to the Tobin Harbor Trail, where we chatted with a family for a few minutes. Nice, easy hiking followed the rest of the way. We stopped for an early lunch to finish off the last of our tortillas, salami, and cheese, and skipped the spur to Suzy's Cave with thoughts of the Greenstone Grill on our minds. We passed several day hikers who confirmed we would eventually come to a spur trail back into Rock Harbor.
 
-We reached Rock Harbor around 1:30, refilled water, locked our packs in storage, and headed straight for the Greenstone Grill. Burgers, fries, and beer on the patio, watching a large sailboat come in — the boater from Duluth we'd seen back at Chippewa Harbor had made it to Rock Harbor too. We made our way to the ferry dock, boarded quickly and easily, and the captain warned us the ride back would be spicier than the trip out, with more waves. We sat in the back again and had to keep one hand on the boat any time we moved around.
+We reached Rock Harbor around 1:30, refilled water, stowed our packs in backpack storage, and headed straight for the Greenstone Grill. We enjoyed burgers, fries, and beer on the patio while watching a large sailboat come in. Heading back to the dock, we noticed a boater from Duluth that we had seen back at Chippewa Harbor was now in Rock Harbor, too. We snapped a few pictures in front of the Rock Harbor NPS sign, then made our way to the ferry dock. The captain warned us the ride back would be "spicier" than the trip out. Boarding was quick and easy. We sat in outdoor seats in the back of the boat again. True to the captain's word, we had to keep one hand on the boat any time we moved around.
 
-We got back into Copper Harbor around 6:15. Jer's bag came off quickly; mine took a while longer. We headed to the car and made the easy drive to Culver's in Houghton for dinner, where I managed to mess up my concrete mixer and had to bring them a new one along with the certificate for a free one from that location — I guess that means I have to go back. From there it was an easy drive on to Marquette for the night. Breaking up the drive home this way worked out really well.
+We got back into Copper Harbor around 6:15 PM. My brother's bag came off the ferry quickly; mine took a while longer. We headed to the car and made a 45-minute drive to Culver's in Houghton for dinner. They made a mistake with my ice cream, told me keep the first one, made another, and needless to say, we had no trouble eating everything, mistakes and all! They also gave me a certificate for a free ice cream from that location, so I guess that means I have to go back to use it! From there it was an easy drive on to a hotel in Marquette for the night. The next day we feasted at the breakfast buffet. Breaking up the drive home this way worked out really well.
+
+# Impressions of Campsites & Points of Interest
+
+## Lookout Louise
+
+Lookout Louise was nice, but there are comparable views in many other places on the island. It's worth it if you take the water bus, but I don't think I'd schedule a separate water taxi to go see it again, especially coupled with 4 miles of semi-bushwhacking through overgrown brush.
+
+## Lane Cove
+
+Lane Cove felt quiet and secluded, with only five tent sites, no shelters, no group sites, and no dock. Getting in the water can be a little tough as the rocks are very slick. Campsites are right on the water, but views of the cove are somewhat obscured by trees. Definitely the way to go if you arrive in Rock Harbor and want to avoid the crowds at 3 Mile or Daisy Farm.
+
+## Mt. Franklin
+
+Technically a bluff rather than a mountain, it has great views. We stopped there twice, and it was definitely worth it. If you are doing a short trip based out of Rock Harbor, this is the place to go see.
+
+## Mt. Objiwe Fire Tower
+
+Good location to stop for a break or lunch. Plenty of shade under the tower itself, while the supports can be used to hang out any wet gear to dry. Climb the tower to get the best views of the length of the island.
+
+## Signed Viewpoint on Greenstone
+
+Worth the slight scramble upwards, keep going until the views really open up. One of the best vistas on the island. 
+
+## East Chickenbone
+
+Seems poorly situated, we were running low on water but chose not to bother with the lengthy spur to the shore. So many boardwalks! Almost feel off several times because the brush over the boardwalks was so overgrown. Just go to to West Chickenbone or McCargoe Cove.
+
+## McCargoe Cove
+
+You really want to get a shelter here because the individual and group tent sites are quite a ways back from the shore. Most shelters are a bit up the hill too, but not as far as the tent sites. Based on our experience the rest of the trip, we were fortunate to get a shelter considering we arrived after 5 PM. All shelters were taken by 12:30 PM the next day. The way the campsite is situated at the end of the cove gave it more of a snug, cozy feeling. Water access was easier as rocks were much less slippery here, or just jump in from the dock. 
+
+## Minong Mine
+
+I recommend stashing your gear at McCargoe and doing a separate trip to the Minong Mine if you want to really explore the it without being encumbered by a full pack. Worth the side trip to see the largest mine on Isle Royale. 
+
+## Todd Harbor
+
+Known for its sunsets; unfortunately, it was overcast and rainy when we stayed here. Still enjoyable to sit on the cobbled beach. Go see group campsite 1. Even if you do not end up setting up camp there, it's worth seeing the view of Lake Superior. At the opposite end of the harbor, there is a side trail to another mine, but the threat of rain kept us from checking it out.
+
+## West Chickenbone
+
+Seemed like a nice spot. Although on an inland lake rather than Lake Superior, I got similar vibes as Lane Cove. Campsites are right on the water, felt quiet and secluded. 
+
+## Lake Ritchie
+
+Some really nice views of Lake Ritchie from the bluffs along the trail. It appeared full when we passed through, but it looked like the campsites would good views of the lake from their perches just up the bluff.
+
+## Chippewa Harbor
+
+We were disappointed to not get a shelter, but the group site was a solid consolation prize. The group site also puts you much close to the unmarked side trails to the old schoolhouse and path up the bluff to get 360-degree views of the area. That said, the shelters were situated on top of a rocky, open area that likely make for great stargazing. Very popular site for powerboaters and paddlers in addition to hikers. One option for an easy trip would be to water taxi from Rock Harbor to Chippewa Harbor and hike back to Rock Harbor, stopping at Moskey Basin, Daisy Farm, and 3 Mile along the way.
+
+## Moskey Basin
+
+The absolute highlight of our trip! As much as many of the other campsites feel cozy and tucked-in, Moskey blew me away with its size and grag. Grndeur. It's a huge campsite, but in a good way. Even though it's very popular, the sites are spaced out enough that it does not feel like you are on top of other people. The shelters are right on the water and have amazing views. We were not lucky enough to get a shelter, but tent site 5 was still pretty good. Great swimming, huge rock bluffs to explore, and the way the landscape is laid out makes it possible to see both sunsets and sunrises. Everyone should stay here at least once, if not every time you visit the island!
+
+## Daisy Farm
+
+We took a quick break here and refilled water down by the dock. Good place to maximize your odds of getting a shelter. Felt more like a standard state park campground than most places on Isle Royale (had a pavilion, info boards, small sandy beach, etc.) It had mostly emptied out by the time we arrived, I can imagine it feels even more like a regular campground when it is bustling with people. Several shelters were right down by the water. 
+
+
+## Greenstone Grill
+
+If you make it back to Rock Harbor in time, the Greenstone Grill serves sandwiches, burgers, and beverages along with a variety of other snacks. We were glad we made it back in time to enjoy burgers and beer out on the patio after nearly a week of oatmeal, salami, cheese, beans, rice, and dehydrated meals. Service is very fast!
+
+## Food Storage Lockers
+
+Although the food storage lockers are not reflected on any published or campground maps, we never had any problem finding them. Just explore each campsite a bit and you will find them centrally located somewhere. Many campsites have more than one.
 
 # Closing Thoughts
 
