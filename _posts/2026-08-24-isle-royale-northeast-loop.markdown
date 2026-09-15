@@ -7,21 +7,49 @@ date: '2026-08-24 20:15:00'
 
 # The Good Place
 
-Isle Royale National Park sits in Lake Superior, closer to Ontario than to Michigan, which it technically belongs to. The Objiwe name for Isle Royale is "Minong" (pronounced "MEE-nong"), which can be translated as "the good place". The only ways to reach it are by seaplanem ferry, or private boat. Extremely limited cell service and no re-supply beyond what the minimal camp stores stock. It is consistently one of the least-visited national parks by total visitor count, but one of the most-revisited by the people who actually make it way out there.
+Isle Royale National Park sits in Lake Superior, closer to Ontario, Canada than to the Michigan mainland it technically belongs to. The Ojibwe name for the island is "Minong" (pronounced "MEE-nong"), often translated as "the good place." Getting there means taking a seaplane, a ferry, or private boat. Once you arrive, cell service is extremely limited and nothing to resupply from beyond the minimal collection of items the camp stores on either end of the island stock. It is consistently one of the least-visited national parks by raw numbers, and yet one of the most-revisited by the people who actually make the trip.
 
 # Getting There
 
-We caught the *Isle Royale Queen* ferry out of Copper Harbor for the crossing to Rock Harbor — about 3.5 hours across open water. Loading was easy, and conditions were about as good as they get: flat as glass the whole way. We spent most of the ride sitting outside in the rear seats, occasionally wandering up front to check the view, and moved up to the bow entirely for the last half hour, standing room only. Docking and unloading in Rock Harbor went smoothly, and a ranger gave an orientation talk while the boat was being unloaded.
+The two options for reaching the island are seaplane and ferry. Since we took a seaplane on our [previous trip](https://mattbanderson.com/isle-royale-feldtmann-loop-trail/) in 2022, we decided to take the *Isle Royale Queen* [ferry](https://isleroyale.com/) out of Copper Harbor this time. The crossing to Rock Harbor takes about 3.5 hours. Loading was easy, and conditions were as good as they could get--I did not think it was possible for Lake Superior to be so calm.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490452596/in/album-72177720335329428" title="PXL_20260813_123029385.MP"><img src="https://live.staticflickr.com/65535/55490452596_feeb17229c_c.jpg" width="800" height="602" alt="PXL_20260813_123029385.MP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*The still waters of Superior*
+
+ We spent most of the ride sitting outside in the rear seats, occasionally wandering up front to check the view, before moving up to the bow for the last half hour. Docking in Rock Harbor went smoothly, and the ferry crew unloads the boat while a ranger gives an orientation talk.
 
 # Trip Report
 
 ## Day 1: Lookout Louise, Jurassic Park, Mt. Franklin, and Lane Cove
 
-Once off the boat, we grabbed our packs, listened to the ranger orientation (don't feed the wolves!), filled out our permit, topped off water bottles, and had our packs weighed. Scale said 14 lbs. for mine, pre-water weight! From there we headed to the Rock Harbor Lodge to check in for the water taxi, ate a quick lunch, and caught a 15-minute taxi ride out to the Hidden Lake dock to start hiking.
+Once off the boat, we listened to the ranger orientation (don't feed the wolves!), grabbed our packs, filled out our permit, topped off water bottles, and had our packs weighed. The scale said 14 lbs. for mine, pre-water weight! From there we headed to the Rock Harbor Lodge to check in for the water taxi, ate a quick lunch, and caught a 15-minute taxi ride out to the Hidden Lake dock to start hiking.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490846980/in/album-72177720335329428" title="PXL_20260813_161127130.MP"><img src="https://live.staticflickr.com/65535/55490846980_3dd45bb0b8_c.jpg" width="800" height="602" alt="PXL_20260813_161127130.MP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Rock Harbor*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490565383/in/album-72177720335329428/" title="PXL_20260813_160300015"><img src="https://live.staticflickr.com/65535/55490565383_ba5249ff3a_c.jpg" width="602" height="800" alt="PXL_20260813_160300015"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*~14 lbs., not bad!*
 
 The trail to Lookout Louise wound through an old burn zone, and the elevation gain up to the Greenstone Ridge felt gradual. Lots of raspberries to pick nearly the entire climb. The views from the top were great! If there had not been a signpost marking the junction with the Greenstone Ridge Trail, we might have walked right past it. This was our first hint of what the trail had in store for later. 
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490625994/in/album-72177720335329428" title="PXL_20260813_174302094"><img src="https://live.staticflickr.com/65535/55490625994_77980861ea_c.jpg" width="800" height="602" alt="PXL_20260813_174302094"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Hidden Lake*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490452491/in/album-72177720335329428/" title="PXL_20260813_175516930.MP"><img src="https://live.staticflickr.com/65535/55490452491_fc19144f99_c.jpg" width="602" height="800" alt="PXL_20260813_175516930.MP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Monument Rock, once the ancient shoreline of Lake Superior*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55489476302/in/album-72177720335329428/" title="PXL_20260813_175928742"><img src="https://live.staticflickr.com/65535/55489476302_2d4737e8fc_c.jpg" width="800" height="602" alt="PXL_20260813_175928742"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Burn zone on the way to Lookout Louise*
+
 We took the spur out to Lookout Louise, which offered great views of the Sleeping Giant, Thunder Bay, and Canada to the north. Based on the surroundings, moose were big fans of the lookout, too. Lots of droppings and bedded-down areas.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490625899/in/album-72177720335329428/" title="PXL_20260813_180747152"><img src="https://live.staticflickr.com/65535/55490625899_16ef7a032b_c.jpg" width="800" height="602" alt="PXL_20260813_180747152"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*The Sleeping Giant from Lookout Louise*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490452401/in/album-72177720335329428/" title="PXL_20260813_181356906.MP"><img src="https://live.staticflickr.com/65535/55490452401_bc07894ffc_c.jpg" width="800" height="602" alt="PXL_20260813_181356906.MP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490449156/in/album-72177720335329428/" title="PXL_20260813_181843818.MP"><img src="https://live.staticflickr.com/65535/55490449156_442b03ea17_c.jpg" width="800" height="602" alt="PXL_20260813_181843818.MP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Duncan Bay from Lookout Louise*
 
 Returning to the Greenstone, the first mile of was open and scenic through more of burn areas. We were able to watch a seaplane come in to land in Tobin Harbor as well as see *Queen* heading out for its return voyage to Copper Harbor. Once we left the burn zone, the next four or so trail miles turned into a scene out of *Jurassic Park*. Heavily overgrown, with thimbleberry bushes growing chest- and head-high in stretches, and no real views to speak of. We just kept pushing through and were relieved to finally hit the junction with the Mt. Franklin trail.
 
