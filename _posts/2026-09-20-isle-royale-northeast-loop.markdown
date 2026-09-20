@@ -1,7 +1,7 @@
 ---
 
 title: Isle Royale Northeast Loop
-date: '2026-08-24 20:15:00'
+date: '2026-09-20 18:05:00'
 ---
 
 
@@ -63,19 +63,19 @@ Once we left the burn zone, the next four or so trail miles turned into a scene 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490625684/in/album-72177720335329428/" title="PXL_20260813_205740568.MP"><img src="https://live.staticflickr.com/65535/55490625684_1d8c095718_c.jpg" width="602" height="800" alt="PXL_20260813_205740568.MP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Look carefully and you can see the velociraptor*
 
-We ran into a boater resting there who mentioned Lane Cove was crowded and that he had seen a fox in camp. We headed a quarter-mile further to Mt. Franklin itself even though we would pass it again the next day. The view from the bluff was excellent, and we met up with the rest of the boaters' group as well as another couplel while we were there. 
+We ran into a boater resting there who mentioned Lane Cove was crowded and that he had seen a fox in camp. We headed a quarter-mile further to Mt. Franklin itself even though we would pass it again the next day. The view from the bluff was excellent, and we met up with the rest of the boaters' group as well as another couple while we were there. 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490846510/in/album-72177720335329428/" title="PXL_20260813_211947942"><img src="https://live.staticflickr.com/65535/55490846510_c987df9b47_c.jpg" width="800" height="602" alt="PXL_20260813_211947942"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55489475902/in/album-72177720335329428/" title="PXL_20260813_212022107"><img src="https://live.staticflickr.com/65535/55489475902_d48784368c_c.jpg" width="800" height="602" alt="PXL_20260813_212022107"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *View from Mt. Franklin on day 1*
 
-Returning to the junction, we headed nortReturning to the junction, we headed north to Lane Cove, with the trail dropping steadily off the ridge, crossing several stretches of boardwalk through marshy ground and drawing out a number of mosquitoes along the way.h to Lane Cove, with the trail dropping steadily off the ridge, crossing several stretches of boardwalk through marshy ground and drawing out a number of mosquitoes along the way.
+Returning to the junction, we headed north to Lane Cove, with the trail dropping steadily off the ridge. We crossed several stretches of boardwalk through marshy ground, and many mosquitoes came out to greet us along the way.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490449116/in/album-72177720335329428/" title="PXL_20260813_214906691"><img src="https://live.staticflickr.com/65535/55490449116_1c560da85f_c.jpg" width="800" height="602" alt="PXL_20260813_214906691"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Boardwalk on the way to Lane Cove*
 
-We reached camp to find it nearly empty, just the boaters' dinghy and a canoe pulled up, no other people. We checked out all five sites and settled on site #3, with the food storage conveniently between our site and site #2. Once camp was set up, we got in the water to cool off and made dinner. As the wind died down, the mosquitoes appeared in greater numbers. We could see a couple of boats moored out in the cove, and the boaters' arrived headed back to their primary vessel. The sunset was a good one, though somewhat obscured by a line of trees between the campsite and shore. We were in bed shortly before 10. The next morning, my brother mentioned the next morning that he saw a fox outside his tent peering in at him around 11:30!
+We reached camp to find it nearly empty, just the boaters' dinghy and a canoe pulled up on shore, no other people. We checked out all five sites and settled on site #3, with the food storage conveniently between our site and site #2. Once camp was set up, we got in the water to cool off and made dinner. As the wind died down, the mosquitoes appeared in greater numbers. We could see a couple of boats moored out in the cove, and the boaters arrived to head back to their main vessel. The sunset was a good one, though somewhat obscured by a line of trees between camp and the shore. We were in bed shortly before 10. The next morning, my brother mentioned that he saw a fox outside his tent peering in at him around 11:30!
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490568438/in/album-72177720335329428/" title="PXL_20260813_222100984"><img src="https://live.staticflickr.com/65535/55490568438_7af0a9ea76_c.jpg" width="800" height="602" alt="PXL_20260813_222100984"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Lane Cove*
@@ -87,7 +87,7 @@ We reached camp to find it nearly empty, just the boaters' dinghy and a canoe pu
 
 ## Day 2: The Greenstone Ridge, Mt. Ojibway, and the Dismal Reputation of East Chickenbone
 
-In the morning, I foraged thimbleberries to add to my breakfast oatmeal and packed up camp, leaving around 9:15. It appeared only one other couple had camped at Lane Cove. The day started with a big climb, and we passed a group of four heading down toward the cove. 
+In the morning, I foraged thimbleberries to add to my breakfast oatmeal and packed up camp, leaving around 9:15. It appeared only one other group had camped at Lane Cove that night. The day started with a big climb back up to the Greenstone Ridge, and we passed a group of four heading down toward the cove. 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490568378/in/album-72177720335329428/" title="PXL_20260814_113316483"><img src="https://live.staticflickr.com/65535/55490568378_d28626db0d_c.jpg" width="602" height="800" alt="PXL_20260814_113316483"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Breakfast of champions: just add oatmeal*
@@ -109,7 +109,7 @@ We continued west along the Greenstone Ridge Trail, which opened into long, scen
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490451621/in/album-72177720335329428/" title="PXL_20260814_162447408.MP"><img src="https://live.staticflickr.com/65535/55490451621_06cdff01e7_c.jpg" width="800" height="602" alt="PXL_20260814_162447408.MP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Canada and the Sleeping Giant*
 
-We stopped for lunch at the Mt. Ojibway fire tower and dried out gear in the sun. The fire tower offered fantastic views of both ends of the island and across to Canada, and on a very clear day you can even see the Keweenaw Peninsula.
+We stopped for lunch at the Mt. Ojibway fire tower and dried out gear in the sun. The fire tower offered fantastic views of both ends of the island and across to Canada. We were joined by a solo backpacker we recognized from the ferry and orientation. He said that on a very clear day you can see all way to the Keweenaw Peninsula. We also informed us that he too had survived the bushwhack from Lookout Louise back Mt. Franklin.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55489475422/in/album-72177720335329428/" title="PXL_20260814_162714127"><img src="https://live.staticflickr.com/65535/55489475422_9c20c11448_c.jpg" width="602" height="800" alt="PXL_20260814_162714127"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Mt. Ojibwe fire tower*
@@ -123,7 +123,7 @@ We stopped for lunch at the Mt. Ojibway fire tower and dried out gear in the sun
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490451546/in/album-72177720335329428/" title="PXL_20260814_165902940"><img src="https://live.staticflickr.com/65535/55490451546_d159293e76_c.jpg" width="800" height="602" alt="PXL_20260814_165902940"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Looking southwest from the first tower*
 
-At the junction of the Greenstone and Daisy Farm trails, we met a group of four coming from East Chickenbone, one of them hauling a case of Pabst Blue Ribbon beer strapped to his pack. They told us about an upcoming viewpoint, which we made a point to check out. It's definitely worth continuing past the first view until it really opens up. 
+At the junction of the Greenstone and Daisy Farm trails, we met a group of four coming from East Chickenbone, one of them hauling a case of Pabst Blue Ribbon beer strapped to his pack. They told us about an upcoming viewpoint, which we made a point to check out. Make sure to continue past the first view until it really opens up. 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490567848/in/album-72177720335329428/" title="PXL_20260814_175858463"><img src="https://live.staticflickr.com/65535/55490567848_325f41e360_c.jpg" width="800" height="602" alt="PXL_20260814_175858463"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *View from the viewpoint*
@@ -133,7 +133,7 @@ At the junction of the Greenstone and Daisy Farm trails, we met a group of four 
 
 Not long after, we passed through a section that looked like it might have been rerouted, marked with ribbons and cairns instead of a clear, well-worn trail.
 
-A big descent off the Greenstone Ridge Trail on the ridge brought us toward East Chickenbone. We passed the East Chickenbone camp, and it looked every bit as dismal as reviews indicate. We skipped the spur down to the lake and pushed on toward McCargoe Cove. 
+A big descent off the Greenstone Ridge brought us toward East Chickenbone. We passed the East Chickenbone camp, and it looked every bit as dismal as reviews indicate. We skipped the spur down to the lake and pushed on toward McCargoe Cove. 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490624794/in/album-72177720335329428/" title="PXL_20260814_202952305"><img src="https://live.staticflickr.com/65535/55490624794_7c33287f71_c.jpg" width="800" height="602" alt="PXL_20260814_202952305"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Chickenbone Lake*
@@ -149,7 +149,7 @@ The stretch of boardwalk around Chickenbone Lake, including a set of steps, was 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490624559/in/album-72177720335329428/" title="PXL_20260814_211303107"><img src="https://live.staticflickr.com/65535/55490624559_4bc7d66e24_c.jpg" width="602" height="800" alt="PXL_20260814_211303107"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Stream just before McCargoe Cove*
 
-At camp, a few of the shelters were already taken, so we grabbed number 5, unloaded our packs, and went for a swim. We washed clothes, filtered water, and hung the laundry to dry while setting up in the shelter for dinner. We wandered over to check out group site 1 but did not find the view the two hikers we met earlier mentioned. On the way back, we gathered firewood before sitting down by the water until the mosquitoes chased us off.
+At camp, a few of the shelters were already taken, so we grabbed number 5, unloaded our packs, and went for a swim. We washed clothes, filtered water, and hung the laundry to dry while setting up in the shelter for dinner. We wandered over to check out group site 1 but were puzzled to find nothing resembling the view the two hikers we met earlier mentioned. On the way back, we gathered firewood and chatted with some teenagers around the fire pit. Eventually we went and sat down by the water until the mosquitoes chased us off.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55489474917/in/album-72177720335329428/" title="PXL_20260814_213315889"><img src="https://live.staticflickr.com/65535/55489474917_145cdee832_c.jpg" width="800" height="602" alt="PXL_20260814_213315889"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *McCargoe Cove Shelter #5*
@@ -172,7 +172,6 @@ I slept well, got up around 6:30 AM, and headed down to the shore to watch the s
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55489474852/in/album-72177720335329428/" title="PXL_20260815_092539213"><img src="https://live.staticflickr.com/65535/55489474852_e12196848a_c.jpg" width="800" height="602" alt="PXL_20260815_092539213"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Sunrise at McCargoe*
 
-
 I backtracked about a quarter-mile along the trail to forage more thimbleberries to add to my oatmeal. I went down to the dock to eat, and talked a bit with a family that had arrived by boat. The grandfather had built the boat himself by hand! 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490567408/in/album-72177720335329428/" title="PXL_20260815_092652328"><img src="https://live.staticflickr.com/65535/55490567408_545df1e906_c.jpg" width="800" height="602" alt="PXL_20260815_092652328"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -185,7 +184,7 @@ I backtracked about a quarter-mile along the trail to forage more thimbleberries
 
 We took our time breaking camp. On the way out, we stopped to help a pair of hikers, one of whose huge backpack was tearing apart. We provided some duct tape and med wrap and wished them plenty of luck, as they planned to hike the length of the Minong Ridge to Windigo/Ozaagaateng.
 
-About a mile in, we stopped at Minong Mine. There is plenty to explore. I climbed down into the old mine works to look around, and there are numerous piles of rock tailings, many more than at Island Mine that I visited on my last trip to Isle Royale. The ideal way to explore the mine would be to visit as a side trip from McCargoe Cove without packs. From the mine, the Minong Ridge Trail alternated between open, rocky outcroppings and dropping back into forest. We took a break and had lunch up on one of the open stretches, with views down to Otter Lake below and Canada across Superior. Feeling bold, I ate three blueberries, making it a triple-berry day.
+About a mile in, we stopped at Minong Mine. I climbed down into an old mine to look around. There are numerous piles of rock tailings, many more than at Island Mine, which I visited on my last trip. The ideal way to explore the mine would be to visit as a side trip from McCargoe Cove without packs. From the mine, the Minong Ridge Trail alternated between open, rocky outcroppings and dropping back into forest. We took a break and had lunch up on one of the open stretches, with views down to Otter Lake below and Canada across Superior. Feeling bold, I ate three blueberries, making it a triple-berry day!
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490450871/in/album-72177720335329428/" title="PXL_20260815_134635447"><img src="https://live.staticflickr.com/65535/55490450871_395fbfeda7_c.jpg" width="800" height="602" alt="PXL_20260815_134635447"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Entrance to a mine shaft at the Minong Mine*
@@ -207,10 +206,10 @@ Eventually the trail settled into forest and turned surprisingly cruisy. Much ni
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490567093/in/album-72177720335329428/" title="PXL_20260815_145110054"><img src="https://live.staticflickr.com/65535/55490567093_8f3ddd0c49_c.jpg" width="800" height="602" alt="PXL_20260815_145110054"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Otter Lake from the Minong Ridge*
 
- We foraged plenty more thimbleberries and spotted a shed moose antler lying beside the trail. The last half-mile threw one more battle with head-high thimbleberries at us before we made it to Todd Harbor around 3 PM. Much to our surprise, the broken-backpack crew we helped that morning was already there, their field repairs holding up. We never saw them on the trail, but they must have passed us when we were exploring the Minong Mine. 
+ We foraged plenty more thimbleberries and spotted a shed moose antler lying beside the trail. The last half-mile threw one more battle with head-high thimbleberries at us before we made it to Todd Harbor around 3 PM. Much to our surprise, the broken-backpack crew we helped that morning was already there, their field repairs holding up. We never saw them on the trail, but they must have passed us when we were exploring the mine. 
  
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55489474357/in/album-72177720335329428/" title="PXL_20260815_171811224"><img src="https://live.staticflickr.com/65535/55489474357_d02af6a5bc_c.jpg" width="800" height="602" alt="PXL_20260815_171811224"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-*Todd Harbor*
+*Todd Harbor*p to
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490844880/in/album-72177720335329428/" title="PXL_20260815_220831127"><img src="https://live.staticflickr.com/65535/55490844880_597d644c6b_c.jpg" width="800" height="602" alt="PXL_20260815_220831127"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *More views of Todd Harbor*
@@ -220,16 +219,16 @@ Eventually the trail settled into forest and turned surprisingly cruisy. Much ni
  <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490450496/in/album-72177720335329428/" title="PXL_20260815_234807035.MP"><img src="https://live.staticflickr.com/65535/55490450496_3c603ff46f_c.jpg" width="800" height="602" alt="PXL_20260815_234807035.MP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Looking out at Lake Superior from group site 1*
  
- We settled on site 4 as it was only a few dozen feet from the water and the food storage box, though it required finessing our the tents under tree cover to avoid roots while staying reasonably level. By late afternoon it was busy, with plenty of tired-looking arrivals coming in well after us. We recommended group site 1 to everyone we talked to who was still trying to find a spot.
+ We settled on site 4 as it was closest to the water and the food storage box, though it required finessing our the tents under tree cover to avoid roots while staying reasonably level. By late afternoon it was busy, with plenty of tired-looking arrivals coming in well after us. We recommended group site 1 to everyone we talked to who was still trying to find a spot.
 
  <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55489472667/in/album-72177720335329428/" title="PXL_20260815_200512793"><img src="https://live.staticflickr.com/65535/55489472667_f2d36a40c9_c.jpg" width="800" height="602" alt="PXL_20260815_200512793"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
  *Our campsite at Todd Harbor*
 
-We had dinner around 5:30, with no rain to speak of. We went down to the beach to hang out on the rocks, filter water, and discussed options for shortening the next day's route. I talked with two hikers from Grand Rapids for a bit as well. It rained briefly, causing us to head back to camp. We re-emerged to head back to the beach, then it started raining again, and across the harbor it looked like heavier rain was moving in. Unfortunately, all the rain and clouds meant no sunset for us. We retreated to the tents around 7:45 and I was asleep by 9. A steady rain fell but mostly stopped by midnight.
+We had dinner around 5:30, with no rain yet. We went down to the beach to hang out on the rocks, filter water, and discussed options for the next day's route. I talked with two hikers from Grand Rapids for a bit as well. It rained briefly, causing us to head back to camp. We re-emerged to head back to the beach, then it started raining again, and across the harbor it looked like heavier rain was moving in. Unfortunately, all the rain and clouds meant no sunset for us. We retreated to the tents around 7:45 and I was asleep by 9. A steady rain fell but mostly stopped by midnight.
 
 ## Day 4: Backtracking to McCargoe, Then On Toward Chippewa Harbor
 
-We decided to retrace our steps back to McCargoe Cove, a few miles shorter than continuing further west on the Minong, looping south past Hatchet Lake, and heading back east on the Greenstone. This also gave us the option to stop at any of McCargoe Cove, West Chickenbone, Lake Richie, Moskey Basin, or Chippewa Harbor depending on how the day went. We at least knew the first seven miles back would be fairly easy trail.
+We decided to retrace our steps back to McCargoe Cove, a few miles shorter than continuing further west on the Minong, looping south past Hatchet Lake, and heading back east on the Greenstone. This also gave us the option to stop at any of McCargoe Cove, West Chickenbone, Lake Richie, Moskey Basin, or Chippewa Harbor depending on how the day went. We at least knew the first seven miles would be fairly easy trail.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490844805/in/album-72177720335329428/" title="PXL_20260816_103259773.MP"><img src="https://live.staticflickr.com/65535/55490844805_518a37b01c_c.jpg" width="800" height="602" alt="PXL_20260816_103259773.MP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Islands illuminated by morning sunlight*
@@ -239,7 +238,7 @@ The people in the shelter had their phone alarm set to the A-Team theme song, wh
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490450426/in/album-72177720335329428/" title="PXL_20260816_110930351.MP"><img src="https://live.staticflickr.com/65535/55490450426_ddcb57f5c0_c.jpg" width="602" height="800" alt="PXL_20260816_110930351.MP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Thimbleberries in their native habitat*
 
-Along the way we met a solo hiker heading the opposite direction who told us, with eyes as wide as saucers, that they just seen a bull moose walk across the trail five minutes before. We scoured the woods as we continued on but saw no sign of it. Missed it by thatmuch. We made good time back to McCargoe, stopping for a break at the best view along the way and catching and passing one pair of hikers. 
+Along the way we met a solo hiker heading the opposite direction who told us, with eyes as wide as saucers, that they had just seen a bull moose walk across the trail five minutes before. We scoured the woods as we continued on but saw no sign of it. Missed it by that much! We made good time back to McCargoe, stopping for a break at the best view along the way and catching and passing one pair of hikers. 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490622159/in/album-72177720335329428/" title="PXL_20260816_123628717.MP"><img src="https://live.staticflickr.com/65535/55490622159_57e5ee9bf1_c.jpg" width="800" height="602" alt="PXL_20260816_123628717.MP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *The best view on this section of the Minong, near the west end of Otter Lake*
@@ -252,7 +251,7 @@ We reached McCargoe at 12:30, went for a swim, filtered water, and had lunch. Al
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490448921/in/album-72177720335329428/" title="PXL_20260816_145749962.MP"><img src="https://live.staticflickr.com/65535/55490448921_8b07f1a1f7_c.jpg" width="800" height="602" alt="PXL_20260816_145749962.MP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Hello McCargoe, my old friend*
 
-Back on the trail by 1:30, we took the Indian Portage Trail toward West Chickenbone: pretty level going, just a little overgrown, and easy on the feet. The clouds burned off and we had nice views of Chickenbone Lake as we contoured aroudn it. We reached the campsites around 2:40, took a break, and refilled water.
+Back on the trail by 1:30, we took the Indian Portage Trail toward West Chickenbone: pretty level going, just a little overgrown, and easy on the feet. The clouds burned off and we had nice views of Chickenbone Lake as we contoured around it. We reached the campsites around 2:45, took a break, and refilled water.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490844620/in/album-72177720335329428/" title="PXL_20260816_155046403"><img src="https://live.staticflickr.com/65535/55490844620_0e295a2e41_c.jpg" width="800" height="602" alt="PXL_20260816_155046403"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Looking east across Chickenbone Lake*
@@ -273,7 +272,7 @@ From there it was a big climb back up to the Greenstone Ridge, with a confusing 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490450126/in/album-72177720335329428/" title="PXL_20260816_182330300.MP"><img src="https://live.staticflickr.com/65535/55490450126_384e3aa1fe_c.jpg" width="800" height="602" alt="PXL_20260816_182330300.MP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Break time at Lake Ritchie*
 
-While we stopped for a break and filtered water, we debated Moskey Basin versus Chippewa Harbor. We agreed to decide at the junction itself. After our experience on the Greenstone on Day 1, I was a little worried that the 4-mile spur trail toward Chippewa might be badly overgrown. The Lake Richie camp looked full, and as we approached the junction, two hikers we talked to said they had some from Moskey Basin. They told us Moskey was overflowing, with people setting up in random spots on the rock bluffs.
+While we stopped for a break and filtered water, we debated Moskey Basin versus Chippewa Harbor. We agreed to decide at the junction itself. After our experience on the Greenstone on Day 1, I was a little worried that the 4-mile spur trail toward Chippewa might be badly overgrown. The Lake Richie camp looked full, and as we approached the junction, two hikers we talked to said they had come from Moskey Basin. They told us Moskey was overflowing, with people setting up in random spots on the rock bluffs.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490450111/in/album-72177720335329428/" title="PXL_20260816_182336956"><img src="https://live.staticflickr.com/65535/55490450111_f9b3262a41_c.jpg" width="602" height="800" alt="PXL_20260816_182336956"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *A curious snake*
@@ -281,15 +280,13 @@ While we stopped for a break and filtered water, we debated Moskey Basin versus 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490565043/in/album-72177720335329428/" title="PXL_20260816_182801663"><img src="https://live.staticflickr.com/65535/55490565043_2184fa28af_c.jpg" width="800" height="602" alt="PXL_20260816_182801663"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *More Lake Ritchie*
 
-At the Moskey Basin/Chippewa Harbor junction, I made the call to head for Chippewa, shifting into a crush-some-miles pace. We had several of our fastest miles here, with a couple of them over 3 miles an hour. We mixed in a few brief breaks and made it to Chippewa Harbor by 6:40. Much to our disappointment, every shelter was taken by boaters, with possibly one group of hikers in the mix. A hiker couple sitting at the picnic table by the dock pointed us toward the group site, which turned out to be great! It had a large grassy area as well as a tiny beach right on the water. 
+At the Moskey Basin/Chippewa Harbor junction, I made the call to head for Chippewa, shifting into a crush-some-miles pace. We had several of our fastest miles here, with a couple of them over three miles an hour. We mixed in a few brief breaks and made it to Chippewa Harbor by 6:45. Much to our disappointment, every shelter was taken by boaters, with possibly one group of hikers in the mix. A hiker couple sitting at the picnic table by the dock pointed us toward the group site, which turned out to be great! It had a large grassy area as well as a tiny beach right on the water. 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490844480/in/album-72177720335329428/" title="PXL_20260816_202549848"><img src="https://live.staticflickr.com/65535/55490844480_fb1a8b3ee5_c.jpg" width="800" height="602" alt="PXL_20260816_202549848"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *View from our tiny beach back towards the Chippewa Harbor dock*
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55489473847/in/album-72177720335329428/" title="PXL_20260816_202608377"><img src="https://live.staticflickr.com/65535/55489473847_54a48af5d0_c.jpg" width="800" height="602" alt="PXL_20260816_202608377"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Looking out Chippewa Harbor*
-
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490623429/in/album-72177720335329428/" title="PXL_20260816_221449073"><img src="https://live.staticflickr.com/65535/55490623429_23e89d7a03_c.jpg" width="800" height="602" alt="PXL_20260816_221449073"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490622059/in/album-72177720335329428/" title="PXL_20260816_221454715"><img src="https://live.staticflickr.com/65535/55490622059_0db3649378_c.jpg" width="800" height="602" alt="PXL_20260816_221454715"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -298,7 +295,7 @@ At the Moskey Basin/Chippewa Harbor junction, I made the call to head for Chippe
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490450041/in/album-72177720335329428/" title="PXL_20260816_222346898.MP"><img src="https://live.staticflickr.com/65535/55490450041_6e6fe814e7_c.jpg" width="800" height="602" alt="PXL_20260816_222346898.MP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Golden hour at Chippewa Harbor*
 
-We took a dip, filtered water, and made dinner. A guy walking through camp recommended a spur trail up the bluff to an overlook and/or to an old schoolhouse, so after setting up tents and stashing food, I decided to check it out. The route up the rock bluff to the overlook was a little tough to follow, but cairns marked the way in several places, and the views from the top were excellent. 
+We took a dip, filtered water, and made dinner. A guy walking through camp recommended a spur trail up the bluff to an overlook and/or to an old schoolhouse, so after setting up tents and stashing food, I decided to check it out. The route up the rock bluff to the overlook was a little tough to follow, but cairns marked the way in several places, and the 360-degree views from the top were excellent. 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490623424/in/album-72177720335329428/" title="PXL_20260816_223513942"><img src="https://live.staticflickr.com/65535/55490623424_59ca4c2b21_c.jpg" width="800" height="602" alt="PXL_20260816_223513942"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -328,12 +325,12 @@ I got up around 7 AM and supplemented my breakfast with thimbleberries and raspb
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55489473657/in/album-72177720335329428/" title="PXL_20260817_104509695"><img src="https://live.staticflickr.com/65535/55489473657_522151c554_c.jpg" width="800" height="602" alt="PXL_20260817_104509695"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490566223/in/album-72177720335329428/" title="PXL_20260817_104558467"><img src="https://live.staticflickr.com/65535/55490566223_86b8eaf4eb_c.jpg" width="800" height="602" alt="PXL_20260817_104558467"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-*Old schoolhouse at Chippewa Harbor
+*Old schoolhouse at Chippewa Harbor*
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55489473627/in/album-72177720335329428/" title="PXL_20260817_104658622"><img src="https://live.staticflickr.com/65535/55489473627_c36423caef_c.jpg" width="800" height="602" alt="PXL_20260817_104658622"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490449861/in/album-72177720335329428/" title="PXL_20260817_104654479"><img src="https://live.staticflickr.com/65535/55490449861_403771a0a0_c.jpg" width="800" height="602" alt="PXL_20260817_104654479"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-*Interior of old schoolhouse
+*Interior of old schoolhouse*
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490566168/in/album-72177720335329428/" title="PXL_20260817_104819009"><img src="https://live.staticflickr.com/65535/55490566168_8b8ed292d6_c.jpg" width="800" height="602" alt="PXL_20260817_104819009"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Chippewa Harbor from shore near old schoolhouse*
@@ -355,9 +352,7 @@ We reached the junction around 12:30 and took a break there, holding off on lunc
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55489472497/in/album-72177720335329428/" title="PXL_20260817_150706489"><img src="https://live.staticflickr.com/65535/55489472497_d194364f1f_c.jpg" width="602" height="800" alt="PXL_20260817_150706489"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Home stretch into Moskey Basin*
 
-
 We dropped our stuff, jumped in for a swim, and dried off in the sun before making lunch and lounging for a while. We checked out the dock and the bluffs, then went back and set up camp properly. 
-
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490623134/in/album-72177720335329428/" title="PXL_20260817_154443257.MP"><img src="https://live.staticflickr.com/65535/55490623134_e8055403e0_c.jpg" width="800" height="602" alt="PXL_20260817_154443257.MP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -370,12 +365,12 @@ We dropped our stuff, jumped in for a swim, and dried off in the sun before maki
 *Water snake*
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490843980/in/album-72177720335329428/" title="PXL_20260817_165759097"><img src="https://live.staticflickr.com/65535/55490843980_5920ddc4dc_c.jpg" width="800" height="602" alt="PXL_20260817_165759097"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-*Shorebird*
+*Sandpiper on shore*
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490565883/in/album-72177720335329428/" title="PXL_20260817_182859545"><img src="https://live.staticflickr.com/65535/55490565883_cede874229_c.jpg" width="800" height="602" alt="PXL_20260817_182859545"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Another very curious snake (my shoe at bottom left)*
 
-We ran into the hiker couple we met back at Chippewa Harbor and spent some time lounging on the rocks by the water. Dinner was around 5:30, and we hung out on the rocks a bit longer afterward. My brother was running out of steam and turned in around 8 PM. I went exploring past the dock and found a path along the bluffs and went back out there for sunset. We had one last big day ahead: 10-11 to make it back to Rock Harbor by 2:15 PM to catch our ferry.
+We ran into the hiker couple we met back at Chippewa Harbor and spent some time lounging on the rocks by the water. Dinner was around 5:30, and we hung out on the rocks a bit longer afterward. My brother was running out of steam and turned in around 8 PM. I went exploring past the dock and found a path along the bluffs and went back out there for sunset. We had one last big day ahead: 10-11 miles to make it back to Rock Harbor by 2:15 PM to catch our ferry.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55489472467/in/album-72177720335329428/" title="PXL_20260817_210026897"><img src="https://live.staticflickr.com/65535/55489472467_5e087380d3_c.jpg" width="800" height="602" alt="PXL_20260817_210026897"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *Bluffs as clouds roll in in the evening*
@@ -393,8 +388,8 @@ We ran into the hiker couple we met back at Chippewa Harbor and spent some time 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55489473237/in/album-72177720335329428/" title="PXL_20260817_222500166"><img src="https://live.staticflickr.com/65535/55489473237_c4e9236b11_c.jpg" width="800" height="602" alt="PXL_20260817_222500166"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55489473232/in/album-72177720335329428/" title="PXL_20260817_224030902"><img src="https://live.staticflickr.com/65535/55489473232_edd0e603e4_c.jpg" width="800" height="602" alt="PXL_20260817_224030902"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-*Colors coming out as the sun sets*
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55489473232/in/album-72177720335329428/" title="PXL_20260817_224030902"><img src="https://live.staticflickr.com/65535/55489473232_edd0e603e4_c.jpg" width="800" height="602" alt="PXL_20260817_224030902"/></a><script async src="//ehttps://www.isleroyalewolf.org/s/WolfMooseReport_2026_FINAL_508-compression-2.pdfmbedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Colors coming out as the sun sets at Moskey*
 
 ## Day 6: Daisy Farm, the Tobin Harbor Trail, and the Ferry Home
 
@@ -409,13 +404,47 @@ A surprise thunderstorm rolled in out of nowhere around midnight. My right arm a
 
 The first half of the trail was easy. We kept bracing for the difficult section the mom and son pair at Lake Ritchie had warned us about yesterday. The second half did get noticeably rockier the closer we got to the Daisy Farm campsite.
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55489473147/in/album-72177720335329428/" title="PXL_20260818_101954460"><img src="https://live.staticflickr.com/65535/55489473147_ca170262fb_c.jpg" width="800" height="602" alt="PXL_20260818_101954460"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*On the trail to Daisy Farm*
+
 We reached Daisy Farm shortly before 10 AM, dried out our socks and shoes under the pavilion for a bit, and had a snack. We followed the trail down to the dock to filter water and asked a ranger for his take on the level of difficulty of the Rock Harbor Trail versus the Tobin Harbor Trail. He said if we had made it this far, either would be fine. We were surprised by how large Daisy Farm actually was, and to me it almost felt more like a state park campground. 16 shelters total, with several right down by the water. As we continued down the trail towards Rock Harbor, we started kicking around ideas for a future trip to Isle Royale to finally bring our brother-in-law out here.
 
-Past Daisy Farm we followed the Lake Superior shoreline along flat, easy trail with several small beaches, plenty of water access, plus nice views of the Rock Harbor Lighthouse and the park headquarters out on Mott Island. We also passed through an old mining area. The last mile or so got rockier and more boulder-strewn. We talked with several other hikers along the way trying to make a final call on staying on the Rock Harbor Trail the entire way versus taking a quick detour inland to follow the Tobin Harbor Trail. The closer we got to the junction, the more thoroughly spent Rock Harbor Trail hikers we saw coming the other way. That settled it for us, and we headed up the Mt. Franklin Trail.
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490622799/in/album-72177720335329428/" title="PXL_20260818_110054862"><img src="https://live.staticflickr.com/65535/55490622799_0bb6ca0918_c.jpg" width="800" height="602" alt="PXL_20260818_110054862"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*View from Daisy Farm dock*
+
+Past Daisy Farm we followed the Lake Superior shoreline along flat, easy trail with several small beaches, plenty of water access, plus nice views of the Rock Harbor Lighthouse and the park headquarters out on Mott Island. 
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490622754/in/album-72177720335329428/" title="PXL_20260818_120804900.MP"><img src="https://live.staticflickr.com/65535/55490622754_3ef27366d2_c.jpg" width="800" height="602" alt="PXL_20260818_120804900.MP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Small beach along trail with lighthouse in distance*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490843740/in/album-72177720335329428/" title="PXL_20260818_114720221"><img src="https://live.staticflickr.com/65535/55490843740_c37e25af6b_c.jpg" width="800" height="602" alt="PXL_20260818_114720221"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Rock Harbor lighthouse*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490449381/in/album-72177720335329428/" title="PXL_20260818_123933134"><img src="https://live.staticflickr.com/65535/55490449381_2c956b2ba9_c.jpg" width="800" height="602" alt="PXL_20260818_123933134"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Park headquarters on Mott Island*
+
+We also passed through an old mining area. The last mile or so got rockier and more boulder-strewn. We talked with several other hikers along the way trying to make a final call on staying on the Rock Harbor Trail the entire way versus taking a quick detour inland to follow the Tobin Harbor Trail. The closer we got to the junction, the more thoroughly spent Rock Harbor Trail hikers we saw coming the other way. That settled it for us, and we headed up the Mt. Franklin Trail.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55489472392/in/album-72177720335329428/" title="PXL_20260818_131755965"><img src="https://live.staticflickr.com/65535/55489472392_d07209cc64_c.jpg" width="602" height="800" alt="PXL_20260818_131755965"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490843655/in/album-72177720335329428/" title="PXL_20260818_131804552"><img src="https://live.staticflickr.com/65535/55490843655_82525580e1_c.jpg" width="602" height="800" alt="PXL_20260818_131804552"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Larger rocks and boulders along Rock Harbor trail*
 
 It was a short up-and-down from the Mt. Franklin trail junction to the Tobin Harbor Trail, where we chatted with a family for a few minutes. Nice, easy hiking followed the rest of the way. We stopped for an early lunch to finish off the last of our tortillas, salami, and cheese, and skipped the spur to Suzy's Cave with thoughts of the Greenstone Grill on our minds. We passed several day hikers who confirmed we would eventually come to a spur trail back into Rock Harbor.
 
-We reached Rock Harbor around 1:30, refilled water, stowed our packs in backpack storage, and headed straight for the Greenstone Grill. We enjoyed burgers, fries, and beer on the patio while watching a large sailboat come in. Heading back to the dock, we noticed a boater from Duluth that we had seen back at Chippewa Harbor was now in Rock Harbor, too. We snapped a few pictures in front of the Rock Harbor NPS sign, then made our way to the ferry dock. The captain warned us the ride back would be "spicier" than the trip out. Boarding was quick and easy. We sat in outdoor seats in the back of the boat again. True to the captain's word, we had to keep one hand on the boat any time we moved around.
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490622639/in/album-72177720335329428/" title="PXL_20260818_140837033"><img src="https://live.staticflickr.com/65535/55490622639_1a5aa7a12c_c.jpg" width="602" height="800" alt="PXL_20260818_140837033"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Easy walking on Tobin Harbor trail*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490843575/in/album-72177720335329428/" title="PXL_20260818_141057690.MP"><img src="https://live.staticflickr.com/65535/55490843575_792a020d72_c.jpg" width="800" height="602" alt="PXL_20260818_141057690.MP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Tobin Harbor*
+
+We reached Rock Harbor around 1:30, refilled water, stowed our packs in backpack storage, and headed straight for the Greenstone Grill. We enjoyed burgers, fries, and beer on the patio while watching a large sailboat come in. Heading back to the dock, we noticed a boater from Duluth that we had seen back at Chippewa Harbor was now in Rock Harbor. We snapped a few pictures in front of the Rock Harbor NPS sign, then made our way to the ferry dock. The captain warned us the ride back would be "spicier" than the trip out. Boarding was quick and easy. We sat in outdoor seats in the back of the boat again. True to the captain's word, we had to keep one hand on the boat any time we moved around.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55489472922/in/album-72177720335329428/" title="PXL_20260818_152119439"><img src="https://live.staticflickr.com/65535/55489472922_e67a57706c_c.jpg" width="800" height="602" alt="PXL_20260818_152119439"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*Celebratory lunch at the Greenstone Grill*
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55517324795/in/album-72177720335329428/" title="PXL_20260818_154220643.MP"><img src="https://live.staticflickr.com/65535/55517324795_e7b610af14_c.jpg" width="602" height="800" alt="PXL_20260818_154220643.MP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*We did it!*
 
 We got back into Copper Harbor around 6:15 PM. My brother's bag came off the ferry quickly; mine took a while longer. We headed to the car and made a 45-minute drive to Culver's in Houghton for dinner. They made a mistake with my ice cream, told me keep the first one, made another, and needless to say, we had no trouble eating everything, mistakes and all! They also gave me a certificate for a free ice cream from that location, so I guess that means I have to go back to use it! From there it was an easy drive on to a hotel in Marquette for the night. The next day we feasted at the breakfast buffet. Breaking up the drive home this way worked out really well.
 
@@ -423,11 +452,11 @@ We got back into Copper Harbor around 6:15 PM. My brother's bag came off the fer
 
 ## Lookout Louise
 
-Lookout Louise was nice, but there are comparable views in many other places on the island. It's worth it if you take the water bus, but I don't think I'd schedule a separate water taxi to go see it again, especially coupled with 4 miles of semi-bushwhacking through overgrown brush.
+Lookout Louise was nice, but there are comparable views in many other places on the island. It's worth it if you take the water bus, but I don't think I would schedule a separate water taxi to go see it again, especially coupled with four miles of semi-bushwhacking through overgrown brush.
 
 ## Lane Cove
 
-Lane Cove felt quiet and secluded, with only five tent sites, no shelters, no group sites, and no dock. Getting in the water can be a little tough as the rocks are very slick. Campsites are right on the water, but views of the cove are somewhat obscured by trees. Definitely the way to go if you arrive in Rock Harbor and want to avoid the crowds at 3 Mile or Daisy Farm.
+Lane Cove felt quiet and secluded, with only five tent sites, no shelters, no group sites, and no dock. Getting in the water can be a little tough as the rocks are very slick. Campsites are right on the water, but views of the cove are somewhat obscured by trees. Definitely the way to go if you arrive in Rock Harbor and want to avoid the crowds at Three Mile or Daisy Farm.
 
 ## Mt. Franklin
 
@@ -443,7 +472,7 @@ Worth the slight scramble upwards, keep going until the views really open up. On
 
 ## East Chickenbone
 
-Seems poorly situated, we were running low on water but chose not to bother with the lengthy spur to the shore. So many boardwalks! Almost feel off several times because the brush over the boardwalks was so overgrown. Just go to to West Chickenbone or McCargoe Cove.
+Seems poorly situated, we were running low on water but chose not to bother with the lengthy spur to the shore. So many boardwalks! Almost fell off several times because the brush over the boardwalks was so overgrown. If you are thinking about staying here, just go to to West Chickenbone or McCargoe Cove.
 
 ## McCargoe Cove
 
@@ -451,7 +480,7 @@ You really want to get a shelter here because the individual and group tent site
 
 ## Minong Mine
 
-I recommend stashing your gear at McCargoe and doing a separate trip to the Minong Mine if you want to really explore the it without being encumbered by a full pack. Worth the side trip to see the largest mine on Isle Royale. 
+Stash your gear at McCargoe and do a separate trip to the Minong Mine if you want to really explore it without being encumbered by a full pack. Worth the side trip to see the largest mine on Isle Royale. 
 
 ## Todd Harbor
 
@@ -463,19 +492,19 @@ Seemed like a nice spot. Although on an inland lake rather than Lake Superior, I
 
 ## Lake Ritchie
 
-Some really nice views of Lake Ritchie from the bluffs along the trail. It appeared full when we passed through, but it looked like the campsites would good views of the lake from their perches just up the bluff.
+Some really nice views of Lake Ritchie from the bluffs along the trail. It appeared full when we passed through, but it looked like the campsites would have good views of the lake from their perches up on the bluff.
 
 ## Chippewa Harbor
 
-We were disappointed to not get a shelter, but the group site was a solid consolation prize. The group site also puts you much close to the unmarked side trails to the old schoolhouse and path up the bluff to get 360-degree views of the area. That said, the shelters were situated on top of a rocky, open area that likely make for great stargazing. Very popular site for powerboaters and paddlers in addition to hikers. One option for an easy trip would be to water taxi from Rock Harbor to Chippewa Harbor and hike back to Rock Harbor, stopping at Moskey Basin, Daisy Farm, and 3 Mile along the way.
+We were disappointed to not get a shelter, but the group site just about made up for it. The group site also puts you much closer to the unmarked side trails to the old schoolhouse and path up the bluff to get 360-degree views of the area. That said, the shelters were situated on top of a rocky, open area that likely makes for great stargazing. Very popular site for boaters and paddlers in addition to hikers. One option for an easy trip would be to water taxi from Rock Harbor to Chippewa Harbor and hike back to Rock Harbor, stopping at Moskey Basin, Daisy Farm, and 3 Mile along the way.
 
 ## Moskey Basin
 
-The absolute highlight of our trip! As much as many of the other campsites feel cozy and tucked-in, Moskey blew me away with its size and grag. Grndeur. It's a huge campsite, but in a good way. Even though it's very popular, the sites are spaced out enough that it does not feel like you are on top of other people. The shelters are right on the water and have amazing views. We were not lucky enough to get a shelter, but tent site 5 was still pretty good. Great swimming, huge rock bluffs to explore, and the way the landscape is laid out makes it possible to see both sunsets and sunrises. Everyone should stay here at least once, if not every time you visit the island!
+The absolute highlight of our trip! As much as many of the other campsites feel cozy and tucked-in, Moskey blew me away with its size and grandeur. It's a huge campsite, but in a good way. Even though it's very popular, the sites are spaced out enough that it does not feel like you are on top of other people. The shelters are right on the water and have amazing views. We were not lucky enough to get a shelter, but tent site 5 was still pretty good. Great swimming, huge rock bluffs to explore, and the way the landscape is laid out makes it possible to see both sunsets and sunrises. Everyone should stay here at least once, if not every time you visit the island!
 
 ## Daisy Farm
 
-We took a quick break here and refilled water down by the dock. Good place to maximize your odds of getting a shelter. Felt more like a standard state park campground than most places on Isle Royale (had a pavilion, info boards, small sandy beach, etc.) It had mostly emptied out by the time we arrived, I can imagine it feels even more like a regular campground when it is bustling with people. Several shelters were right down by the water. 
+We took a quick break here and refilled water down by the dock. Good place to maximize your odds of getting a shelter. Felt more like a standard state park campground than most places on Isle Royale (had a pavilion, info boards, small sandy beach, etc.) It had mostly emptied out by the time we arrived, I can imagine it feels even more like a regular campground when it is bustling with people.
 
 
 ## Greenstone Grill
@@ -484,8 +513,16 @@ If you make it back to Rock Harbor in time, the Greenstone Grill serves sandwich
 
 ## Food Storage Lockers
 
-Although the food storage lockers are not reflected on any published or campground maps, we never had any problem finding them. Just explore each campsite a bit and you will find them centrally located somewhere. Many campsites have more than one.
+Although the food storage lockers are not reflected on any published or campground maps, we never had any problem finding them. Just look around each campsite a bit and you will find them centrally located somewhere. Many campsites have more than one.
 
 # Closing Thoughts
 
-Six days was enough to string together a real loop through the middle of the island — Greenstone Ridge out, Minong Ridge to Windigo and back, Indian Portage down through the Chickenbones and Lake Richie, and the lakeshore trails back into Rock Harbor — without ever feeling rushed. The thimbleberries alone were worth the trip; we ate breakfast off the trail more mornings than not. Mosquitoes were the one constant complaint, worst whenever the wind died down at camp, and the overgrown stretches around East Chickenbone and the early Greenstone Ridge were the low points of an otherwise excellent route. Mt. Franklin, Mt. Ojibway, and the bluffs above Chippewa Harbor were the clear highlights, and McCargoe Cove and Moskey Basin were both worth the crowds. Already thinking about what a longer trip out to Windigo and back the long way would look like.
+It was interesting to compare this trip to my [first trip to Isle Royale](https://mattbanderson.com/isle-royale-feldtmann-loop-trail/) to do the Feldtmann Loop. That trip was my first backpacking trip longer than one night, and a lot has changed in the four years since that trip.
+
+Most noticeably, Isle Royale itself has changed. In 2022, there were [more than 2,000 moose](https://www.isleroyalewolf.org/s/WolfMooseReport_2026_FINAL_508-compression-2.pdf) on the island. Since then, the population has plummeted to around 500. My recollection from 2022 is that we saw moose sign (typically droppings) consistently throughout the trails. While we saw some droppings and bedded down areas this trip, I would say a ~75% reduction sounds about right and matches up with the drop in population.
+
+The flip side of that is that the wolf population has boomed from 10-15 in 2022 to nearly 40 today. Unfortunately, this is increasing the frequency of wolf-human interactions. Prior to our trip [Duncan Narrows was closed](https://www.nps.gov/isro/learn/news/isle-royale-closes-duncan-narrows-campground-until-end-of-july.htm) and [Three Mile was shelter-only](https://www.nps.gov/isro/learn/news/isle-royale-closes-tent-and-group-campsites-at-three-mile-campground.htm) (i.e. no tents) through the end of July. Ten days after we returned, Three Mile, Daisy Farm, Moskey Basin and Caribou Island were [closed to tent camping](https://www.nps.gov/isro/learn/news/isle-royale-closes-tent-and-group-campsites-at-four-campgrounds.htm) for the rest of the season. Selfishly, I was hoping this increase in wolf activity might increase our chances of seeing a wolf, but we did not see any, just a couple foxes. Thinking more long-term, I am very concerned that improper food storage leading to more wolf-human interactions is going to result in more closures and negatively impact the overall experience on the island.
+
+This trip felt like we saw many more people than the trip four years ago. Some of this is simply due to visiting some of the most popular campgrounds on the more "developed" northeast end of the island. We also visited a couple weeks earlier in August, which meant we were there before most schools started instead of after. Instead of being one of the first groups to arrive each day, we often found the campsites already close to full, even if we got there in mid-afternoon.
+
+This was my longest backpacking trip by both length of time and mileage. Based on the experience I gained going on other trips over the last few years, I felt very prepared for this one. I was very happy with my gear and was able to move quickly and lightly. By the end of the trip, I did not feel worn down at all. I felt like if I had a resupply available, I could keep going for another week or more. Maybe next time I will go for a full circumnavigation of the island!
