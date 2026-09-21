@@ -7,11 +7,11 @@ date: '2026-09-20 18:05:00'
 
 # The Good Place
 
-Isle Royale National Park sits in Lake Superior, closer to Ontario, Canada than to the Michigan mainland it technically belongs to. The Ojibwe name for the island is "Minong" (pronounced "MEE-nong"), often translated as "the good place." Getting there means taking a seaplane, a ferry, or private boat. Once you arrive, cell service is extremely limited and nothing to resupply from beyond the minimal collection of items the camp stores on either end of the island stock. It is consistently one of the least-visited national parks by raw numbers, and yet one of the most-revisited by the people who actually make the trip.
+Isle Royale National Park is in Lake Superior, closer to Ontario, Canada than to the Michigan mainland it technically belongs to. The Ojibwe name for the island is "Minong" (pronounced "MEE-nong"), which is often translated as "the good place." Reaching the island requires taking a seaplane, a ferry, or private boat. Once you arrive, cell service is extremely limited and there is nothing to resupply from beyond the minimal collection of items the camp stores on either end of the island stock. It is consistently one of the least-visited national parks, and yet one of the most-revisited by the people who actually make the trip.
 
 # Getting There
 
-The two options for reaching the island are seaplane and ferry. Since we took a seaplane on our [previous trip](https://mattbanderson.com/isle-royale-feldtmann-loop-trail/) in 2022, we decided to take the *Isle Royale Queen* [ferry](https://isleroyale.com/) out of Copper Harbor this time. The crossing to Rock Harbor takes about 3.5 hours. Loading was easy, and conditions were as good as they could get--I did not think it was possible for Lake Superior to be so calm.
+The two main options for reaching the island are seaplane and ferry. Since we took a seaplane on our [previous trip](https://mattbanderson.com/isle-royale-feldtmann-loop-trail/) in 2022, we decided to take the *Isle Royale Queen* [ferry](https://isleroyale.com/) out of Copper Harbor this time. The crossing to Rock Harbor takes about 3.5 hours. Loading was easy, and conditions were as good as they could get. I did not think it was possible for Lake Superior to be so calm!
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490452596/in/album-72177720335329428" title="PXL_20260813_123029385.MP"><img src="https://live.staticflickr.com/65535/55490452596_feeb17229c_c.jpg" width="800" height="602" alt="PXL_20260813_123029385.MP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *The still waters of Superior*
@@ -121,7 +121,7 @@ We stopped for lunch at the Mt. Ojibway fire tower and dried out gear in the sun
 *Looking south to Moskey Basin*
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490451546/in/album-72177720335329428/" title="PXL_20260814_165902940"><img src="https://live.staticflickr.com/65535/55490451546_d159293e76_c.jpg" width="800" height="602" alt="PXL_20260814_165902940"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-*Looking southwest from the first tower*
+*Looking southwest from the fire tower*
 
 At the junction of the Greenstone and Daisy Farm trails, we met a group of four coming from East Chickenbone, one of them hauling a case of Pabst Blue Ribbon beer strapped to his pack. They told us about an upcoming viewpoint, which we made a point to check out. Make sure to continue past the first view until it really opens up. 
 
@@ -209,7 +209,7 @@ Eventually the trail settled into forest and turned surprisingly cruisy. Much ni
  We foraged plenty more thimbleberries and spotted a shed moose antler lying beside the trail. The last half-mile threw one more battle with head-high thimbleberries at us before we made it to Todd Harbor around 3 PM. Much to our surprise, the broken-backpack crew we helped that morning was already there, their field repairs holding up. We never saw them on the trail, but they must have passed us when we were exploring the mine. 
  
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55489474357/in/album-72177720335329428/" title="PXL_20260815_171811224"><img src="https://live.staticflickr.com/65535/55489474357_d02af6a5bc_c.jpg" width="800" height="602" alt="PXL_20260815_171811224"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-*Todd Harbor*p to
+*Todd Harbor*
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55490844880/in/album-72177720335329428/" title="PXL_20260815_220831127"><img src="https://live.staticflickr.com/65535/55490844880_597d644c6b_c.jpg" width="800" height="602" alt="PXL_20260815_220831127"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 *More views of Todd Harbor*
