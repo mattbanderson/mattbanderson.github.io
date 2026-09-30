@@ -93,7 +93,7 @@ Chippewa Harbor is a hike-in/hike-out spur, so it could be dropped if needed, bu
 
 The following describes recommended gear for the trip. Tailor to your personal needs/comfort as desired.
 
-Here is my in-progress [gear list](https://lighterpack.com/r/sgkg6z) with specific items.
+Here is my in-progress [gear list](https://lighterpack.com/r/hya9ux) with specific items.
 
 ### Do I need a Bear Canister?
 
