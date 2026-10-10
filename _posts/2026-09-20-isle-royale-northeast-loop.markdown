@@ -129,7 +129,7 @@ At the junction of the Greenstone and Daisy Farm trails, we met a group of four 
 *View from the viewpoint*
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/200355527@N06/55518736813/in/album-72177720335329428/" title="IMG_3571"><img src="https://live.staticflickr.com/65535/55518736813_4f37a9d0e5_c.jpg" width="600" height="800" alt="IMG_3571"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-*Me admiring the view*
+*Admiring the view*
 
 Not long after, we passed through a section that looked like it might have been rerouted, marked with ribbons and cairns instead of a clear, well-worn trail.
 
